@@ -386,7 +386,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Light Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/99548)\
 [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739)\
 [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114)\
-[Screen Space Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/93209)
+[Screen Space Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/93209)\
+[Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
 
 ## Texture and Mesh (Late Order)
 [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.\
