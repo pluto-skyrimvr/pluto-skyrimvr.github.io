@@ -1,3 +1,5 @@
+[Change Log](https://github.com/pluto-skyrimvr/pluto-skyrimvr.github.io/commits/main/)
+
 # Introduction
 The modlist follows the actual load order of the mods. i.e. the files of the mods in the top will be overwritten by the files of the mods that are placed below. Consider it as how mods are placed in the left panel of the Mod Organizer 2. The plugin(esp files) load order should be sorted by LOOT(Sort button in Mod Organizer 2).
 
