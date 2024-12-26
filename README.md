@@ -381,6 +381,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Shaders
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)\
+[Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)\
 [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502)\
 [Grass Collision](https://www.nexusmods.com/skyrimspecialedition/mods/87816)\
 [Light Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/99548)\
@@ -522,7 +523,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804): Replaced by A Clear Map of Skyrim and Other Worlds.\
   [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926): Replaced by Synthesis patch.\
   [Armor Rating Redux VR](https://www.nexusmods.com/skyrimspecialedition/mods/30727): The latest combat mods have their own armor rating mechanism. Using this mod will break the combat mod's intended design.\
-  [Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473): No longer needed with the latest Community Shaders.\
   [Azurite Mists](https://www.nexusmods.com/skyrimspecialedition/mods/106559): Removed because the mod messes with the sky meshes in VR.\
   [Cathedral Snow (SSE or VR)](https://www.nexusmods.com/skyrimspecialedition/mods/18033): Melted snow mesh/texture looks broken.\
   [Complex Parallax Materials](https://www.nexusmods.com/skyrimspecialedition/mods/95134): No longer needed with the latest Community Shaders.\
