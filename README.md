@@ -90,7 +90,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000): Choose VR, ESL, BSA in the installer.
 
 ## Skyrim Particle Patch
-[Particle Patch for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/65720): Download the Main. Choose Loose Files, Particle Patch for ENB, Yes for Light Shafts, Remove for Fake Light Glow and Yes for Custom textures in the installer.
+[Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65720): Download the Main. Choose BSA, Particle Patch, No for Light Shafts, Remove for Fake Light Glow and Yes for Custom textures in the installer.
 
 ## Weather
 [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers II in the Main and Darker nights in the optional files.\
