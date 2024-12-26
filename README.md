@@ -16,7 +16,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## Core
 [SKSE VR](https://skse.silverlock.org/)\
 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115): Improves vanilla audio quality greatly including voices.\
-[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=209150&game_id=1704): Download v4.2.5b (pre-AE version).\
+[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150): Download v4.2.5b (pre-AE version).\
 [Skyrim VR USSEP patch for USSEP 4.2.5b](https://www.nexusmods.com/skyrimspecialedition/mods/91475)\
 [SkyUI VR](https://www.nexusmods.com/skyrimspecialedition/mods/91535)\
 [SkyUI VR - Disable New Item Sort](https://www.nexusmods.com/skyrimspecialedition/mods/110564)\
