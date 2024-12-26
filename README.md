@@ -38,6 +38,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## Survival
 [Dynamic Campsites](https://www.nexusmods.com/skyrimspecialedition/mods/106932)\
 [Dynamic Campsites - 2K Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/136009)\
+[Dynamic Campsites - Blackreach Addon](https://www.nexusmods.com/skyrimspecialedition/mods/123707): Download ESPFE version.\
 [iNeed - Food Water and Sleep - Continued](https://www.nexusmods.com/skyrimspecialedition/mods/19390): Download SE version in the Main. Choose None for Extended and choose Dangerous Diseases in the installer.\
 [You Hunger SE](https://www.nexusmods.com/skyrimspecialedition/mods/9143)
 
