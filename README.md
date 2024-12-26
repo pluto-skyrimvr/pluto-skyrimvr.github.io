@@ -686,12 +686,12 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 ## Recommended Initial Mod Settings
 
 1.  When the game starts, create your chracter and wait until the mod initialization process completes. The scrolling notification messages on the top left screen will stop in 1-2 mins approximately.
-1.  Save the game.
-1.  Load the saved game.
-1.  Open mod settings and change the following options.
-1.  Enable SunHelm. Close the mod settings and wait until it finishes loading. Re-open the mod settings, disable Tutorial and turn off the Widget.
-1.  Follower Framework(Nether's): Set town only sandbox, disable follower gifts.
-1.  SkyUI: Disable effect UI widget.
+1.  Save the game just in case.
+1.  Open the mod settings and change the following options.
+1.  (Optional) Follower Framework: Set town only sandbox. Disable follower gifts.
+1.  (Optional) OStim Standalone: Go to Excitement. Disable UI bars.
+1.  SkyUI: Disable the effect UI widget.
+1.  SunHelm: Enable the mod, close the settings and wait until it finishes loading. Re-open the mod settings, disable the Tutorial and turn off the Widget.
 1.  Save the game.
 1.  Load the saved game.
 1.  Enjoy your game.
