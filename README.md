@@ -39,7 +39,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Dynamic Campsites](https://www.nexusmods.com/skyrimspecialedition/mods/106932)\
 [Dynamic Campsites - 2K Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/136009)\
 [Dynamic Campsites - Blackreach Addon](https://www.nexusmods.com/skyrimspecialedition/mods/123707): Download ESPFE version.\
-[iNeed - Food Water and Sleep - Continued](https://www.nexusmods.com/skyrimspecialedition/mods/19390): Download SE version in the Main. Choose None for Extended and choose Dangerous Diseases in the installer.\
+[SunHelm Survival and needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414): Choose Diseases, SkyrimVR in the installer.\
+[Nordic UI Icons for Sunhelm and iNeed Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/61823): Choose SunHelm, no for widget addon in the installer. This mod is a workaround to fix SunHelm's cold widget glitch that messes with SkyUI VR.\
 [You Hunger SE](https://www.nexusmods.com/skyrimspecialedition/mods/9143)
 
 ## Adult Contents
@@ -294,8 +295,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Dragon War NG dll](https://www.nexusmods.com/skyrimspecialedition/mods/120506)\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Pseudo Physical Weapon Collision and Parry AE SE VR](https://www.nexusmods.com/skyrimspecialedition/mods/100781): Download VR version.\
-[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, iNeed, Carriage and Ferry Travel Overhaul, Immersive Wenches) in the installer.\
-[NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.\
+[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
+[NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
 
 ## Animation
 [Expressive Facial Animation -Female Edition-](https://www.nexusmods.com/skyrimspecialedition/mods/19181)\
@@ -503,8 +504,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409): Download VR version.\
 [Cooking Categories Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/84875)\
 [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469): Choose Lite version, Fruits in the installer.\
-[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose auto-selected(Base FLM INIs, [USSEP] + [default], iNeed, USSEP, Alternate Start) in the installer.\
-[Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529): Choose auto-selected(Cooking Categories Improvement) in the installer.\
+[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose auto-selected(Base FLM INIs, [USSEP] + [default], SunHelm, USSEP, Alternate Start) in the installer.\
+[Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529): Choose auto-selected(Cooking Categories Improvement, SunHelm) in the installer.\
 [The Handy Icon Collection Collective](https://www.nexusmods.com/skyrimspecialedition/mods/90508)\
 [B.O.O.B.I.E.S (aka Immersive Icons)](https://www.nexusmods.com/skyrimspecialedition/mods/89241): Choose Core Files and TAWOBA, TEWOBA, Inigo, Interesting NPCs, Nether's Follower Framework, Relationship Dialogue Overhaul moduels(auto-selected) in the installer.\
 [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/89823): Choose Colorful Food in the installer.\
@@ -547,6 +548,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [Improved Atmosphere Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44247): It causes horizon seam issue when used with Azurite Weather.\
   [Improved Candleglow Lights for the Light Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/101250): Replaced by Optimized ENB Light Meshes.\
   [Improved Clouds Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44103): It causes horizon seam issue when used with Azurite Weather.\
+  [iNeed - Food Water and Sleep - Continued](https://www.nexusmods.com/skyrimspecialedition/mods/19390): It overwrites Simplicity of Sea water records and there is no patch. Also, how it works is outdated.\
   [LLF Particle Lights instead of Fake Glow](https://www.nexusmods.com/skyrimspecialedition/mods/99768): Replaced by Optimized ENB Light Meshes.\
   [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199): Replaced by NPCs Learn to Aim.\
   [Locational Damage SKSE VR](https://www.nexusmods.com/skyrimspecialedition/mods/26447): It makes the game too easy.\
@@ -610,7 +612,6 @@ aAxeRSCtweaks.esp
    1. CellEncounterLevelsInName
    1. CellEditorIDFix
    1. nodragonlods
-   1. WaterDoesDamagePatcher
    1. oppositeanimationdisabler
    1. npcenchantfix
    1. spellabsorbfix
@@ -688,8 +689,8 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 1.  Save the game.
 1.  Load the saved game.
 1.  Open mod settings and change the following options.
+1.  Enable SunHelm. Close the mod settings and wait until it finishes loading. Re-open the mod settings, disable Tutorial and turn off the Widget.
 1.  Follower Framework(Nether's): Set town only sandbox, disable follower gifts.
-1.  iNeed: Disable UI widget.
 1.  SkyUI: Disable effect UI widget.
 1.  Save the game.
 1.  Load the saved game.
