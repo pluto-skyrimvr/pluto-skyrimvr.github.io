@@ -165,7 +165,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [RUSTIC MOUNTAINS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4896)
 
 ## Water
-[Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182): Download the Main. Don't choose any options in the installer.
+[Simplicity of Sea - Water Mod with ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520): Choose 4K defaultwater.dds, Include Water Tweaks in the installer.
 
 ## Body
 [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended installation, XPMSE latest, None for everything else, Schlong of Skyrim patch in the installer. Delete SOSRaceMenu.esp.\
@@ -556,6 +556,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [MorrowLoot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058): Loots are predictable. Open World Loot's randomness works better for replayability in my opinion.\
   [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/1763): Synthesis Archery patch covers the same tweak.\
   [Plockton's Culling Data Glitch Fix for Square Holes in the Ocean](https://www.nexusmods.com/skyrimspecialedition/mods/24791): Redundant because DynDOLOD 3 fixes the problem.\
+  [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182): The water LOD looks terrible with Community Shader.
   [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536): Removed because of compatibility issues with lighting mods.\
   [Remove Blurry Snowflakes](https://www.nexusmods.com/skyrimspecialedition/mods/38358): The same fix is included in Azurite Weather.\
   [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192): Its lighting is too dim with Community Shader LLF.\
@@ -610,7 +611,6 @@ aAxeRSCtweaks.esp
    1. CellEditorIDFix
    1. nodragonlods
    1. WaterDoesDamagePatcher
-   1. Realistic-Water-Two-Patcher
    1. oppositeanimationdisabler
    1. npcenchantfix
    1. spellabsorbfix
