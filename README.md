@@ -18,7 +18,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115): Improves vanilla audio quality greatly including voices.\
 [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=209150&game_id=1704): Download v4.2.5b (pre-AE version).\
 [Skyrim VR USSEP patch for USSEP 4.2.5b](https://www.nexusmods.com/skyrimspecialedition/mods/91475)\
-[SkyUI VR](https://github.com/Odie/skyui-vr/releases)\
+[SkyUI VR](https://www.nexusmods.com/skyrimspecialedition/mods/91535)\
 [SkyUI VR - Disable New Item Sort](https://www.nexusmods.com/skyrimspecialedition/mods/110564)\
 [Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): Download both Main files. Use Root Builder for Part 2.\
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch, RaceMenu ESL Patch.\
