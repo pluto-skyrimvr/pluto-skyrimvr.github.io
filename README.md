@@ -615,6 +615,7 @@ aAxeRSCtweaks.esp
    1. oppositeanimationdisabler
    1. npcenchantfix
    1. spellabsorbfix
+   1. speedandreachfixes
    1. MortalEnemies-Patcher: Set commitment mode to "RivalRemix".
    1. Another-Archery-Patcher
    1. AOSISCSoundPatcher
