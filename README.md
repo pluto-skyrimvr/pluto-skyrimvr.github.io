@@ -10,8 +10,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## Mod Organizer 2 Plugins
 [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720): To keep the original Skyrim VR directory clean, you should start using Root Builder.\
 [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813): (Optional) You can compare the differnce between 3D meshes easily.\
-[NIF Preview DLL Fix](https://github.com/aglowinthefield/modorganizer-preview_nif/releases): The original DLL from NIF Preview is outdated and does not work with the latest Mod Organizer 2. Download preview_nif.dll.
-[Bethesda Plugin Manager for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/111236): (Optional) You can see the plugin record conflicts easily.
+[NIF Preview DLL Fix](https://github.com/aglowinthefield/modorganizer-preview_nif/releases): The original DLL from NIF Preview is outdated and does not work with the latest Mod Organizer 2. Download preview_nif.dll.\
+[Bethesda Plugin Manager for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/111236): (Optional) You can see the plugin record conflicts easily.\
 [Bethesda Plugin Manager for Mod Organizer DLL Fix](https://www.mediafire.com/file/mi811ntoaswxb1f/bsplugins.dll/file): The original DLL is outdated and does not work with the latest Mod Organizer 2.
 
 # Mod List
