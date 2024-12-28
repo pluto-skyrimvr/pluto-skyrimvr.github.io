@@ -238,7 +238,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Kalilies NPCs - Salt and Wind retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
 
 ## Creatures
-[Bellyaches Animal and Creature Pack Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/70493): Download the Main. Choose Default Replacement in the installer.\
+[Bellyaches Animal and Creature Pack Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/70493): Download the Main and Release Candidate. For the Main, choose Default Replacement in the installer. For the RC, choose Highland Cow - Core Files in the installer.\
 [HD Reworked Dragons Collection 4K](https://www.nexusmods.com/skyrimspecialedition/mods/36038)\
 [Draugr.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5848)\
 [Dragon.Priest.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/4974)\
