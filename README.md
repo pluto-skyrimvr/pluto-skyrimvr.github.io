@@ -160,6 +160,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Frankly HD Markarth - The White City Redux](https://www.nexusmods.com/skyrimspecialedition/mods/18050)\
 [Mrf's Riften](https://www.nexusmods.com/skyrimspecialedition/mods/42737): Download 4K version.\
 [Mrf's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/65256): Download 4K version and Parallax Textures.\
+[Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761): Download the Parallax version.\
 [Arri's Snow Elf Ruins Retexture Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/7292)\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
 [The Halls of the Greybeards - a High Hrothgar Retexuring](https://www.nexusmods.com/skyrimspecialedition/mods/22672): Download the dark version.\
