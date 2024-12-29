@@ -207,7 +207,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Interesting NPCs - Zora Fair-Child voice enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/27448): Zora's voice is hard to listen without this.\
 [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858)\
 [Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/595): Download the main file.\
-[Immersive Wenches for OStim REDUX](https://www.nexusmods.com/skyrimspecialedition/mods/69419): Choose Default Pricing in the installer.
+[Immersive Wenches for OStim REDUX](https://www.nexusmods.com/skyrimspecialedition/mods/69419): Choose Default Pricing in the installer.\
+[New posters for Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/79490): Download the Main.
 
 ## NPC Overhaul
 [High Poly Expressive NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/41107): Download Nordic Faces version and HPENPC - Interesting NPCs.\
