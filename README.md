@@ -115,7 +115,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659): Install Lite version.\
 [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388)\
 [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027)\
-[Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download and install the main file. Delete "meshes/clutter/hay/" directory. This mod's hay and hayscatter meshes cause flickering in VR.\
+[Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download the Main.\
 [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, Walkway Wall Fix SMIM, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
 
 ## Texture and Mesh (Clutter)
