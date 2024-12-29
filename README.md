@@ -366,14 +366,14 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Visual FX
 [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357): Download the main file. Choose default options and SPID compatible in the installer.\
 [Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501)\
-[Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024)\
-[Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817): Choose No ENB Light, 4x resolution, Realistic Hue, 1x size, frost meshes patch in the installer.\
 [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316): Choose No ENB Light, 4x resolution, Normal glow, Realistic Hue, 1x size, Vanilla log, no patch in the installer.\
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, Standard, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers in the installer.\
 [Miscellaneous Embers XD Patches](https://www.nexusmods.com/skyrimspecialedition/mods/50883): Download Campfire patch.\
 [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456)\
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
+[Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817): Choose No ENB Light, 4x resolution, Realistic Hue, 1x size, frost meshes patch in the installer.\
+[Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024)\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
 [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
 [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407)\
