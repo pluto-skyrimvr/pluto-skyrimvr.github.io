@@ -365,7 +365,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Visual FX
 [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357): Download the main file. Choose default options and SPID compatible in the installer.\
 [Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501)\
-[Miscellaneous Embers XD Patches](https://www.nexusmods.com/skyrimspecialedition/mods/50883): Download Campfire patch.\
 [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456)\
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
