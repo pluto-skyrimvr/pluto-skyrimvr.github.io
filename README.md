@@ -15,6 +15,10 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Bethesda Plugin Manager for Mod Organizer DLL Fix](https://www.mediafire.com/file/mi811ntoaswxb1f/bsplugins.dll/file): The original DLL is outdated and does not work with the latest Mod Organizer 2.
 
 # Mod List
+
+## OpenComposite
+[Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main. Use Root builder. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to use its INI if you have to name your character. I do not mind personally.
+
 ## Core
 [SKSE VR](https://skse.silverlock.org/)\
 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115): Improves vanilla audio quality greatly including voices.\
