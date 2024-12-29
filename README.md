@@ -56,6 +56,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Amorous Adventures for Ostim](https://www.nexusmods.com/skyrimspecialedition/mods/48912)\
 [Amorous Adventures for OStim Standalone - Patch and Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/69248)\
 [Amorous Adventures for Ostim - Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/90570)\
+[Amorous Adventures OStim Standalone - OStim Sequences](https://www.nexusmods.com/skyrimspecialedition/mods/106773): Download the Main and Vampire Fix.\
 [Amorous Adventures Revoiced Complete](https://www.nexusmods.com/skyrimspecialedition/mods/127289)
 
 ## Adult Animations
