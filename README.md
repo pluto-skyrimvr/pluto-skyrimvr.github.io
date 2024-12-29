@@ -128,9 +128,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Ruins Clutter Improved - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/21031)\
 [Forgotten Retex Project](https://www.nexusmods.com/skyrimspecialedition/mods/7849)\
 [Misc Retexture Project](https://www.nexusmods.com/skyrimspecialedition/mods/13578): Download the main file, Retextured SMIM ingredients.\
-[RUSTIC CLUTTER COLLECTION - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5795): Download 2K version.\
-[RUSTIC COOKING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/6142)\
-[PELTAPALOOZA - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5442)\
 [RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436)
 
 ## Texture and Mesh (Armor and Clothing)
@@ -140,14 +137,11 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): The best looking clothing texture mod.
 
 ## Texture and Mesh (Misc)
-[JS Shrines of the Divines SE](https://www.nexusmods.com/skyrimspecialedition/mods/33394): Download and install 2K version.\
 [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901)\
 [CC's HQ Roadsigns SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2778): Download HD.\
 [SD's Farmhouse Fences SE](https://www.nexusmods.com/skyrimspecialedition/mods/38912): Download 2k Farmhouse Fences SE Version 2.\
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Talos statue looks awkward without this mod.\
 [RUSTIC WINDOWS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1937)\
-[RUSTIC FURNITURE - SPECIAL EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/17228): Download 2K SMIM version.\
-[RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485)\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [Circlet USSEP Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/35576): Download "Gemling Queen Jewelry SE USSEP Circlet Fix".\
 [Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.\
