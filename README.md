@@ -112,7 +112,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Texture and Mesh (Base)
 [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850): Download "Basecoat - Textures only" 1.0 in Old Files section.\
-[aMidianBorn Buildings and Landscapes SE](https://www.nexusmods.com/skyrimspecialedition/mods/38019): Download BSA 4K version.\
 [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659): Install Lite version.\
 [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388)\
 [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027)\
@@ -127,8 +126,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [RUSTIC CLUTTER COLLECTION - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5795): Download 2K version.\
 [RUSTIC COOKING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/6142)\
 [PELTAPALOOZA - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5442)\
-[RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436)\
-[Awesome Potions Simplified by Revoith](https://www.nexusmods.com/skyrimspecialedition/mods/57607)
+[RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436)
 
 ## Texture and Mesh (Armor and Clothing)
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
@@ -145,14 +143,10 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Talos statue looks awkward without this mod.\
 [RUSTIC WINDOWS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1937)\
 [RUSTIC FURNITURE - SPECIAL EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/17228): Download 2K SMIM version.\
-[RUSTIC SOUL GEMS](https://www.nexusmods.com/skyrimspecialedition/mods/5785): Download FOMOD version. Choose 2K, Unsorted in the installer.\
 [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485)\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [Circlet USSEP Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/35576): Download "Gemling Queen Jewelry SE USSEP Circlet Fix".\
-[Wall mounted dead animals fixes](https://www.nexusmods.com/skyrimspecialedition/mods/58511)\
-[JS Purses and Septims SE](https://www.nexusmods.com/skyrimspecialedition/mods/37306): Choose 1K for textures, Vanilla Overwrite for meshes in the installer.\
-[Smoking Torches and Candles](https://www.nexusmods.com/skyrimspecialedition/mods/8607): Choose Classic, None for Smoking Candles, ESPFE in the installer. Candle smoke is too much in my opinion.\
-[Medieval Silverworks](https://www.nexusmods.com/skyrimspecialedition/mods/23938): Download the Main.
+[Smoking Torches and Candles](https://www.nexusmods.com/skyrimspecialedition/mods/8607): Choose Classic, None for Smoking Candles, ESPFE in the installer. Candle smoke is too much in my opinion.
 
 ## Landscape and Buildings
 [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954): Choose fat ESP, Full Install Brown Tundra, Really Blended Roads in the installer.\
@@ -160,13 +154,15 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Cathedral - 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032)\
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
 [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728): Choose Markarth Fixed AF(parallax) in the installer.\
-[Frankly HD Markarth - The White City Redux](https://www.nexusmods.com/skyrimspecialedition/mods/18050)\
-[Mrf's Riften](https://www.nexusmods.com/skyrimspecialedition/mods/42737): Download 4K version.\
 [Mrf's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/65256): Download 4K version and Parallax Textures.\
 [Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761): Download the Parallax version.\
-[Arri's Snow Elf Ruins Retexture Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/7292)\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
 [The Halls of the Greybeards - a High Hrothgar Retexuring](https://www.nexusmods.com/skyrimspecialedition/mods/22672): Download the dark version.\
+[Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 2K version.\
+[Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
+[Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
+[Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 4K version.\
+[Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main and Texture Pack in the Optional Files.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
@@ -348,7 +344,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746)\
 [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138)\
 [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130)\
-[Apothecary and Awesome Potions Simplified - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/111360)\
 [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882): Download VR version.\
 [Mealtime - A simple ESO inspired Food Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30128)
 
@@ -380,7 +375,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
-[Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 20x grindstone and 2x impact effects.\
+[Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
 [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407)\
 [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): Choose Special Edition in the installer.\
 [Frozen Electrocuted Combustion VR](https://www.nexusmods.com/skyrimspecialedition/mods/59118)
@@ -391,7 +386,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Shaders
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)\
-[Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473)\
 [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502)\
 [Grass Collision](https://www.nexusmods.com/skyrimspecialedition/mods/87816)\
 [Light Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/99548)\
@@ -401,6 +395,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
 
 ## Texture and Mesh (Late Order)
+[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 2k in the Main and Fixes in the Updates.\
 [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.\
 [Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.
 
