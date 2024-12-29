@@ -259,9 +259,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Savage Bear](https://www.nexusmods.com/skyrimspecialedition/mods/16343)\
 [Gritty Goats](https://www.nexusmods.com/skyrimspecialedition/mods/26665)\
 [RUSTIC SPRIGGAN - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18107)\
-[HD Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/23262)\
-[Realistic Skin And Hair Shaders - Giants](https://www.nexusmods.com/skyrimspecialedition/mods/15511)\
-[Realistic Skin Shaders - Falmer and Hagravens](https://www.nexusmods.com/skyrimspecialedition/mods/16310)
+[HD Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/23262)
 
 ## Armor and Weapons
 [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994): Choose 2K(default), LeanWolf's Better-shaped Weapons. Do not choose WACCF_BashedPatchLvlListFix.esp in the installer.\
