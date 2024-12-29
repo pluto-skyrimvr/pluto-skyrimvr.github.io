@@ -242,15 +242,15 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Creatures
 [Bellyaches Animal and Creature Pack Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/70493): Download the Main and Release Candidate. For the Main, choose Default Replacement in the installer. For the RC, choose Highland Cow - Core Files in the installer.\
 [HD Reworked Dragons Collection 4K](https://www.nexusmods.com/skyrimspecialedition/mods/36038)\
-[Draugr.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5848)\
-[Dragon.Priest.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/4974)\
-[Giant.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/6179)\
-[Mammoth.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/6127)\
-[SABRECAT.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/5303)\
-[Wispmother.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/7638)\
-[Hagraven.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/7679)\
-[Falmer.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/17224)\
-[Troll.by.Kajuan](https://www.nexusmods.com/skyrimspecialedition/mods/4682)\
+[Draugr](https://www.nexusmods.com/skyrimspecialedition/mods/5848): Download 4K-2K version.\
+[Dragon Priest](https://www.nexusmods.com/skyrimspecialedition/mods/4974): Download 4K-2K version. Choose Full(Highly suggested) in the installer.\
+[Giant](https://www.nexusmods.com/skyrimspecialedition/mods/6179): Download 4K-2K version.\
+[Mammoth](https://www.nexusmods.com/skyrimspecialedition/mods/6127): Download 4K-2K version.\
+[Sabrecat](https://www.nexusmods.com/skyrimspecialedition/mods/5303): Download 4K-2K version. Choose both in the installer.\
+[Wispmother](https://www.nexusmods.com/skyrimspecialedition/mods/7638): Download 4K-2K version. Choose Recommended Full in the installer.\
+[Hagraven](https://www.nexusmods.com/skyrimspecialedition/mods/7679): Download 4K-2K version.\
+[Falmer](https://www.nexusmods.com/skyrimspecialedition/mods/17224): Download 4K-2K version.\
+[Troll](https://www.nexusmods.com/skyrimspecialedition/mods/4682): Download 4K-2K version.\
 [Dragon Animation Replace in Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2163): Download the main file and the standing breath option.\
 [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957)\
 [Immersive Smilodons](https://www.nexusmods.com/skyrimspecialedition/mods/18429)\
