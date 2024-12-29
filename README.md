@@ -158,11 +158,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761): Download the Parallax version.\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
 [The Halls of the Greybeards - a High Hrothgar Retexuring](https://www.nexusmods.com/skyrimspecialedition/mods/22672): Download the dark version.\
-[Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 2K version.\
-[Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
-[Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
-[Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 4K version.\
-[Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main and Texture Pack in the Optional Files.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
@@ -390,12 +385,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
 
 ## Texture and Mesh (Late Order)
-[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 2k in the Main and Fixes in the Updates.\
-[Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316): Choose No ENB Light, 4x resolution, Normal glow, Realistic Hue, 1x size, Vanilla log, no patch in the installer.\
-[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, Standard, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers in the installer.\
-[WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
-[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
-[Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.\
+[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.
 
 ## Immersion
 [Windy Grass](https://www.nexusmods.com/skyrimspecialedition/mods/45168): Choose Wind Multiplier 15 in the installer.\
@@ -517,6 +507,18 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780): Choose "One of supported overhauls" for Mundus in the installer.\
 [Double Check Before Selling](https://www.nexusmods.com/skyrimspecialedition/mods/103597)\
 [Double Check Before Selling AE](https://www.nexusmods.com/skyrimspecialedition/mods/103735)
+
+## Texture and Mesh (PBR and Overwrite)
+[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 2k in the Main and Fixes in the Updates.\
+[Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 2K version.\
+[Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
+[Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
+[Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 4K version.\
+[Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.\
+[Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316): Choose No ENB Light, 4x resolution, Normal glow, Realistic Hue, 1x size, Vanilla log, no patch in the installer.\
+[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, Standard, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers in the installer.\
+[WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
+[Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.
 
 ## Notable Exclusions
 <details>
