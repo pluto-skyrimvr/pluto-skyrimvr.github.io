@@ -69,6 +69,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Billyy Chair and Bench Pack for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98803)\
 [Leito's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/104775): Choose every module, Adapted furniture in the installer.\
 [Nibbles' animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/102528): Choose every module, Adapted furniture in the installer.\
+[Anub's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/101918): Choose every module, Adapted furniture, all face expressions in the installer.\
 [Milky's Animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/106875)
 
 ## Libraries and Utilities
