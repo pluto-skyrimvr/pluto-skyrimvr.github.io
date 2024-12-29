@@ -679,7 +679,7 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 ## Pandora Behaviour Engine Plus
 
 1. Run Pandora Behaviour Engine Plus.
-1. Enable everything and click the build button. (~15 seconds)
+1. Enable everything and click the build button. (~25 seconds)
 
 
 ## Plugin Load Order
