@@ -145,6 +145,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485)\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [Circlet USSEP Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/35576): Download "Gemling Queen Jewelry SE USSEP Circlet Fix".\
+[Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.\
 [Smoking Torches and Candles](https://www.nexusmods.com/skyrimspecialedition/mods/8607): Choose Classic, None for Smoking Candles, ESPFE in the installer. Candle smoke is too much in my opinion.
 
 ## Landscape and Buildings
@@ -395,7 +396,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
 [Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
 [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.\
-[Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.
 
 ## Immersion
 [Windy Grass](https://www.nexusmods.com/skyrimspecialedition/mods/45168): Choose Wind Multiplier 15 in the installer.\
