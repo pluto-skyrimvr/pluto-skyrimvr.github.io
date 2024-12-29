@@ -173,7 +173,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main and ACMOS-Lazy Roads. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
 
 ## Water
-[Simplicity of Sea - Water Mod with ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520): Choose 4K defaultwater.dds, Include Water Tweaks in the installer.
+[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim, No for iNeed Support, 4K Resolution, Neutral Brightness, Opaque Waterfalls, 4K Resolution, Parallax, auto-selected patches(Landscape Fixes for Grass, MEZF) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods such as The Forgotten City that added new worldspaces.
 
 ## Body
 [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended installation, XPMSE latest, None for everything else, Schlong of Skyrim patch in the installer. Delete SOSRaceMenu.esp.\
@@ -573,6 +573,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547): Outdated. It also conflicts with Engine Fixes VR.\
   [Schlongs of Skyrim SE](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/): Replaced by The New Gentleman.\
   [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764): It may seem handy in some cases but it causes more annoying problems because neutral aggression is not handled properly by the game.\
+  [Simplicity of Sea - Water Mod with ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520): It looks good but lacks the water flow changes.\
   [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604): No longer needed with the latest Community Shaders.\
   [SkyVRaan - Shimmering VR Waters](https://www.nexusmods.com/skyrimspecialedition/mods/30571): Replaced by Cubemap Reflections.\
   [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul): It causes CTD when archived in BSA. The file size is too huge compared to its impacts.\
@@ -620,6 +621,7 @@ aAxeRSCtweaks.esp
    1. CellEncounterLevelsInName
    1. CellEditorIDFix
    1. nodragonlods
+   1. WaterForENBPatcher
    1. oppositeanimationdisabler
    1. npcenchantfix
    1. spellabsorbfix
