@@ -508,7 +508,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Double Check Before Selling AE](https://www.nexusmods.com/skyrimspecialedition/mods/103735)
 
 ## Texture and Mesh (PBR and Overwrite)
-[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 2k in the Main and Fixes in the Updates.\
+[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 4k in the Main and Fixes in the Updates.\
 [Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 2K version.\
 [Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
 [Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
