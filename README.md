@@ -90,7 +90,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)\
 [Andrealphus' Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/85252): This is a requirement for Dragon War.\
 [Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)\
-[ConsoleUtilVR](https://www.nexusmods.com/skyrimspecialedition/mods/47189)\
+[ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)\
 [Crash Logger VR](https://www.nexusmods.com/skyrimspecialedition/mods/59818): Download Main and VR PDB.\
 [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495): Download VR version.\
 [Save Unbaker VR](https://www.nexusmods.com/skyrimspecialedition/mods/86265)\
