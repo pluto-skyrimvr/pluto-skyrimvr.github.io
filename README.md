@@ -158,8 +158,9 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
 [The Halls of the Greybeards - a High Hrothgar Retexuring](https://www.nexusmods.com/skyrimspecialedition/mods/22672): Download the dark version.\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
-[ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main and Texture Pack in the Optional Files.\
+[ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
+[RUSTIC MOUNTAINS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4896)\
 [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main and ACMOS-Lazy Roads. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
 
 ## Water
