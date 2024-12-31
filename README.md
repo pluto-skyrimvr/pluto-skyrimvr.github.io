@@ -380,6 +380,14 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): Choose Special Edition in the installer.\
 [Frozen Electrocuted Combustion VR](https://www.nexusmods.com/skyrimspecialedition/mods/59118)
 
+## Texture and Mesh (Late Order)
+[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 4k in the Main and Fixes in the Updates.\
+[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
+[Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316): Choose No ENB Light, 4x resolution, Normal glow, Realistic Hue, 1x size, Vanilla log, no patch in the installer.\
+[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, Standard, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers in the installer.\
+[WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
+[Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.
+
 ## Lighting
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Placed Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Main Lights - Embers XD, Clutter, Furniture, Dwemer, Dark Elf Lanterns, Nordic Columns and Halls, Falmer Stuff, College Lights, Magic and Enchants, Apocrypha light, Whiterun, Motes, Wisps, FEC Addon, Default Lighting template, No Carbons Lightbulbs, No Synthesis patcher, PL - Exteriors. You will need to download Synthesis patcher within Synthesis later.
@@ -393,14 +401,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114)\
 [Screen Space Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/93209)\
 [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
-
-## Texture and Mesh (Late Order)
-[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 4k in the Main and Fixes in the Updates.\
-[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
-[Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316): Choose No ENB Light, 4x resolution, Normal glow, Realistic Hue, 1x size, Vanilla log, no patch in the installer.\
-[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, Standard, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers in the installer.\
-[WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
-[Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.
 
 ## Immersion
 [Windy Grass](https://www.nexusmods.com/skyrimspecialedition/mods/45168): Choose Wind Multiplier 15 in the installer.\
