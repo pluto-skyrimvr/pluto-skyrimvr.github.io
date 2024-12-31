@@ -159,6 +159,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Cities and Buildings
 [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728): Choose Markarth Fixed AF(parallax) in the installer.\
+[Whiterun Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48120)\
 [Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761): Download the Parallax version.\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
 [Mrf's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/65256): Download 4K version and Parallax Textures.\
