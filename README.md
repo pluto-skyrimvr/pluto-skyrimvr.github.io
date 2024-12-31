@@ -167,8 +167,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
 [Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
 [Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 4K version.\
-[Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.\
-[The Halls of the Greybeards - a High Hrothgar Retexuring](https://www.nexusmods.com/skyrimspecialedition/mods/22672): Download the dark version.
+[Exist's Ebony High Hrothgar - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/130394): Download 4K version.\
+[Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.
 
 ## World Map
 [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main and ACMOS-Lazy Roads. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
