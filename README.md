@@ -540,6 +540,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [ENB Lights For Effect Shaders VR](https://www.nexusmods.com/skyrimspecialedition/mods/99753): Replaced by Placed Lights.\
   [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424): The meshes were used for Lux but Light Limit Fix does not need split meshes.\
   [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725): It looks too dark everywhere. This does not seem to work as in VR.\
+  [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653): Obsolete with Community Shader.\
   [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561): The same fix is included in Inventory Interface Information Injector.\
   [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230): The same fix is included in Dragon War.\
   [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957): Light Limit Fix does not need split meshes.\
