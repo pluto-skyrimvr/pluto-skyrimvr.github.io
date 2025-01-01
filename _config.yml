@@ -5,10 +5,13 @@ url: "https://pluto-skyrimvr.github.io"
 
 markdown: GFM
 
-theme: jekyll-theme-hacker
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "dark"
 
 plugins:
+  - jekyll-include-cache
   - jekyll-readme-index
+  - jekyll-remote-theme
 
 readme_index:
   enabled:          true

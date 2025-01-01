@@ -1,3 +1,6 @@
+---
+layout: splash
+---
 [Change Log](https://github.com/pluto-skyrimvr/pluto-skyrimvr.github.io/commits/main/)
 
 # Introduction
