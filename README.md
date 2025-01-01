@@ -596,14 +596,15 @@ You have to run LOOT to sort the plugin(esm, esp, esl files) load order. Mod Org
 
 > :warning: Only the exception is ParallaxGen.esp. You have to place the ParallaxGen.esp in the right place manually for now.
 
-1. Sort plugin load order.
+1. Sort plugin load order with LOOT.
 1. Run Mator Smash.
 1. Run Synthesis.
 1. Run Bodyslide.
 1. Run ParallaxGen.
 1. Run TexGen.
 1. Run DynDOLOD.
-1. Sort plugin load order.
+1. Sort plugin load order with LOOT.
+1. Place `ParallaxGen.esp` between `Synthesis.esp` and `DynDOLOD.esp`.
 
 The final plugin load order should look like this.
 
@@ -620,17 +621,17 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 
 ## Smashed Patch ([Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378) - Beta4)
 
-1. TRICK: When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Just copy SkyrimVR.exe to SkyrimSE.exe to trick the application and make a new profile for Skyrim SE. To keep it clean and tidy, use Root Builder. Enable it before running Mator Smash and disable it once the patch is built.
+1. TRICK: When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Just copy `SkyrimVR.exe` to `SkyrimSE.exe` to trick the application and make a new profile for Skyrim SE. To keep it clean and tidy, use Root Builder. Enable it before running Mator Smash and disable it once the patch is built.
 1. Make sure to use Mator Smash beta 4 because beta5 crashes often.
 1. Sort load order with LOOT before running Mator Smash.
 1. Launch Mator Smash.
-1. Create a new setting called "Smash.All-NO-LVLI" by cloning "Smash.All" and removing LVLI(leveled list) from it.
-1. Set "Smash.All-NO-LVLI" for the following plugin. This is to prevent WACCF from messing with OWL leveled lists.
+1. Create a new setting called `Smash.All-NO-LVLI` by cloning `Smash.All` and removing `LVLI(leveled list)` from it.
+1. Set `Smash.All-NO-LVLI` for the following plugin. This is to prevent WACCF from messing with OWL leveled lists.
 Weapons Armor Clothing & Clutter Fixes.esp
-1. Set "Smash.ForceAll" for the following plugin.
+1. Set `Smash.ForceAll` for the following plugin.
 aAxeRSCtweaks.esp
-1. Set "Smash.All" for the rest.
-1. Add all plugins except Skyrim.esm and SkyrimVR.esm to your smashed patch.
+1. Set `Smash.All` for the rest.
+1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
 1. Build a Smashed Patch. (~7 minutes)
 
 ## Synthesis Patch ([Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases))
@@ -641,7 +642,7 @@ aAxeRSCtweaks.esp
    1. SynFloraFix(FloraFixer)
    1. SynCombatBoundaries
    1. SynOpenWorldLoot(OWLPatcher)
-   1. SynNoMoreEasyEnemies: Set "Spawn Difficulty to Replace" to Medium in the settings. This is to use the same difficulty setting as Open World Loot.
+   1. SynNoMoreEasyEnemies: Set `Spawn Difficulty to Replace` to `Medium` in the settings. This is to use the same difficulty setting as Open World Loot.
    1. CellEncounterLevelsInName
    1. CellEditorIDFix
    1. nodragonlods
@@ -650,7 +651,7 @@ aAxeRSCtweaks.esp
    1. npcenchantfix
    1. spellabsorbfix
    1. speedandreachfixes
-   1. MortalEnemies-Patcher: Set commitment mode to "RivalRemix".
+   1. MortalEnemies-Patcher: Set commitment mode to `RivalRemix`.
    1. Another-Archery-Patcher
    1. AOSISCSoundPatcher
    1. AI-Overhaul-Patcher
@@ -658,7 +659,7 @@ aAxeRSCtweaks.esp
    1. Missing-Encounter-Zones-Patcher
    1. placed-light-patcher
    1. Z-Floor-Patcher
-1. Enable the following mods in this order in the facefixer settings. Make sure to enable Prioritize By Specified Order.
+1. Enable the following mods in this order in the facefixer settings. Make sure to enable `Prioritize By Specified Order`.
    1. High Poly Expressive NPCs.esp
    1. HPENPC - 3DNPC.esp
    1. Full Random NPC Pack.esp
@@ -679,14 +680,14 @@ aAxeRSCtweaks.esp
 Since the mod authors use bodyslide group settings inconsistently, you will see lots of unnecessary conflicts when you run a batch build. Here is a simple way to keep you from clicking hundreds of conflicting items.
 
 1. Launch Bodyslide.
-1. Choose "(Pumpkin) - TEWOBA - CBBE", "3BA", "TAWOBA Remastered" and "unassigned" in the group selection bar.
+1. Choose `(Pumpkin) - TEWOBA - CBBE`, `3BA`, `TAWOBA Remastered` and `unassigned` in the group selection bar.
 1. Choose any outfit in the outfit list in order to enable preset selection.
-1. Choose your preferred body preset. I personally use "Horoscope-3BA-CBBE-Pisces" for example.
+1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
 1. Click Batch Build. Right click on the list and choose Select All. Click Build(our 1st run).
 1. It will pop up a new window to choose between conflicting items. Choose CT77 items whenever possible and then physics the next. Click Build.
-1. Choose "(Pumpkin) - TEWOBA - CBBE 3BA" and "TAWOBA Remastered [3BA]" in the group selection bar.
+1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA` and `TAWOBA Remastered [3BA]` in the group selection bar.
 1. Click Batch Build. Right click on the list and choose Select All. Click Build(our 2nd run).
-1. (optional) Choose "TNG" in the group selection bar and "TNG Default" in the preset. Run Batch Build(our 3rd run).
+1. (optional) Choose `TNG` in the group selection bar and `TNG Default` in the preset. Run Batch Build(our 3rd run).
 
 ## ParallaxGen ([ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946))
 
@@ -705,8 +706,8 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 ## TexGen/DynDOLOD ([DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518))
 DynDOLOD settings are up to your your hardware. Below are my settings for medium-high quality LOD. If you want to learn more, I would recommend you to read [the official DynDOLOD guide](https://dyndolod.info/Generation-Instructions) or [the STEP project document.](https://stepmodifications.org/wiki/SkyrimSE:2.2.0#DynDOLOD)
 
-1. Make sure to run ParallaxGen before running TexGen and DynDOLOD.
-1. Update these two values (Expert=1, Level32=1) in "DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini." file.
+1. Make sure to enable the patches that were built in the previous steps(Smashed Patch.esp, Synthesis.esp, ParallaxGen.esp).
+1. Update these two values (Expert=1, Level32=1) in `DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.` file.
 1. Make sure to enable the both Smashed Patch and Synthesis Patch built in the previous steps.
 1. Run Texgen and configure the following settings.
 ![texgen](images/texgen.png)
@@ -716,7 +717,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 1. Enable all the plugins. (Top Left in the UI)
 1. Enable Candles and FXGlow. (Top Right in the UI)
 1. Click High setting button. (Top Right in the UI)
-1. Configure the rules for "tree" and "\" as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
+1. Configure the rules for `tree` and `\` as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
 1. Configure the rest of the options as shown in the image below. (Options box in the bottom)
 ![dyndolod](images/dyndolod.png)
 1. Click OK to build DynDOLOD output. (~30 minutes)
@@ -724,7 +725,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 
 ## Pandora Behaviour Engine Plus
 
-1. You can run Pandora Behaviour Engine anytime animations were set up.
+1. You can run Pandora Behaviour Engine anytime all the animations have been installed.
 1. Run Pandora Behaviour Engine Plus.
 1. Enable everything and click the build button. (~25 seconds)
 
