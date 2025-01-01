@@ -1,0 +1,27 @@
+title: Pluto Skyrim VR
+description: >-
+  A guide for realistic, balanced and stable Skyrim VR modlist for experienced users. Tested on Meta Quest 3, AMD Ryzen 5 5600X, NVIDIA Geforce RTX 4080.
+url: "https://pluto-skyrimvr.github.io"
+
+markdown: GFM
+
+theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-readme-index
+
+readme_index:
+  enabled:          true
+  remove_originals: true
+  with_frontmatter: true
+
+exclude:
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - work_notes
