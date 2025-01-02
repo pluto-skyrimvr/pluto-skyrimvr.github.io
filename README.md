@@ -182,7 +182,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [No Me Molestes Updated](https://www.nexusmods.com/skyrimspecialedition/mods/134937)\
 [CBPC - CBP Physics with Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/21224): Choose SkyrimVR, CBBE Curvy, Gravity Config in the installer. FPS and bounce amplitude config do not matter because they will be overwritten by the config from 3BBB.\
 [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198): Choose Curvy, Underwear None. Untick Vanilla Outfits and Face Pack. Choose Eyebrow None. Untick Pubic Hair. Skip the options in the next page.\
-[CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174): Uncheck pre-built body mesh. Choose Performance(balanced) and Only CBPC. Choose Elasticity for Physics Preset and leave the rest as default. Choose CBPC - RegularSOS, Change vag*** collision, Don't add an** collision. Choose Deep Pink - 2K texture. Choose VRIK compatibility patch and None for Racemenu in the installer.\
+[CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174): Uncheck pre-built body mesh. Choose Performance(balanced) and Full SMP. Choose Elasticity for CBPC Physics Preset and leave the rest as default. Option 1 for SMP Physics Preset. Choose CBPC - RegularSOS, Change vag*** collision, Don't add an** collision. Choose Deep Pink - 2K texture. Choose VRIK compatibility patch and None for Racemenu in the installer.\
 [The New Gentleman](https://www.nexusmods.com/skyrimspecialedition/mods/104215): Choose High Poly Mesh in the installer.\
 [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
 
