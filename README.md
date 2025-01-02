@@ -568,7 +568,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [MorrowLoot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058): Loots are predictable. Open World Loot's randomness works better for replayability in my opinion.\
   [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/1763): Synthesis Archery patch covers the same tweak.\
   [Plockton's Culling Data Glitch Fix for Square Holes in the Ocean](https://www.nexusmods.com/skyrimspecialedition/mods/24791): Redundant because DynDOLOD 3 fixes the problem.\
-  [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182): The water LOD looks terrible with Community Shader.
+  [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182): The water LOD looks terrible with Community Shader.\
   [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536): Removed because of compatibility issues with lighting mods.\
   [Remove Blurry Snowflakes](https://www.nexusmods.com/skyrimspecialedition/mods/38358): The same fix is included in Azurite Weather.\
   [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192): Its lighting is too dim with Community Shader LLF.\
