@@ -246,17 +246,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Kalilies NPCs - Salt and Wind retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
 
 ## Creatures
-[Bellyaches Animal and Creature Pack Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/70493): Download the Main and Release Candidate. For the Main, choose Default Replacement in the installer. For the RC, choose Highland Cow - Core Files in the installer.\
 [HD Reworked Dragons Collection 4K](https://www.nexusmods.com/skyrimspecialedition/mods/36038)\
-[Draugr](https://www.nexusmods.com/skyrimspecialedition/mods/5848): Download 4K-2K version.\
-[Dragon Priest](https://www.nexusmods.com/skyrimspecialedition/mods/4974): Download 4K-2K version. Choose Full(Highly suggested) in the installer.\
-[Giant](https://www.nexusmods.com/skyrimspecialedition/mods/6179): Download 4K-2K version.\
-[Mammoth](https://www.nexusmods.com/skyrimspecialedition/mods/6127): Download 4K-2K version.\
-[Sabrecat](https://www.nexusmods.com/skyrimspecialedition/mods/5303): Download 4K-2K version. Choose both in the installer.\
-[Wispmother](https://www.nexusmods.com/skyrimspecialedition/mods/7638): Download 4K-2K version. Choose Recommended Full in the installer.\
-[Hagraven](https://www.nexusmods.com/skyrimspecialedition/mods/7679): Download 4K-2K version.\
-[Falmer](https://www.nexusmods.com/skyrimspecialedition/mods/17224): Download 4K-2K version.\
-[Troll](https://www.nexusmods.com/skyrimspecialedition/mods/4682): Download 4K-2K version.\
 [Dragon Animation Replace in Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2163): Download the main file and the standing breath option.\
 [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957)\
 [Immersive Smilodons](https://www.nexusmods.com/skyrimspecialedition/mods/18429)\
@@ -264,9 +254,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Heartland Horses](https://www.nexusmods.com/skyrimspecialedition/mods/22083)\
 [Tyrannical Trolls](https://www.nexusmods.com/skyrimspecialedition/mods/23665): Download vanilla size.\
 [Savage Bear](https://www.nexusmods.com/skyrimspecialedition/mods/16343)\
-[Gritty Goats](https://www.nexusmods.com/skyrimspecialedition/mods/26665)\
-[RUSTIC SPRIGGAN - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18107)\
-[HD Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/23262)
+[Gritty Goats](https://www.nexusmods.com/skyrimspecialedition/mods/26665)
 
 ## Armor and Weapons
 [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994): Choose 2K(default), LeanWolf's Better-shaped Weapons. Do not choose WACCF_BashedPatchLvlListFix.esp in the installer.\
