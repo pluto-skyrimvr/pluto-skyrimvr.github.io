@@ -57,7 +57,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [OStim Standalone VR](https://www.nexusmods.com/skyrimspecialedition/mods/119892): Update Racemenu mod's SKSE/Plugins/skeevr.ini to set "bEnableOverlays=0" in order to fix disappearing NPC issue.\
 [OStim Community Resource](https://www.nexusmods.com/skyrimspecialedition/mods/106519): Choose 3BA in the installer.\
 [OCum Ascended - Cum and Orgasm Mechanics for OStim](https://www.nexusmods.com/skyrimspecialedition/mods/77506): Don't install UBE patch.\
-[OStim NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/82888)\
 [OSmp - Automatic SMP physics toggle for OStim](https://www.nexusmods.com/skyrimspecialedition/mods/72547)\
 [Female Moan Voicesets For Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/121383)\
 [Amorous Adventures for Ostim](https://www.nexusmods.com/skyrimspecialedition/mods/48912)\
