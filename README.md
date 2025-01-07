@@ -123,10 +123,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, Walkway Wall Fix SMIM, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
 
 ## Texture and Mesh (Clutter)
-[Ruins Clutter Improved](https://www.nexusmods.com/skyrimspecialedition/mods/5870): Download the latest 3.2c version.\
-[Ruins Clutter Improved - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/21031)\
-[Forgotten Retex Project](https://www.nexusmods.com/skyrimspecialedition/mods/7849)\
-[Misc Retexture Project](https://www.nexusmods.com/skyrimspecialedition/mods/13578): Download the main file, Retextured SMIM ingredients.\
 [RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436)
 
 ## Texture and Mesh (Armor and Clothing)
