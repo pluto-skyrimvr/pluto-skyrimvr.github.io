@@ -126,15 +126,15 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
 [Cathedral - Armory](https://www.nexusmods.com/skyrimspecialedition/mods/20199): The best quality mesh and texture for armors and weapons. Download the Main, Armor Mesh Fixes SE patch.\
 [True HD Nightingale](https://www.nexusmods.com/skyrimspecialedition/mods/4745): The Nightingale armor is not covered by Cathedral Armory. Choose "No" for Sword Retexture in the installer.\
-[RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): The best looking clothing texture mod.
+[RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.
 
 ## Texture and Mesh (Misc)
 [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901)\
 [CC's HQ Roadsigns SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2778): Download HD.\
 [SD's Farmhouse Fences SE](https://www.nexusmods.com/skyrimspecialedition/mods/38912): Download 2k Farmhouse Fences SE Version 2.\
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Talos statue looks awkward without this mod.\
-[RUSTIC WINDOWS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1937)\
-[RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436)\
+[RUSTIC WINDOWS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1937): Download 2K version.\
+[RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436): Download 2K version.\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [Circlet USSEP Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/35576): Download "Gemling Queen Jewelry SE USSEP Circlet Fix".
 
