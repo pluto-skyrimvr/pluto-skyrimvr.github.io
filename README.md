@@ -122,9 +122,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download the Main.\
 [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, Walkway Wall Fix SMIM, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
 
-## Texture and Mesh (Clutter)
-[RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436)
-
 ## Texture and Mesh (Armor and Clothing)
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
 [Cathedral - Armory](https://www.nexusmods.com/skyrimspecialedition/mods/20199): The best quality mesh and texture for armors and weapons. Download the Main, Armor Mesh Fixes SE patch.\
@@ -137,6 +134,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [SD's Farmhouse Fences SE](https://www.nexusmods.com/skyrimspecialedition/mods/38912): Download 2k Farmhouse Fences SE Version 2.\
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Talos statue looks awkward without this mod.\
 [RUSTIC WINDOWS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1937)\
+[RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436)\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [Circlet USSEP Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/35576): Download "Gemling Queen Jewelry SE USSEP Circlet Fix".
 
