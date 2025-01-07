@@ -378,7 +378,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Lighting
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
-[Placed Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Main Lights - Embers XD, Candles, Clutter, Furniture, Dwemer, Dark Elf Lanterns, Nordic Columns and Halls, Falmer Stuff, College Lights, Solstheim, Magic and Enchants, Apocrypha light, Whiterun, Motes, Wisps, FEC Addon, Default Lighting template, No Carbons Lightbulbs, No Synthesis patcher, PL - Exteriors. Synthesis patcher will need to be downloaded in the Synthesis application later.
+[Placed Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Main Lights - Embers XD, Candles, Furniture and Clutter, Dwemer and Falmer, College, Solstheim, Magic FX, Enchantment, Motes, Wisps, Whiterun, Default Lighting template, No Carbons Lightbulbs, No Synthesis patcher, PL - Exteriors. Synthesis patcher will need to be downloaded in the Synthesis application later.
 
 ## Shaders
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)\
