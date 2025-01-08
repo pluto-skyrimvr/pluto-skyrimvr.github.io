@@ -90,7 +90,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854): Choose SSE v1.5.97("Special Edition") in the installer. The DLL will be replaced by the VR version below.\
 [Papyrus Extender VR](https://www.nexusmods.com/skyrimspecialedition/mods/58296)\
 [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)\
-[Andrealphus' Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/85252): This is a requirement for Dragon War.\
 [Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)\
 [ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)\
 [Crash Logger VR](https://www.nexusmods.com/skyrimspecialedition/mods/59818): Download Main and VR PDB.\
@@ -277,8 +276,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Blade and Blunt VR](https://www.nexusmods.com/skyrimspecialedition/mods/120494)\
 [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
 [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188): Download the Main, WACCF Patch, Better Shaped Weapons Patch.\
-[Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310): Choose Audio Overhaul, Deadly Spell Impacts, Arctic, Inferno patches in the installer.\
-[Dragon War NG dll](https://www.nexusmods.com/skyrimspecialedition/mods/120506)\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Pseudo Physical Weapon Collision and Parry AE SE VR](https://www.nexusmods.com/skyrimspecialedition/mods/100781): Download VR version.\
 [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
