@@ -53,7 +53,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [You Hunger SE](https://www.nexusmods.com/skyrimspecialedition/mods/9143)
 
 ## Adult Contents
-[OStim Standalone - Advanced Adult Animation Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98163)\
+[OStim Standalone - Advanced Adult Animation Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98163): Download the matching version with the OStim Standalone VR.\
 [OStim Standalone VR](https://www.nexusmods.com/skyrimspecialedition/mods/119892): Update Racemenu mod's SKSE/Plugins/skeevr.ini to set "bEnableOverlays=0" in order to fix disappearing NPC issue.\
 [OStim Community Resource](https://www.nexusmods.com/skyrimspecialedition/mods/106519): Choose 3BA in the installer.\
 [OCum Ascended - Cum and Orgasm Mechanics for OStim](https://www.nexusmods.com/skyrimspecialedition/mods/77506): Don't install UBE patch.\
