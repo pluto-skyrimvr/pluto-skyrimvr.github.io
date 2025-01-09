@@ -316,6 +316,9 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191): Download the Main only.\
 [Adamant - WACCF patch](https://www.nexusmods.com/skyrimspecialedition/mods/37764)\
 [Adamant Tweaks for ADXP and VR](https://www.nexusmods.com/skyrimspecialedition/mods/94555)\
+[Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790): Download the Main, Trainers and Skill Books addon in Optional Files, BSC patch in Misc Files.\
+[Hand to Hand - An Adamant Addon VR DLL](https://www.nexusmods.com/skyrimspecialedition/mods/127697)\
+[Adamant Hand to Hand Tweaks for ADXP and VR](https://www.nexusmods.com/skyrimspecialedition/mods/94179)\
 [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)\
 [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411): Do not choose USSEP patch in the installer.\
 [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686): Do not choose optional module files in the installer.\
