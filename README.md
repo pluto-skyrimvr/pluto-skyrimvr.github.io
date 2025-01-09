@@ -152,7 +152,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761): Download the Parallax version.\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
 [Mrf's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/65256): Download 4K version and Parallax Textures.\
-[Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 2K version.\
+[Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 4K version.\
 [Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
 [Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
 [Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 4K version.\
