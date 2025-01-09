@@ -399,7 +399,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
 
 ## Economy
-[Evolving Value Economy (SkyRem - Eve)](https://www.nexusmods.com/skyrimspecialedition/mods/26325)\
+[Evolving Value Economy (SkyRem - Eve)](https://www.nexusmods.com/skyrimspecialedition/mods/26325?tab=files&file_id=469849)\
 [Honed Metal -NPC Crafting and Enchanting Services-](https://www.nexusmods.com/skyrimspecialedition/mods/61015): Download Main. Choose ESL flagged Base, 1.4.15 SKSE VR plugin in the installer.\
 [Honed Thaumaturgy (FLM)](https://www.nexusmods.com/skyrimspecialedition/mods/104295)\
 [Fast Travel Cost](https://www.nexusmods.com/skyrimspecialedition/mods/20200)\
