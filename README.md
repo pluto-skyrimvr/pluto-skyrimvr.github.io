@@ -84,6 +84,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## Libraries and Utilities
 [VR Address Library for SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/58101)\
 [Spell Perk Item Distributor (SPID) VR](https://www.nexusmods.com/skyrimspecialedition/mods/59121)\
+[Base Object Swapper VR](https://www.nexusmods.com/skyrimspecialedition/mods/61734)\
 [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728)\
 [FormList Manipulator - FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037)\
 [PapyrusUtil SE - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048): Download VR version.\
