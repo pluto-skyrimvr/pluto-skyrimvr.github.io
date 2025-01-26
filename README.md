@@ -477,6 +477,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Immersive Draw Sheathe Sounds VR](https://www.nexusmods.com/skyrimspecialedition/mods/44992): Download the main file and Immersive Sounds Compendium patch.\
 [Stop Trigger Unsheathing For VR](https://www.nexusmods.com/skyrimspecialedition/mods/55962)\
 [Magic Improvements for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/55751)\
+[Immersive Crossbow Reload VR](https://www.nexusmods.com/skyrimspecialedition/mods/139152)\
 [Durability VR](https://www.nexusmods.com/skyrimspecialedition/mods/76830): Choose Low Reverse Degradation, No Loot Modification in the installer.\
 [Steeds of Ultima - VR Mounted combat](https://www.nexusmods.com/skyrimspecialedition/mods/81220): It should be enabled in Pandora Behaviour Engine Plus later.
 
