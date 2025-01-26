@@ -404,13 +404,14 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529): Choose 2K textures in the installer.\
 [Moons and Stars - Sky Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/73336): Choose Special Edition in the installer.\
 [Moons and Stars - Sky Overhaul SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/73667)\
-[Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
+[Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)\
+[Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220)\
+[Journeyman VR](https://www.nexusmods.com/skyrimspecialedition/mods/139443)
 
 ## Economy
 [Evolving Value Economy (SkyRem - Eve)](https://www.nexusmods.com/skyrimspecialedition/mods/26325?tab=files&file_id=469849)\
 [Honed Metal -NPC Crafting and Enchanting Services-](https://www.nexusmods.com/skyrimspecialedition/mods/61015): Download Main. Choose ESL flagged Base, 1.4.15 SKSE VR plugin in the installer.\
 [Honed Thaumaturgy (FLM)](https://www.nexusmods.com/skyrimspecialedition/mods/104295)\
-[Fast Travel Cost](https://www.nexusmods.com/skyrimspecialedition/mods/20200)\
 [Recipe Auto-Learn](https://www.nexusmods.com/skyrimspecialedition/mods/84909)
 
 ## AI Improvement
@@ -433,7 +434,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Skyrim VR USSEP Dwarven Ballista missing texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/18722)\
 [Rude Imperial Soldiers Escort Prisoner fix](https://www.nexusmods.com/skyrimspecialedition/mods/894)\
 [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471)\
-[Fast Travel Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1503)\
 [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)\
 [FloraFixer - Mutagen Patcher and Data](https://www.nexusmods.com/skyrimspecialedition/mods/42057): Synthesis patch will be built later.\
 [Drunk Sinking Head Idle Fix SE](https://www.nexusmods.com/skyrimspecialedition/mods/22143)\
