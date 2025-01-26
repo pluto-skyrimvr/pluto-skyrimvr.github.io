@@ -455,6 +455,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [WIDeadBodyCleanupScript Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62413)\
 [Alchemy XP Fix VR](https://www.nexusmods.com/skyrimspecialedition/mods/118746)\
 [Controller Fix VR](https://www.nexusmods.com/skyrimspecialedition/mods/123044)\
+[Dragonactorscript infinite loop fix](https://www.nexusmods.com/skyrimspecialedition/mods/87940): Choose Main and untick the Dragon War patch in the installer.\
 [Scripts Carefully Reworked Optimized and Tactfully Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/97155): Download loose files version.
 
 ## Patch Compendium
