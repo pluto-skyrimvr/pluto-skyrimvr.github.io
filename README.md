@@ -353,18 +353,18 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456)\
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
-[Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817): Choose No ENB Light, 4x resolution, Realistic Hue, 1x size, frost meshes patch in the installer.\
-[Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024)\
+[Flame VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/109414)\
+[Dragon Breath VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/118431)\
+[Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520)\
+[Frost VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/112509)\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
 [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
 [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407)\
-[Smoking Torches and Candles](https://www.nexusmods.com/skyrimspecialedition/mods/8607): Choose Classic, None for Smoking Candles, ESPFE in the installer. Candle smoke is too much in my opinion.\
 [Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.
 
 ## Texture and Mesh (Late Order)
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 4k in the Main and Fixes in the Updates.\
 [Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
-[Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316): Choose No ENB Light, 4x resolution, Normal glow, Realistic Hue, 1x size, Vanilla log, no patch in the installer.\
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, Standard, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.\
 [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
 [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.
