@@ -513,8 +513,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 <details>
   <summary>These mods are all great work. It just does not fit in this modlist for various reasons.</summary>
 
-  [360 Movement Behavior SE](https://www.nexusmods.com/skyrimspecialedition/mods/33139): NPC movement looks weird when colliding with other NPCs.\
-  [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804): Replaced by A Clear Map of Skyrim and Other Worlds.\
   [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926): Replaced by Synthesis patch.\
   [Armor Rating Redux VR](https://www.nexusmods.com/skyrimspecialedition/mods/30727): The latest combat mods have their own armor rating mechanism. Using this mod will break the combat mod's intended design.\
   [Azurite Mists](https://www.nexusmods.com/skyrimspecialedition/mods/106559): Removed because the mod messes with the sky meshes in VR.\
@@ -525,15 +523,14 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [Cutting Room Floor](https://www.nexusmods.com/skyrimspecialedition/mods/276): It requires too many patches to fix conflicts. Not really worth it considering what it provides.\
   [Dear Diary VR - Paper SkyUI and Categorized Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/44874): Not updated for the latest SkyUI VR.\
   [Dirt and Blood - Dynamic Visual Effects](https://www.nexusmods.com/skyrimspecialedition/mods/38886): Replaced by lightweight alternative Just Blood. Also, the dirt effect does not look good because of flickering.\
-  [DynDOLOD DLL VR](https://www.nexusmods.com/skyrimspecialedition/mods/57265): Replaced by DynDOLOD DLL NG.\
   [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33746): Replaced by Open Animation Replacer.\
   [ENB Lights For Effect Shaders VR](https://www.nexusmods.com/skyrimspecialedition/mods/99753): Replaced by Placed Lights.\
   [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424): The meshes were used for Lux but Light Limit Fix does not need split meshes.\
-  [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725): It looks too dark everywhere. This does not seem to work as in VR.\
+  [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725): It looks too dark everywhere. This does not seem to work in VR.\
   [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653): Obsolete with Community Shader.\
   [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561): The same fix is included in Inventory Interface Information Injector.\
-  [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230): The same fix is included in Dragon War.\
   [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957): Light Limit Fix does not need split meshes.\
+  [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): Micro stuttering was observed whenever enemy NPC died.\
   [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876): Does not work well with iNeed. Also, SURV keywords being displayed is annoying. It seems it was built for Survival Mode which is not available in VR.\
   [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393): No longer needed in the latest Honed Metal.\
   [Ice skating fixed for real - No more attack sliding movement](https://www.nexusmods.com/skyrimspecialedition/mods/55417): The same fix is included in ADXP MCO.\
@@ -556,7 +553,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [Remove Blurry Snowflakes](https://www.nexusmods.com/skyrimspecialedition/mods/38358): The same fix is included in Azurite Weather.\
   [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192): Its lighting is too dim with Community Shader LLF.\
   [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547): Outdated. It also conflicts with Engine Fixes VR.\
-  [Schlongs of Skyrim SE](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/): Replaced by The New Gentleman.\
   [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764): It may seem handy in some cases but it causes more annoying problems because neutral aggression is not handled properly by the game.\
   [Simplicity of Sea - Water Mod with ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520): It looks good but lacks the water flow changes.\
   [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604): No longer needed with the latest Community Shaders.\
