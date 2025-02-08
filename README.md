@@ -365,7 +365,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Texture and Mesh (Late Order)
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download PBR Skyrim AIO 4k in the Main and Fixes in the Updates.\
-[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, Standard, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.\
+[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.\
 [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
 [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845): Download 1K version and Patch Collection. Choose ESPFE, with eye glow, soulcairnSkeletons AE in the main installer. Choose WACCF(EspfeWaccfForEspfePlugin) in the Patch Collection installer.
 
