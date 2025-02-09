@@ -577,7 +577,7 @@ Work in progress.
 
 You have to run LOOT to sort the plugin(esm, esp, esl files) load order. Mod Organizer 2 has a built-in LOOT feature. Just click Sort button in the plugin section.
 
-> :warning: Only the exception is ParallaxGen.esp. You have to place the ParallaxGen.esp in the right place manually for now.
+> :warning: Only the exception is `ParallaxGen.esp` and `PG_1.esp`. You have to place those plugins in the right place manually for now.
 
 1. Sort plugin load order with LOOT.
 1. Run Mator Smash.
@@ -587,7 +587,7 @@ You have to run LOOT to sort the plugin(esm, esp, esl files) load order. Mod Org
 1. Run TexGen.
 1. Run DynDOLOD.
 1. Sort plugin load order with LOOT.
-1. Place `ParallaxGen.esp` between `Synthesis.esp` and `DynDOLOD.esp`.
+1. Place `ParallaxGen.esp` and `PG_1.esp` between `Synthesis.esp` and `DynDOLOD.esp`.
 
 The final plugin load order should look like this.
 
@@ -595,6 +595,7 @@ The final plugin load order should look like this.
 1. Smashed Patch.esp
 1. Synthesis.esp
 1. ParallaxGen.esp
+1. PG_1.esp
 1. DynDOLOD.esp
 1. Occlusion.esp
 
