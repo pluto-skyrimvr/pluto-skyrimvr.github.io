@@ -104,6 +104,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Weather
 [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers III in the Main and its Darker nights patch in the optional files.\
+[Azurite III - HDR](https://www.nexusmods.com/skyrimspecialedition/mods/138991)\
 [Obsidian Mountain Fogs Tweaked](https://www.nexusmods.com/skyrimspecialedition/mods/71189): Download default version.
 
 ## ReShade
