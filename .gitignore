@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 Gemfile.lock
 vendor
-work_notes
+work_notes*
