@@ -679,8 +679,6 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 1. Launch ParallaxGen.
 1. Click Show Advanced Options.
 1. Enable Upgrade Parallax to Complex Material.
-1. Add the following rules to the Mesh Block List.
-   1. `*\dragon\*`: To avoid the neon blue dragonbones.
 1. Click Save Config.
 1. Click Start Patching. (~3 minutes)
 1. ParallaxGen output zip is a regular Skyrim mod. Install and enable the mod.
