@@ -223,11 +223,11 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Face
 [High Poly Head](https://vectorplexis.com/files/file/283-high-poly-head/): Choose BSA only, Special edition, Expressive Facegen Morphs, both EFA male and female, High Poly Hair, Vampire Head Fix, Symmetrical Eyes in the installer.\
 [Expressive Facegen Morphs SE](https://www.nexusmods.com/skyrimspecialedition/mods/35785)\
+[Simple Teeth Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/117349)\
 [Hvergelmir's Aesthetics - Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067)\
 [Hvergelmir's Aesthetics - Brows](https://www.nexusmods.com/skyrimspecialedition/mods/1062)\
 [Northborn Scars](https://www.nexusmods.com/skyrimspecialedition/mods/720)\
 [Eyes Nouveaux](https://www.nexusmods.com/skyrimspecialedition/mods/131210): Download Good version. Choose Alternative Blue eyes, Novelyst's Cut, Vanilla-like, No for Saints Seducers, No for tweaks in the installer.\
-[A Smile HD by MARI SE](https://www.nexusmods.com/skyrimspecialedition/mods/21348)\
 [High Quality Tintmasks for Various Mods](https://www.nexusmods.com/skyrimspecialedition/mods/18702): Download Relationship Dialogue Overhaul\
 [High Quality Tintmasks - Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/18355): Choose loose files in the installer.
 
