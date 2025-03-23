@@ -677,7 +677,9 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 
 1. Make sure to build all the body and outfit meshes with Bodyslide before running ParallaxGen.
 1. Launch ParallaxGen.
+1. Set Game Location and Mod Manager.
 1. Click Show Advanced Options.
+1. Enable Use MO2 Loose File Order.
 1. Enable Upgrade Parallax to Complex Material.
 1. Click Save Config.
 1. Click Start Patching. (~3 minutes)
