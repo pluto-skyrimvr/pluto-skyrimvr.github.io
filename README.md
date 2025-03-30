@@ -612,9 +612,9 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 1. Launch Mator Smash.
 1. Create a new setting called `Smash.All-NO-LVLI` by cloning `Smash.All` and removing `LVLI(leveled list)` from it.
 1. Set `Smash.All-NO-LVLI` for the following plugin. This is to prevent WACCF from messing with OWL leveled lists.
-Weapons Armor Clothing & Clutter Fixes.esp
+   1. Weapons Armor Clothing & Clutter Fixes.esp
 1. Set `Smash.ForceAll` for the following plugin.
-aAxeRSCtweaks.esp
+   1. aAxeRSCtweaks.esp
 1. Set `Smash.All` for the rest.
 1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
 1. Build a Smashed Patch. (~7 minutes)
