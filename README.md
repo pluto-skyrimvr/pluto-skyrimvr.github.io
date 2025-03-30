@@ -666,13 +666,15 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 
 1. Launch Bodyslide.
 1. Choose `(Pumpkin) - TEWOBA - CBBE`, `3BA`, `TAWOBA Remastered` and `unassigned` in the group selection bar.
-1. Choose any outfit in the outfit list in order to enable preset selection.
-1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
-1. Click Batch Build. Right click on the list and choose Select All. Click Build(our 1st run).
-1. It will pop up a new window to choose between conflicting items. Choose CT77 items whenever possible and then physics the next. Click Build.
+   1. Choose any outfit in the outfit list in order to enable preset selection.
+   1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
+   1. It will pop up a new window to choose between conflicting items. Choose CT77 items whenever possible and then physics the next. Click Build.
 1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA` and `TAWOBA Remastered [3BA]` in the group selection bar.
-1. Click Batch Build. Right click on the list and choose Select All. Click Build(our 2nd run).
-1. (optional) Choose `TNG` in the group selection bar and `TNG Default` in the preset. Run Batch Build(our 3rd run).
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
+1. Choose `TNG` in the group selection bar.
+   1. Choose `TNG Default` in the preset.
+   1. Run Batch Build.
 
 ## ParallaxGen ([ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946))
 
