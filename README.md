@@ -415,12 +415,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## AI Improvement
 [AI Overhaul SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21654): Download and install "AI Overhaul for SE Only". Choose AI Overhaul(Recommended) in the installer. For your information, you do not need any compatibilty patches for this mod because the compatibility will be automatically resolved by the Synthesis patch later. Only the exception is Interesting NPCs mod.\
-[Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075): Download ESP version.\
+[Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075): Download ESL version.\
 [Guard Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36366)\
 [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187): Do not download any patches.\
 [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601): Download the main file and UHDAP patch.\
 [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904): Install auto-selected patch(Alternate Start).\
-[More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905): Choose Guard Dialogue Overhaul ESP version in the installer.\
+[More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905): Choose Guard Dialogue Overhaul ESL version in the installer.\
 [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files&file_id=134389): Download v4.0.3 (pre-AE version).\
 [NPC AI Process Position Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69326): Choose AI Overhaul in the installer.
 
