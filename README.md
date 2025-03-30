@@ -119,7 +119,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850): Download "Basecoat - Textures only" 1.0 in Old Files section.\
 [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659): Install Lite version.\
 [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388)\
-[Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027)\
+[Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027): Download Unofficial Material Fix version.\
 [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download the Main.\
 [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, Walkway Wall Fix SMIM, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
 
