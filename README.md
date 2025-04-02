@@ -499,7 +499,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409): Download VR version.\
 [Cooking Categories Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/84875)\
 [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469): Choose Lite version, Fruits in the installer.\
-[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose auto-selected(Base FLM INIs, [USSEP] + [default], SunHelm, USSEP, Alternate Start) in the installer.\
+[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose Base FLM INIs, [USSEP] + [default], Show Optinoal Tweaks, Show Mod Specific Patches, Bees, Various Vanilla Items, Arcane Fire, Ash Fire, Chaos, Shock, Steam, Sun, auto-selected patches(SunHelm, USSEP, Alternate Start) in the installer.\
 [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529): Choose auto-selected(Cooking Categories Improvement, SunHelm) in the installer.\
 [The Handy Icon Collection Collective](https://www.nexusmods.com/skyrimspecialedition/mods/90508)\
 [B.O.O.B.I.E.S (aka Immersive Icons)](https://www.nexusmods.com/skyrimspecialedition/mods/89241): Choose Core Files and TAWOBA, TEWOBA, Inigo, Interesting NPCs, Nether's Follower Framework, Relationship Dialogue Overhaul moduels(auto-selected) in the installer.\
