@@ -479,6 +479,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Magic Improvements for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/55751)\
 [Immersive Crossbow Reload VR](https://www.nexusmods.com/skyrimspecialedition/mods/139152)\
 [Durability VR](https://www.nexusmods.com/skyrimspecialedition/mods/76830): Choose Low Reverse Degradation, No Loot Modification in the installer.\
+[Interactive Pullchains VR](https://www.nexusmods.com/skyrimspecialedition/mods/142338)\
 [Steeds of Ultima - VR Mounted combat](https://www.nexusmods.com/skyrimspecialedition/mods/81220): It should be enabled in Pandora Behaviour Engine Plus later.
 
 ## UI
