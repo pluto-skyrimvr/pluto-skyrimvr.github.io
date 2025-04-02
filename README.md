@@ -299,11 +299,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)\
 [Animation Motion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/145100)\
 [Payload Interpreter](https://www.nexusmods.com/skyrimspecialedition/mods/65089): It should be enabled in Pandora Behaviour Engine Plus later.\
-[Attack – MCO|DXP](https://www.distaranimation.com/mods/attack): Choose Distar Experience in the installer. Also, it should be enabled in Pandora Behaviour Engine Plus later.\
-[MCO Universal Support](https://www.nexusmods.com/skyrimspecialedition/mods/85491)\
+[BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052): Choose VR and leave the rest as default in the installer.\
+[BFCO Universal Support](https://www.nexusmods.com/skyrimspecialedition/mods/120091)\
 [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014): Do not choose the Default Animation pack in the installer. Also, it should be enabled in Pandora Behaviour Engine Plus later.\
 [SCAR VR - Skyrim Combos AI Revolution VR](https://www.nexusmods.com/skyrimspecialedition/mods/89492)\
-[ADXP l MCO Nordic Animation Complete Pack](https://www.nexusmods.com/skyrimspecialedition/mods/72966): Download All Races version.\
+[SCAR Stamina Limitation Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72451)\
+[BFCO - MCO - Diverse NPC Movesets](https://www.nexusmods.com/skyrimspecialedition/mods/141893): Choose BFCO, Modular, everything under General Animations in the installer.\
 [mcgFemaleWalk for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/13640): Remove esp because we don't need movement speed change.\
 [Sneak Animation SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4371): It fixes awkward sneak stance animation.\
 [Super Fast Get Up Animation](https://www.nexusmods.com/skyrimspecialedition/mods/46714)\
@@ -479,8 +480,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Magic Improvements for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/55751)\
 [Immersive Crossbow Reload VR](https://www.nexusmods.com/skyrimspecialedition/mods/139152)\
 [Durability VR](https://www.nexusmods.com/skyrimspecialedition/mods/76830): Choose Low Reverse Degradation, No Loot Modification in the installer.\
-[Interactive Pullchains VR](https://www.nexusmods.com/skyrimspecialedition/mods/142338)\
-[Steeds of Ultima - VR Mounted combat](https://www.nexusmods.com/skyrimspecialedition/mods/81220): It should be enabled in Pandora Behaviour Engine Plus later.
+[Interactive Pullchains VR](https://www.nexusmods.com/skyrimspecialedition/mods/142338)
 
 ## UI
 [Display Enemy Level](https://www.nexusmods.com/skyrimspecialedition/mods/18533)\
@@ -712,7 +712,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 
 ## Pandora Behaviour Engine Plus
 
-1. You can run Pandora Behaviour Engine anytime all the animations have been installed.
+1. You can run Pandora Behaviour Engine anytime after all the animations have been installed.
 1. Run Pandora Behaviour Engine Plus.
 1. Enable everything and click the build button. (~25 seconds)
 
