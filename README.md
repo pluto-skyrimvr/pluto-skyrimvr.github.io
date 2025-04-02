@@ -405,7 +405,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Moons and Stars - Sky Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/73336): Choose Special Edition in the installer.\
 [Moons and Stars - Sky Overhaul SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/73667)\
 [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)\
-[Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220)\
+[Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220): Download the matching version with Journeyman VR.\
 [Journeyman VR](https://www.nexusmods.com/skyrimspecialedition/mods/139443)
 
 ## Economy
