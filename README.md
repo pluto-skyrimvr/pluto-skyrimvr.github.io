@@ -264,8 +264,9 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [The Amazing World of Bikini Armors REMASTERED](https://www.sunkeumjeong.com/post/the-amazing-world-of-bikini-armors-remastered-6-0): Choose Physics, CBBE 3BAv2, Original Books, Vanilla footsteps, None for Leveled List Integration in the installer.\
 [The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585)\
 [Bikini Outfits Optimally Balanced - Skypatcher (B.O.O.B.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/121122)\
-[SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Bandits(Vanilla), Imperials, Thalmor, Wenches, None for Clean Plugin in the installer.\
+[SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Imperials, Thalmor, Wenches, None for Clean Plugin in the installer. Make sure to not install Bandits(Vanilla). Bandits should be covered by Bikini Armor for Bandits because of Lawless leveled list.\
 [SPID Bikinification Fix](https://www.nexusmods.com/skyrimspecialedition/mods/136557)\
+[Bikini Armor for Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/146195): Choose Both, Lawless in the installer.\
 [Yet Another Elders Modesty Mod-Skypatched](https://www.nexusmods.com/skyrimspecialedition/mods/130004)
 
 ## Loot and Encounter Zones
