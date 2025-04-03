@@ -230,7 +230,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Northborn Scars](https://www.nexusmods.com/skyrimspecialedition/mods/720)\
 [Eyes Nouveaux](https://www.nexusmods.com/skyrimspecialedition/mods/131210): Download Good version. Choose Alternative Blue eyes, Novelyst's Cut, Vanilla-like, No for Saints Seducers, No for tweaks in the installer.\
 [High Quality Tintmasks for Various Mods](https://www.nexusmods.com/skyrimspecialedition/mods/18702): Download Relationship Dialogue Overhaul\
-[High Quality Tintmasks - Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/18355): Choose loose files in the installer.
+[High Quality Tintmasks - Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/18355): Choose loose files in the installer.\
+[Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441)
 
 ## Hair
 [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817): Download the complete package.\
@@ -282,8 +283,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
 [The Restless Dead (A Draugr and Skeleton Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/94100): Choose Default difficulty, USSEP, WACCF patches in the installer.\
 [Disable Draugr Combat Idles (Taunts)](https://www.nexusmods.com/skyrimspecialedition/mods/91398)\
-[Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Lawless - A Bandit Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/88080): Download the Main, Expanded Enemy Coverage, Lawless Simonrim, Patch FOMOD. Patch FOMOD - Choose Artificer, Open World Loot, Open World Loot - Expanded in the installer. Make sure to not install other patches. Difficulty and NPC overhaul records will be handled by Synthesis patcher.\
+[Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Magic Sneak Attacks VR](https://www.nexusmods.com/skyrimspecialedition/mods/68028)\
 [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
