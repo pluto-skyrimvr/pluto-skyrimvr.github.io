@@ -281,6 +281,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Pseudo Physical Weapon Collision and Parry AE SE VR](https://www.nexusmods.com/skyrimspecialedition/mods/100781): Download VR version.\
 [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
 [The Restless Dead (A Draugr and Skeleton Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/94100): Choose Default difficulty, USSEP, WACCF patches in the installer.\
+[Disable Draugr Combat Idles (Taunts)](https://www.nexusmods.com/skyrimspecialedition/mods/91398)\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Magic Sneak Attacks VR](https://www.nexusmods.com/skyrimspecialedition/mods/68028)\
 [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
