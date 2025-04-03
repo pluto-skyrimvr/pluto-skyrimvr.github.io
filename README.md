@@ -283,6 +283,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [The Restless Dead (A Draugr and Skeleton Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/94100): Choose Default difficulty, USSEP, WACCF patches in the installer.\
 [Disable Draugr Combat Idles (Taunts)](https://www.nexusmods.com/skyrimspecialedition/mods/91398)\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
+[Lawless - A Bandit Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/88080): Download the Main, Expanded Enemy Coverage, Lawless Simonrim, Patch FOMOD. Patch FOMOD - Choose Artificer, Open World Loot, Open World Loot - Expanded in the installer. Make sure to not install other patches. Difficulty and NPC overhaul records will be handled by Synthesis patcher.\
 [Magic Sneak Attacks VR](https://www.nexusmods.com/skyrimspecialedition/mods/68028)\
 [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
