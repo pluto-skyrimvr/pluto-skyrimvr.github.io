@@ -271,7 +271,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Loot and Encounter Zones
 [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download Main, Randomized Special Loot, WACCF and Armor and Clothing Extension patch.\
-[Open World Loot (OWL) Haugbui Patch](https://www.nexusmods.com/skyrimspecialedition/mods/92538)\
 [Encounter Zones Unlocked SE](https://www.nexusmods.com/skyrimspecialedition/mods/19608): Download the VR version.\
 [MEZF - Missing Encounter Zones FIXED](https://www.nexusmods.com/skyrimspecialedition/mods/23609): Download All Exteriors Zoned version.\
 [elwaps' Patches and Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32332): Download "MEZF - Missing Encounter Zones FIXED - Unofficial Skyrim Special Edition Patch".
@@ -279,10 +278,10 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Combat and Enemies
 [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Choose No Kill Moves in the installer.\
 [Blade and Blunt VR](https://www.nexusmods.com/skyrimspecialedition/mods/120494)\
-[No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
-[Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188): Download the Main, WACCF Patch, Better Shaped Weapons Patch.\
-[Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Pseudo Physical Weapon Collision and Parry AE SE VR](https://www.nexusmods.com/skyrimspecialedition/mods/100781): Download VR version.\
+[No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
+[The Restless Dead (A Draugr and Skeleton Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/94100): Choose Default difficulty, USSEP, WACCF patches in the installer.\
+[Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Magic Sneak Attacks VR](https://www.nexusmods.com/skyrimspecialedition/mods/68028)\
 [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
