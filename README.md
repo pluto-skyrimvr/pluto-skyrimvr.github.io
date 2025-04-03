@@ -199,7 +199,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461): (Optional) One of the best.
 
 ## More NPC
-[Full Random NPC Pack](https://www.nexusmods.com/skyrimspecialedition/mods/41728): Download KS Hairdos version.\
 [Interesting NPCs SSE](https://www.nexusmods.com/skyrimspecialedition/mods/29194): Download the main file, hotfix, Alternate locations patch, AI Overhaul patch.\
 [Interesting NPCs - Zora Fair-Child voice enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/27448): Zora's voice is hard to listen without this.\
 [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858)\
@@ -265,7 +264,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [The Amazing World of Bikini Armors REMASTERED](https://www.sunkeumjeong.com/post/the-amazing-world-of-bikini-armors-remastered-6-0): Choose Physics, CBBE 3BAv2, Original Books, Vanilla footsteps, None for Leveled List Integration in the installer.\
 [The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585)\
 [Bikini Outfits Optimally Balanced - Skypatcher (B.O.O.B.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/121122)\
-[SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Bandits(Vanilla), Imperials, Thalmor, Bandits(Full Random NPC), Wenches, None for Clean Plugin in the installer.\
+[SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Bandits(Vanilla), Imperials, Thalmor, Wenches, None for Clean Plugin in the installer.\
 [SPID Bikinification Fix](https://www.nexusmods.com/skyrimspecialedition/mods/136557)\
 [Yet Another Elders Modesty Mod-Skypatched](https://www.nexusmods.com/skyrimspecialedition/mods/130004)
 
@@ -651,7 +650,6 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 1. Enable the following mods in this order in the facefixer settings. Make sure to enable `Prioritize By Specified Order`.
    1. High Poly Expressive NPCs.esp
    1. HPENPC - 3DNPC.esp
-   1. Full Random NPC Pack.esp
    1. High Poly NPCs - Immersive Wenches.esp
    1. PAN_NPCs.esp
    1. PAN_NPCs_DB.esp
