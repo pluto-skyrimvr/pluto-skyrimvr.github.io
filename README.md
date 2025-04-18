@@ -268,6 +268,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Skimpy Outfits
 [Remodeled Armor for CBBE SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22168): Download the main file. Choose Vanilla Replacer, Cathedral - Armory, ACE/WACCF, Immersive Sounds Compendium patches in the installer.\
 [The Amazing World of Bikini Armors REMASTERED](https://www.sunkeumjeong.com/post/the-amazing-world-of-bikini-armors-remastered-6-0): Choose Physics, CBBE 3BAv2, Original Books, Vanilla footsteps, None for Leveled List Integration in the installer.\
+[Tawoba 6.1 unofficial tweaks fixes smp](https://www.nexusmods.com/skyrimspecialedition/mods/111200)\
 [The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585)\
 [Bikini Outfits Optimally Balanced - Skypatcher (B.O.O.B.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/121122)\
 [SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Imperials, Thalmor, Wenches, None for Clean Plugin in the installer. Make sure to not install Bandits(Vanilla). Bandits should be covered by Bikini Armor for Bandits because of Lawless leveled list.\
@@ -687,6 +688,9 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA`, `CT77 Remodeled - All`, `TAWOBA Remastered [3BA]` in the group selection bar.
    1. Click Batch Build. Right click on the list and choose Select All. Click Build.
    1. There will be a single conflict. Choose any of them.
+1. Choose `Tawoba_hdtsmp` in the group selection bar.
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
+   1. There will be some conflicts. Choose `xtra`, `covering`, `realistic`.
 1. Choose `TNG` in the group selection bar.
    1. Choose any outfit in the outfit list in order to enable preset selection.
    1. Choose `TNG Default` in the preset.
