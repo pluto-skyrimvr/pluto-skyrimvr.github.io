@@ -252,7 +252,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Armor and Weapons
 [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994): Choose 2K(default), LeanWolf's Better-shaped Weapons. Do not choose WACCF_BashedPatchLvlListFix.esp in the installer.\
-[Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002)\
+[Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002): Download the Main and SPID Patch.\
 [Weapons Armor Clothing and Clutter Fixes - CBBE 3BA patch (WACCF and ACE 3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/110680): Choose WACCF, ACE, prebuilt meshes in the installer.\
 [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933)\
 [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943)\
