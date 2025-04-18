@@ -647,6 +647,7 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
    1. AI-Overhaul-Patcher
    1. facefixer
    1. Missing-Encounter-Zones-Patcher
+   1. Remove Landscape Vertex Color
    1. placed-light-patcher
    1. Z-Floor-Patcher
 1. Enable the following mods in this order in the facefixer settings. Make sure to enable `Prioritize By Specified Order`.
