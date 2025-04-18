@@ -286,7 +286,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Lawless - A Bandit Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/88080): Download the Main, Expanded Enemy Coverage, Lawless Simonrim, Patch FOMOD. Patch FOMOD - Choose Artificer, Open World Loot, Open World Loot - Expanded in the installer. Make sure to not install other patches. Difficulty and NPC overhaul records will be handled by Synthesis patcher.\
 [Madmen - A Forsworn Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/98579): Download the Main and Patch FOMOD. Main - Choose Expanded Enemy Coverage, None for Magic Resist, Simonrim, None for Darenii's Spell Addons in the installer. Madman Patch FOMOD - Choose Open World Loot in the installer. Make sure to not install other patches. Difficulty and NPC overhaul records will be handled by Synthesis patcher.\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
-[Magic Sneak Attacks VR](https://www.nexusmods.com/skyrimspecialedition/mods/68028)\
 [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
 
