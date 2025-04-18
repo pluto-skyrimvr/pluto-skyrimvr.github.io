@@ -741,13 +741,14 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 
 ## Recommended Initial Mod Settings
 
-1.  When the game starts, create your chracter and wait until the mod initialization process completes. The scrolling notification messages on the top left screen will stop in 1-2 mins approximately.
-1.  Save the game just in case.
-1.  Open the mod settings and change the following options.
-1.  (Optional) Follower Framework: Set town only sandbox. Disable follower gifts.
-1.  (Optional) OStim Standalone: Go to Excitement. Disable UI bars.
-1.  SkyUI: Disable the effect UI widget.
-1.  SunHelm: Enable the mod, close the settings and wait until it finishes loading. Re-open the mod settings, disable the Tutorial and turn off the Widget. Untick Disable Fast Travel because it should be handled by Journeyman.
-1.  Save the game.
-1.  Load the saved game.
-1.  Enjoy your game.
+1. When the game starts, create your chracter and wait until the mod initialization process completes. The scrolling notification messages on the top left screen will stop in 1-2 mins approximately.
+1. Save the game just in case.
+1. Open the mod settings and change the following options.
+   1. Follower Framework: Set town only sandbox. Disable follower gifts.
+   1. OStim Standalone: Go to Excitement and disable UI bars. Go to Undress and tick Head Gear.
+   1. SkyUI: Disable the effect UI widget.
+   1. SunHelm: Enable the mod, close the settings and wait until it finishes loading. Re-open the mod settings, disable the Tutorial and turn off the Widget. Untick Disable Fast Travel because it should be handled by Journeyman.
+   1. VRIK: Set Head Bobbing to 0. Set Raise Palm for Compass UI display.
+1. Save the game.
+1. Load the saved game.
+1. Enjoy your game.
