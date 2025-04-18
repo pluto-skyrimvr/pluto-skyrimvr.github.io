@@ -677,14 +677,18 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 Since the mod authors use bodyslide group settings inconsistently, you will see lots of unnecessary conflicts when you run a batch build. Here is a simple way to keep you from clicking hundreds of conflicting items.
 
 1. Launch Bodyslide.
-1. Choose `(Pumpkin) - TEWOBA - CBBE`, `3BA`, `TAWOBA Remastered` and `unassigned` in the group selection bar.
+1. Choose `3BA`, `unassigned` in the group selection bar.
    1. Choose any outfit in the outfit list in order to enable preset selection.
    1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
    1. Click Batch Build. Right click on the list and choose Select All. Click Build.
-   1. It will pop up a new window to choose between conflicting items. Choose CT77 items whenever possible and then physics the next. Click Build.
-1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA` and `TAWOBA Remastered [3BA]` in the group selection bar.
+   1. It will pop up a new window to choose between conflicting items. Ignore the choices and just click Build.
+1. Choose `(Pumpkin) - TEWOBA - CBBE`, `CBBE 3BA ACE (Physics)`, `CBBE 3BA WACCF (Im Physics)`, `TAWOBA Remastered` in the group selection bar.
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build. There should be no conflict.
+1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA`, `CT77 Remodeled - All`, `TAWOBA Remastered [3BA]` in the group selection bar.
    1. Click Batch Build. Right click on the list and choose Select All. Click Build.
+   1. There will be a single conflict. Choose any of them.
 1. Choose `TNG` in the group selection bar.
+   1. Choose any outfit in the outfit list in order to enable preset selection.
    1. Choose `TNG Default` in the preset.
    1. Run Batch Build.
 
