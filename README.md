@@ -147,6 +147,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)\
 [Cathedral - 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032)\
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
+[Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725)\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
 [Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
 [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235): Download the Main. Untick Less snow on Windhelm ground in the installer.\
