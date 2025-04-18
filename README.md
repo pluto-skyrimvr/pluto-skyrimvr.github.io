@@ -151,6 +151,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235): Download the Main. Untick Less snow on Windhelm ground in the installer.\
 [Cathedral Landscapes - Snow Road Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/73298): Download Simplicity of Snow Patch.\
 [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257): Choose Simplicity of Snow, Vanilla Parallax Meshes in the installer.\
+[Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144): Download the Main.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
 [RUSTIC MOUNTAINS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4896)
