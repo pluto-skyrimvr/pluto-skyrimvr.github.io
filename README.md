@@ -394,6 +394,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
 
 ## Immersion
+[Animated Ships](https://www.nexusmods.com/skyrimspecialedition/mods/110260)\
 [Windy Grass](https://www.nexusmods.com/skyrimspecialedition/mods/45168): Choose Wind Multiplier 15 in the installer.\
 [Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348?tab=files&file_id=91328): Download v2.0.1 (pre-AE version).\
 [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379)\
