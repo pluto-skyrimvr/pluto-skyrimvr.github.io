@@ -442,7 +442,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files&file_id=134389): Download v4.0.3 (pre-AE version).\
 [NPC AI Process Position Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69326): Choose AI Overhaul in the installer.
 
-## Bug Fixes
+## Bug Fixes and Tweaks
 [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005): Download Main and Patches for Arthmoor's Town add-ons. Choose Alternate Start patch in the patch installer.\
 [Lightened Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50755): Choose USSEP, All in one, Skyrim Landscape and Water Fixes in the installer.\
 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432): Download Merged version.\
@@ -475,7 +475,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Alchemy XP Fix VR](https://www.nexusmods.com/skyrimspecialedition/mods/118746)\
 [Controller Fix VR](https://www.nexusmods.com/skyrimspecialedition/mods/123044)\
 [Dragonactorscript infinite loop fix](https://www.nexusmods.com/skyrimspecialedition/mods/87940): Choose Main and untick the Dragon War patch in the installer.\
-[Scripts Carefully Reworked Optimized and Tactfully Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/97155): Download loose files version.
+[Scripts Carefully Reworked Optimized and Tactfully Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/97155): Download loose files version.\
+[Disk Cache Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/100975)
 
 ## Patch Compendium
 [Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patch(3DNPC + ACE Patch) in the installer.\
