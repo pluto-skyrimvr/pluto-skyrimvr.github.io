@@ -129,6 +129,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Cathedral - Armory](https://www.nexusmods.com/skyrimspecialedition/mods/20199): The best quality mesh and texture for armors and weapons. Download the Main, Armor Mesh Fixes SE patch.\
 [True HD Nightingale](https://www.nexusmods.com/skyrimspecialedition/mods/4745): The Nightingale armor is not covered by Cathedral Armory. Choose "No" for Sword Retexture in the installer.\
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
+[Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
 [Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer, Cathedral Armor patch in the installer.\
 [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose Imperial Armors, Tulius and Penitus Amors, General Flax Armor, Imperial weapons, Clean for Champion's cudgel in the installer.
 
