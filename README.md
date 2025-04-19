@@ -122,7 +122,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388)\
 [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027): Download Unofficial Material Fix version.\
 [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download the Main.\
-[Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, Walkway Wall Fix SMIM, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
+[Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, SMIM for Walkway Wall Mesh Fix, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
 
 ## Texture and Mesh (Armor and Clothing)
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
