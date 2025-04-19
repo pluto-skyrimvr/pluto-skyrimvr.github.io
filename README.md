@@ -268,7 +268,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [aljo's Artificer Patches](https://www.nexusmods.com/skyrimspecialedition/mods/99684): Download the Main. Choose ArteFakes patch in the installer. We do not need AI Overhaul patch because it will be handled by Synthesis patch later.
 
 ## Skimpy Outfits
-[Remodeled Armor for CBBE SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22168): Download the main file. Choose Vanilla Replacer, Cathedral - Armory, ACE/WACCF, Immersive Sounds Compendium patches in the installer.\
+[Remodeled Armor for CBBE SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22168): Download the Main. Choose Vanilla Replacer, Patch for Cathedral Armory, WACCF Patch, ACE Patch, Immersive Sounds - Compendium patches in the installer.\
 [The Amazing World of Bikini Armors REMASTERED](https://www.sunkeumjeong.com/post/the-amazing-world-of-bikini-armors-remastered-6-0): Choose Physics, CBBE 3BAv2, Original Books, Vanilla footsteps, None for Leveled List Integration in the installer.\
 [Tawoba 6.1 unofficial tweaks fixes smp](https://www.nexusmods.com/skyrimspecialedition/mods/111200)\
 [The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585)\
