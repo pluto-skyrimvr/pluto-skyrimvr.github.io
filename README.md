@@ -276,13 +276,13 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Tawoba 6.1 unofficial tweaks fixes smp](https://www.nexusmods.com/skyrimspecialedition/mods/111200)\
 [The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585)\
 [Bikini Outfits Optimally Balanced - Skypatcher (B.O.O.B.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/121122)\
-[SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Imperials, Thalmor, Wenches, None for Clean Plugin in the installer. Make sure to not install Bandits(Vanilla). Bandits should be covered by Bikini Armor for Bandits because of Lawless leveled list.\
+[SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Bandits(Vanilla), Imperials, Thalmor, Wenches, None for Clean Plugin in the installer.\
 [SPID Bikinification Fix](https://www.nexusmods.com/skyrimspecialedition/mods/136557)\
-[Bikini Armor for Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/146195): Choose Both, Lawless in the installer.\
 [Yet Another Elders Modesty Mod-Skypatched](https://www.nexusmods.com/skyrimspecialedition/mods/130004)
 
 ## Loot and Encounter Zones
 [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download Main, Randomized Special Loot, WACCF and Armor and Clothing Extension patch.\
+[Open World Loot - Heritage Enemies 2 Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58277)\
 [Encounter Zones Unlocked SE](https://www.nexusmods.com/skyrimspecialedition/mods/19608): Download the VR version.\
 [MEZF - Missing Encounter Zones FIXED](https://www.nexusmods.com/skyrimspecialedition/mods/23609): Download All Exteriors Zoned version.\
 [elwaps' Patches and Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32332): Download "MEZF - Missing Encounter Zones FIXED - Unofficial Skyrim Special Edition Patch".
@@ -294,8 +294,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
 [The Restless Dead (A Draugr and Skeleton Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/94100): Choose Default difficulty, USSEP, WACCF patches in the installer.\
 [Disable Draugr Combat Idles (Taunts)](https://www.nexusmods.com/skyrimspecialedition/mods/91398)\
-[Lawless - A Bandit Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/88080): Download the Main, Expanded Enemy Coverage, Lawless Simonrim, Patch FOMOD. Patch FOMOD - Choose Artificer, Open World Loot, Open World Loot - Expanded in the installer. Make sure to not install other patches. Difficulty and NPC overhaul records will be handled by Synthesis patcher.\
-[Madmen - A Forsworn Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/98579): Download the Main and Patch FOMOD. Main - Choose Expanded Enemy Coverage, None for Magic Resist, Simonrim, None for Darenii's Spell Addons in the installer. Madman Patch FOMOD - Choose Open World Loot in the installer. Make sure to not install other patches. Difficulty and NPC overhaul records will be handled by Synthesis patcher.\
+[Heritage Enemies 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989): Download Texture BSA version and WACCF patch. Delete `Meshes/armor/dbarmor/dbarmorsleeveless_1.nif` that conflicts with Armor Mesh Fixes.\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085): Download the Main.\
 [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
