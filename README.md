@@ -251,9 +251,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Kalilies NPCs - Salt and Wind retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335)
 
 ## Creatures
-[HD Reworked Dragons Collection 4K](https://www.nexusmods.com/skyrimspecialedition/mods/36038)\
-[Dragon Animation Replace in Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2163): Download the main file and the standing breath option.\
-[Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957)\
+[Dragons SE](https://www.nexusmods.com/skyrimspecialedition/mods/132218)\
+[Diverse 4thUnknown Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/146462): Download Main and High Res Textures.\
 [Immersive Smilodons](https://www.nexusmods.com/skyrimspecialedition/mods/18429)\
 [Supreme Vampire Lords](https://www.nexusmods.com/skyrimspecialedition/mods/19706)\
 [Heartland Horses](https://www.nexusmods.com/skyrimspecialedition/mods/22083)\
