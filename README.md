@@ -297,7 +297,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Heritage Enemies 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989): Download Texture BSA version and WACCF patch. Delete `Meshes/armor/dbarmor/dbarmorsleeveless_1.nif` that conflicts with Armor Mesh Fixes.\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085): Download the Main.\
-[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
+[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto-selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
 
 ## Animation
@@ -484,7 +484,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Patch Compendium
 [Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patch(3DNPC + ACE Patch) in the installer.\
 [RS Children Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/13409): Install Interesting NPC patch only. Do not install AI Overhaul patch.\
-[QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/18369): Install auto selected mods. Then delete everything except Qw_WACCF_RSChildren Patch.esp, Qw_3DNPC_USSEP Patch.esp, Qw_BookCoversSkyrim_USSEP Patch.esp. All others are outdated and not needed because we are going to use Synthesis to forward changes from AOS, ISC and AI Overhaul.
+[QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/18369): Install auto-selected mods. Then delete everything except Qw_WACCF_RSChildren Patch.esp, Qw_3DNPC_USSEP Patch.esp, Qw_BookCoversSkyrim_USSEP Patch.esp. All others are outdated and not needed because we are going to use Synthesis to forward changes from AOS, ISC and AI Overhaul.
 
 ## VR
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)\
