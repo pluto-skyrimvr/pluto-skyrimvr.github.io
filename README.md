@@ -755,11 +755,22 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 1. When the game starts, create your chracter and wait until the mod initialization process completes. The scrolling notification messages on the top left screen will stop in 1-2 mins approximately.
 1. Save the game just in case.
 1. Open the mod settings and change the following options.
-   1. Follower Framework: Set town only sandbox. Disable follower gifts.
-   1. OStim Standalone: Go to Excitement and disable UI bars. Go to Undress and tick Head Gear.
-   1. SkyUI: Disable the effect UI widget.
-   1. SunHelm: Enable the mod, close the settings and wait until it finishes loading. Re-open the mod settings, disable the Tutorial and turn off the Widget. Untick Disable Fast Travel because it should be handled by Journeyman.
-   1. VRIK: Set Head Bobbing to 0. Set Raise Palm for Compass UI display.
+   1. NFF(Nether's Follower Framework)
+      1. Activity: Enable `Only Sandbox in Town`. (This is to prevent followers from sandboxing in hostile dungeons.)
+      1. Gameplay: Disable `Allow Gift Giving` in Regard System. (I find the gifting too frequent and annoying.)
+   1. OStim Standalone
+      1. Excitement: Disable `Player HUD bar` and `NPC HUD bar` in Excitement Bars. Set End scene condition as you prefer.
+      1. Undressing: Enable `S. 31 Head/hair` and `S. 52 Extra pelvis piece 2` in Underssing slots. (S. 52 is used by bottom pieces from TAWOBA and TEWOBA.)
+   1. SkyUI
+      1. General: Disable `Enabled` in Active Effects HUD.
+   1. SunHelm
+      1. General Settings: Activate the mod by setting `SunHelm Survival` to `Enabled` and close the mod settings UI.
+      1. Wait until SunHelm completes loading.
+      1. General Settings: Check `Disable Fast Travel` in Gameplay options. (Fast Travel should be handled by Journeyman mod.)
+      1. Display and Notifications: Disable `Enable Tutorials` in Display Options and `Toggle Widget` in Widget Options.
+   1. VRIK
+      1. VRIK Options: Set `Head Bobbing Height` to 0 in Automatic Height Adjustment.
+      1. Controls: Set `Show Compass` to either `When Left Palm Up` or as you prefer.
 1. Save the game.
 1. Load the saved game.
 1. Enjoy your game.
