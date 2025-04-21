@@ -48,7 +48,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Dynamic Campsites](https://www.nexusmods.com/skyrimspecialedition/mods/106932)\
 [Dynamic Campsites - 2K Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/136009)\
 [Dynamic Campsites - Blackreach Addon](https://www.nexusmods.com/skyrimspecialedition/mods/123707): Download ESPFE version.\
-[Dynamic Campsites - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/138542)\
+[Dynamic Campsites - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/138542): Choose both Vendors and Value in the installer.\
 [SunHelm Survival and needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414): Choose Diseases, SkyrimVR in the installer.\
 [Nordic UI Icons for Sunhelm and iNeed Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/61823): Choose SunHelm, no for widget addon in the installer. This mod is a workaround to fix SunHelm's cold widget glitch that messes with SkyUI VR.\
 [You Hunger SE](https://www.nexusmods.com/skyrimspecialedition/mods/9143)
