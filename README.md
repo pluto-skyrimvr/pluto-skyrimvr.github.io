@@ -140,7 +140,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901)\
 [CC's HQ Roadsigns SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2778): Download HD.\
 [SD's Farmhouse Fences SE](https://www.nexusmods.com/skyrimspecialedition/mods/38912): Download 2k Farmhouse Fences SE Version 2.\
-[LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Talos statue looks awkward without this mod.\
+[LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Choose High-Poly Statue, Nord Hero Greatsword in the installer.\
 [RUSTIC WINDOWS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1937): Download 2K version.\
 [RUGNAROK - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5436): Download 2K version.\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
