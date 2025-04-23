@@ -640,6 +640,7 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 1. Set `Smash.All-NO-LVLI` for the following plugin. This is to prevent WACCF from messing with OWL leveled lists.
    1. Weapons Armor Clothing & Clutter Fixes.esp
 1. Set `Smash.ForceAll` for the following plugin.
+   1. Remodeled Armor - Vanilla Replacer.esp
    1. aAxeRSCtweaks.esp
 1. Set `Smash.All` for the rest.
 1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
