@@ -626,7 +626,7 @@ The final plugin load order should look like this.
 1. DynDOLOD.esp
 1. Occlusion.esp
 
-## Cleaning ESM (Optional) 
+## Cleaning ESM (Optional)
 WARNING: This can potentially break the game if you don't do it properly.
 Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037).
 
