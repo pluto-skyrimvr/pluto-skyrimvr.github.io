@@ -124,20 +124,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download the Main.\
 [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, SMIM for Walkway Wall Mesh Fix, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
 
-## Texture and Mesh (Armor and Clothing)
-[Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
-[Cathedral - Armory](https://www.nexusmods.com/skyrimspecialedition/mods/20199): The best quality mesh and texture for armors and weapons. Download the Main, Armor Mesh Fixes SE patch.\
-[True HD Nightingale](https://www.nexusmods.com/skyrimspecialedition/mods/4745): The Nightingale armor is not covered by Cathedral Armory. Choose "No" for Sword Retexture in the installer.\
-[RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
-[Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
-[Iron Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84978): Choose Textures Only for Iron Armor, Textures Olny for Weapons, Textures Only for Targe of the Blooded, Headman's Axe, None for CC contents, Iron Armor for Iron Armor Texture options, None for sleeves, Leanwolf's iron scabbard patch, Cathedral Armory patch in the installer.\
-[Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445): Choose everything under Vanilla Items, using Cathedral Armory, White fur, Vanilla style for Steel Plate Design in the installer.\
-[Orcish Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84607): Choose Textures Only for Orcish Armor, Orcish Weapons, Cathedral Armory patch in the installer.\
-[Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer, Cathedral Armory patch in the installer.\
-[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose Imperial Armors, Tulius and Penitus Amors, General Flax Armor, Imperial weapons, Clean for Champion's cudgel in the installer.\
-[Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
-[JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813): Download 2K version and Artificer patch.
-
 ## Texture and Mesh (Misc)
 [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901)\
 [CC's HQ Roadsigns SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2778): Download HD.\
@@ -273,13 +259,29 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [aljo's Artificer Patches](https://www.nexusmods.com/skyrimspecialedition/mods/99684): Download the Main. Choose ArteFakes patch in the installer. We do not need AI Overhaul patch because it will be handled by Synthesis patch later.
 
 ## Skimpy Outfits
-[Remodeled Armor for CBBE SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22168): Download the Main. Choose Vanilla Replacer, Patch for Cathedral Armory, WACCF Patch, ACE Patch, Immersive Sounds - Compendium patches in the installer.\
 [The Amazing World of Bikini Armors REMASTERED](https://www.sunkeumjeong.com/post/the-amazing-world-of-bikini-armors-remastered-6-0): Choose Physics, CBBE 3BAv2, Original Books, Vanilla footsteps, None for Leveled List Integration in the installer.\
 [Tawoba 6.1 unofficial tweaks fixes smp](https://www.nexusmods.com/skyrimspecialedition/mods/111200)\
 [The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585)\
 [Bikini Outfits Optimally Balanced - Skypatcher (B.O.O.B.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/121122)\
 [SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Bandits(Vanilla), Imperials, Thalmor, Wenches, None for Clean Plugin in the installer.\
-[SPID Bikinification Fix](https://www.nexusmods.com/skyrimspecialedition/mods/136557)\
+[SPID Bikinification Fix](https://www.nexusmods.com/skyrimspecialedition/mods/136557)
+
+## Texture and Mesh (Armor and Weapons)
+[Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
+[Cathedral - Armory](https://www.nexusmods.com/skyrimspecialedition/mods/20199): The best quality mesh and texture for armors and weapons. Download the Main, Armor Mesh Fixes SE patch.\
+[True HD Nightingale](https://www.nexusmods.com/skyrimspecialedition/mods/4745): The Nightingale armor is not covered by Cathedral Armory. Choose "No" for Sword Retexture in the installer.\
+[RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
+[Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
+[Iron Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84978): Choose Textures Only for Iron Armor, Textures Olny for Weapons, Textures Only for Targe of the Blooded, Headman's Axe, None for CC contents, Iron Armor for Iron Armor Texture options, None for sleeves, Leanwolf's iron scabbard patch, Cathedral Armory patch in the installer.\
+[Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445): Choose everything under Vanilla Items, using Cathedral Armory, White fur, Vanilla style for Steel Plate Design in the installer.\
+[Orcish Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84607): Choose Textures Only for Orcish Armor, Orcish Weapons, Cathedral Armory patch in the installer.\
+[Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer, Cathedral Armory patch in the installer.\
+[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose Imperial Armors, Tulius and Penitus Amors, General Flax Armor, Imperial weapons, Clean for Champion's cudgel in the installer.\
+[Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
+[JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813): Download 2K version and Artificer patch.
+
+## Skimpy Outfits (Vanilla Replacer)
+[Remodeled Armor for CBBE SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22168): Download the Main. Choose Vanilla Replacer, Patch for Cathedral Armory, WACCF Patch, ACE Patch, Immersive Sounds - Compendium patches in the installer.\
 [Yet Another Elders Modesty Mod-Skypatched](https://www.nexusmods.com/skyrimspecialedition/mods/130004)
 
 ## Loot and Encounter Zones
