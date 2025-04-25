@@ -134,16 +134,16 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445): Choose everything under Vanilla Items, using Cathedral Armory, White fur, Vanilla style for Steel Plate Design in the installer.\
 [Orcish Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84607): Choose Textures Only for Orcish Armor, Orcish Weapons, Cathedral Armory patch in the installer.\
 [Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer, Cathedral Armory patch in the installer.\
-[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose Imperial Armors, Tulius and Penitus Amors, General Flax Armor, Imperial weapons, Clean for Champion's cudgel in the installer.
+[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose Imperial Armors, Tulius and Penitus Amors, General Flax Armor, Imperial weapons, Clean for Champion's cudgel in the installer.\
+[Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
+[JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813): Download 2K version and Artificer patch.
 
 ## Texture and Mesh (Misc)
 [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901)\
 [CC's HQ Roadsigns SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2778): Download HD.\
 [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
 [SD's Farmhouse Fences SE](https://www.nexusmods.com/skyrimspecialedition/mods/38912): Download 2k Farmhouse Fences SE Version 2.\
-[LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Choose High-Poly Statue, Nord Hero Greatsword in the installer.\
-[Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
-[JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813): Download 2K version and Artificer patch.
+[LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Choose High-Poly Statue, Nord Hero Greatsword in the installer.
 
 ## Landscape
 [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954): Choose fat ESP, Full Install Brown Tundra, Really Blended Roads in the installer.\
