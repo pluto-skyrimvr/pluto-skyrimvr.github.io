@@ -382,6 +382,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Dragon Breath VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/118431)\
 [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520)\
 [Frost VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/112509)\
+[Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)\
+[Dynamic (Locational) Armor and Weapon Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/147847)\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
 [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
 [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407)\
