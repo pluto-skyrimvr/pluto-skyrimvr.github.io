@@ -121,8 +121,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659): Install Lite version.\
 [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388)\
 [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027): Download Unofficial Material Fix version.\
-[Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download the Main.\
-[Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138): Choose 1.5.97 esm and USSEP, SMIM for Walkway Wall Mesh Fix, Navigator(ESPFE), Landscape Fixes For Grass Mods in the installer.
+[Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117): Download the Main.
 
 ## Texture and Mesh (Misc)
 [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901)\
@@ -132,6 +131,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Choose High-Poly Statue, Nord Hero Greatsword in the installer.
 
 ## Landscape
+[Vanilla Landscape Corrections - VLC](https://www.nexusmods.com/skyrimspecialedition/mods/104962): Don't choose any patch in the installer.\
 [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954): Choose fat ESP, Full Install Brown Tundra, Really Blended Roads in the installer.\
 [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)\
 [Cathedral 3D Mountain Flower - Fixed Placement](https://www.nexusmods.com/skyrimspecialedition/mods/143566): Download BOS version.\
@@ -450,7 +450,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Bug Fixes and Tweaks
 [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005): Download Main and Patches for Arthmoor's Town add-ons. Choose Alternate Start patch in the patch installer.\
-[Lightened Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50755): Choose USSEP, All in one, Skyrim Landscape and Water Fixes in the installer.\
+[Lightened Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50755): Choose USSEP, All in one in the installer.\
 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432): Download Merged version.\
 [To Your Face SE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/24720)\
 [Sound Hammering Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/5592)\
