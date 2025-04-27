@@ -389,7 +389,11 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
 [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
 [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407)\
-[Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.
+[Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.\
+[Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808)\
+[SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924)\
+[Footprints - Alternative Design](https://www.nexusmods.com/skyrimspecialedition/mods/109544)\
+[Ultimate fix - SPID for Footprins](https://www.nexusmods.com/skyrimspecialedition/mods/96086): Choose child addon, SPID and KID in the installer.
 
 ## Texture and Mesh (Late Order)
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Clutter, College of Winterhold, DLC01 architecture, DLC02 architecture, Dwemer Ruins and Markarth, Nordic Ruins, orc architecture, ShacksStockadesMines, Ships, Skyhaven, Solitude, Soul Cairn, Sovngarde, Sovngarde in Optional files. (This means every file except High Hrothgar, Windhelm)\
@@ -528,7 +532,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Cooking Categories Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/84875)\
 [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469): Choose Lite version, Fruits in the installer.\
 [FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose Base FLM INIs, [USSEP] + [default], Show Optinoal Tweaks, Show Mod Specific Patches, Bees, Various Vanilla Items, Arcane Fire, Ash Fire, Chaos, Shock, Steam, Sun, auto-selected patches(SunHelm, USSEP, Alternate Start) in the installer.\
-[Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529): Choose auto-selected(Cooking Categories Improvement, SunHelm) in the installer.\
+[Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529): Choose auto-selected(Cooking Categories Improvement, Footprints, SunHelm) in the installer.\
 [The Handy Icon Collection Collective](https://www.nexusmods.com/skyrimspecialedition/mods/90508)\
 [B.O.O.B.I.E.S (aka Immersive Icons)](https://www.nexusmods.com/skyrimspecialedition/mods/89241): Choose Core Files and TAWOBA, TEWOBA, Inigo, Interesting NPCs, Nether's Follower Framework, Relationship Dialogue Overhaul moduels(auto-selected) in the installer.\
 [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/89823): Choose Colorful Food in the installer.\
