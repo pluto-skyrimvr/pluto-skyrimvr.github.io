@@ -146,6 +146,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144): Download the Main.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
+[Enhanced Rocks and Mountains - Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Parallax, Vanilla for Icy Caves in the installer.\
+[ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.\
 [RUSTIC MOUNTAINS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4896)
 
 ## Cities and Buildings
