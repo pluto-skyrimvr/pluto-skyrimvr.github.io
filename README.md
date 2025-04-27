@@ -533,7 +533,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [B.O.O.B.I.E.S (aka Immersive Icons)](https://www.nexusmods.com/skyrimspecialedition/mods/89241): Choose Core Files and TAWOBA, TEWOBA, Inigo, Interesting NPCs, Nether's Follower Framework, Relationship Dialogue Overhaul moduels(auto-selected) in the installer.\
 [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/89823): Choose Colorful Food in the installer.\
 [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/90526): Choose Colorful Ingredients in the installer.\
-[Spell Tomes - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/96117)\
+[Rotols More Icons](https://www.nexusmods.com/skyrimspecialedition/mods/113657)\
 [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076)\
 [Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219): Choose "Any other supported overhauls" for Aetherius, No for Survival Mode in the installer.\
 [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780): Choose "One of supported overhauls" for Mundus in the installer.\
