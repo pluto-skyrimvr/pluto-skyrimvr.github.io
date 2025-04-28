@@ -175,6 +175,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Body
 [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended installation, XPMSE latest, None for everything else, Schlong of Skyrim patch in the installer. Delete SOSRaceMenu.esp.\
+[XP32 First Person Skeleton CTD Bugfix for VR](https://www.nexusmods.com/skyrimspecialedition/mods/34301)\
 [No Me Molestes Updated](https://www.nexusmods.com/skyrimspecialedition/mods/134937)\
 [CBPC - CBP Physics with Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/21224): Choose SkyrimVR, CBBE Curvy, Gravity Config in the installer. FPS and bounce amplitude config do not matter because they will be overwritten by the config from 3BBB.\
 [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198): Choose Curvy, Underwear None. Untick Vanilla Outfits and Face Pack. Choose Eyebrow None. Untick Pubic Hair. Skip the options in the next page.\
