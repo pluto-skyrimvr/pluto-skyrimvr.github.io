@@ -434,6 +434,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224): Choose 2K textures and any DLL in the installer. VR version of DLL will overwrite it.\
 [Security Overhaul SKSEVR - Lock Variations VR](https://www.nexusmods.com/skyrimspecialedition/mods/58298)\
 [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529): Choose 2K textures in the installer.\
+[Security Overhaul SKSE - Extra Locks](https://www.nexusmods.com/skyrimspecialedition/mods/126119): Choose 2K textures in the installer.\
 [Moons and Stars - Sky Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/73336): Choose Special Edition in the installer.\
 [Moons and Stars - Sky Overhaul SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/73667)\
 [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)\
