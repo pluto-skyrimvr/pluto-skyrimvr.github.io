@@ -464,7 +464,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Lightened Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50755): Choose USSEP, All in one in the installer.\
 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432): Download Merged version.\
 [To Your Face SE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/24720)\
-[Sound Hammering Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/5592)\
+[Hammering Animation and Sound Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/142807)\
 [Skyrim VR USSEP Dwarven Ballista missing texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/18722)\
 [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471)\
 [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)\
