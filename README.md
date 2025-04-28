@@ -273,7 +273,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Texture and Mesh (Armor and Weapons)
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
 [Cathedral - Armory](https://www.nexusmods.com/skyrimspecialedition/mods/20199): The best quality mesh and texture for armors and weapons. Download the Main, Armor Mesh Fixes SE patch.\
-[True HD Nightingale](https://www.nexusmods.com/skyrimspecialedition/mods/4745): The Nightingale armor is not covered by Cathedral Armory. Choose "No" for Sword Retexture in the installer.\
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
 [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
 [Iron Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84978): Choose Textures Only for Iron Armor, Textures Olny for Weapons, Textures Only for Targe of the Blooded, Headman's Axe, None for CC contents, Iron Armor for Iron Armor Texture options, None for sleeves, Leanwolf's iron scabbard patch, Cathedral Armory patch in the installer.\
@@ -281,6 +280,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Orcish Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84607): Choose Textures Only for Orcish Armor, Orcish Weapons, Cathedral Armory patch in the installer.\
 [Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer, Cathedral Armory patch in the installer.\
 [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose Imperial Armors, Tulius and Penitus Amors, General Flax Armor, Imperial weapons, Clean for Champion's cudgel in the installer.\
+[Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Choose everything under Vanilla Items, Nightingale Scabbard in the installer.\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813): Download 2K version and Artificer patch.
 
