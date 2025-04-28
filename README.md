@@ -530,6 +530,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Name Those Ash Piles](https://www.nexusmods.com/skyrimspecialedition/mods/24701): Download the latest SE or AE version. We only need INI file and DLL will be overwritten by VR version below.\
 [Name Those Ash Piles VR](https://www.nexusmods.com/skyrimspecialedition/mods/59825)\
 [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)\
+[VR Console Selection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/140752)\
 [Unique Region Names SE](https://www.nexusmods.com/skyrimspecialedition/mods/56452)\
 [Regional Save Names](https://www.nexusmods.com/skyrimspecialedition/mods/49698): Download VR version.\
 [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702): Download VR version.\
