@@ -423,7 +423,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Immersion
 [Animated Ships](https://www.nexusmods.com/skyrimspecialedition/mods/110260)\
 [Windy Grass](https://www.nexusmods.com/skyrimspecialedition/mods/45168): Choose Wind Multiplier 15 in the installer.\
-[Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348?tab=files&file_id=91328): Download v2.0.1 (pre-AE version).\
+[The Gildergreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/128828)\
 [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379)\
 [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651) \
 [Northern Bathhouses - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/16565): Tested all the bathing mods but this simple mod was the best in my opinion.\
