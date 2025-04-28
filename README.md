@@ -105,7 +105,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000): Choose VR, ESL, BSA in the installer.
 
 ## Weather
-[Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers III in the Main and its Darker nights patch in the optional files.\
+[Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers III in the Main.\
 [Azurite III - HDR](https://www.nexusmods.com/skyrimspecialedition/mods/138991)\
 [Obsidian Mountain Fogs Tweaked](https://www.nexusmods.com/skyrimspecialedition/mods/71189): Download default version.
 
