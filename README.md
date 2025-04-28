@@ -340,6 +340,9 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Gesture Animation Remix (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/64420)\
 [Arm Movement Animations (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/62849)\
 [Conditional tavern cheering (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63029)\
+[Hammering Animation and Sound Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/142807)\
+[Vanilla Eating Animation Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/120727)\
+[Barstool Exit Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/144556)\
 [Flute Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69609): Choose XP32/XMPSSE for female, XP32/None for male in the installer.
 
 ## Gameplay
@@ -464,7 +467,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Lightened Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50755): Choose USSEP, All in one in the installer.\
 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432): Download Merged version.\
 [To Your Face SE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/24720)\
-[Hammering Animation and Sound Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/142807)\
 [Skyrim VR USSEP Dwarven Ballista missing texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/18722)\
 [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471)\
 [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)\
