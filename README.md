@@ -463,7 +463,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [To Your Face SE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/24720)\
 [Sound Hammering Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/5592)\
 [Skyrim VR USSEP Dwarven Ballista missing texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/18722)\
-[Rude Imperial Soldiers Escort Prisoner fix](https://www.nexusmods.com/skyrimspecialedition/mods/894)\
 [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471)\
 [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)\
 [FloraFixer - Mutagen Patcher and Data](https://www.nexusmods.com/skyrimspecialedition/mods/42057): Synthesis patch will be built later.\
