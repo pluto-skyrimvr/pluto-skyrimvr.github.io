@@ -131,6 +131,11 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [SD's Farmhouse Fences SE](https://www.nexusmods.com/skyrimspecialedition/mods/38912): Download 2k Farmhouse Fences SE Version 2.\
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Choose High-Poly Statue, Nord Hero Greatsword in the installer.
 
+## Roads
+[Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588): Download the Main, and main plugin update, meshes update in Update files. Choose No ENB Light, Blended Roads version in the installer.\
+[Lux via - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/116722): Choose auto-selected patch(Carriage and Ferry Travel Overhaul) in the installer.\
+[Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834): Choose Really Blended Roads for both Main and SMIM patch in the installer.
+
 ## Landscape
 [Vanilla Landscape Corrections - VLC](https://www.nexusmods.com/skyrimspecialedition/mods/104962): Don't choose any patch in the installer.\
 [Cathedral Landscapes - True Grass Only](https://www.nexusmods.com/skyrimspecialedition/mods/103937): Download the Main.\
@@ -401,12 +406,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Texture and Mesh (Late Order)
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k.\
-[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
+[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, Lux Via, SunHelm Survival in the installer.
 
 ## Lighting
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
-[Placed Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Download the Main only. Choose Tonemapping addon, Even Brighter Lighting Template, Placed Light Bulbs, Placed Light - Exteriors, Dwemer Swap BDS addono in the installer. Synthesis patch will be built later.\
+[Placed Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Download the Main only. Choose Tonemapping addon, Even Brighter Lighting Template, Placed Light Bulbs, Dwemer Swap BDS addono in the installer. Synthesis patch will be built later.\
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose Light Placer Overhauls for Main Configs, Everything for Install options in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.
 
