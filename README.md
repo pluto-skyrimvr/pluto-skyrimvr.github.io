@@ -148,10 +148,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
 [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725)\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
-[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
-[Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235): Download the Main. Untick Less snow on Windhelm ground in the installer.\
-[Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257): Choose Simplicity of Snow, Vanilla Parallax Meshes in the installer.\
-[Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144): Download the Main.\
+[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose Low Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin(BDS), High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
+[Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121): Download the Main v3.x. Choose Brighter color, Default UVs, None for projected diffuse textures in the installer.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
 [Enhanced Rocks and Mountains - Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Parallax, Vanilla for Icy Caves in the installer.\
