@@ -119,7 +119,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Texture and Mesh (Base)
 [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850): Download "Basecoat - Textures only" 1.0 in Old Files section.\
-[Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65720): Choose BSA, Particle Patch for ENB, No for Light Shafts, Remove Fake Light Glow, Yes for Custom Textures in the installer.\
 [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659): Install Lite version.\
 [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388)\
 [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027): Download Unofficial Material Fix version.\
@@ -410,7 +409,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
 [Placed Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Download the Main only. Choose Tonemapping addon, Even Brighter Lighting Template, Placed Light Bulbs, Placed Light - Exteriors, Dwemer Swap BDS addono in the installer. Synthesis patch will be built later.\
-[CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose Light Placer Overhauls for Main Configs, Everything for Install options, Particle Patch LP in the installer.\
+[CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose Light Placer Overhauls for Main Configs, Everything for Install options in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.
 
 ## Shaders
