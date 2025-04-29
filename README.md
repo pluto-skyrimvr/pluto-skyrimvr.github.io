@@ -157,14 +157,12 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761): Download the Parallax version.\
 [Windhelm Entrance Offset Fix - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/98207)\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
-[Mrf's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/65256): Download 4K version and Parallax Textures.\
 [Rally's Solstheim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/36893): Choose 4K, LODs 512 and keep everything else as default in the installer.\
 [Rally's Solstheim - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/51905): Download ParallaxGen version.\
 [Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 4K version.\
 [Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
 [Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
 [Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 4K version.\
-[Exist's Ebony High Hrothgar - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/130394): Download 4K version.\
 [Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.
 
 ## World Map
@@ -402,7 +400,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Ultimate fix - SPID for Footprins](https://www.nexusmods.com/skyrimspecialedition/mods/96086): Choose child addon, SPID and KID in the installer.
 
 ## Texture and Mesh (Late Order)
-[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Clutter, College of Winterhold, DLC01 architecture, DLC02 architecture, Dwemer Ruins and Markarth, Nordic Ruins, orc architecture, ShacksStockadesMines, Ships, Skyhaven, Solitude, Soul Cairn, Sovngarde, Sovngarde in Optional files. (This means every file except High Hrothgar, Windhelm)\
+[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k.\
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
 
 ## Lighting
