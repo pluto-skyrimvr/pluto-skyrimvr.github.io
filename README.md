@@ -656,10 +656,10 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 1. Create a new setting called `Smash.All-NO-LVLI` by cloning `Smash.All` and removing `LVLI(leveled list)` from it.
 1. Set `Smash.All-NO-LVLI` for the following plugin. This is to prevent WACCF from messing with OWL leveled lists.
    1. Weapons Armor Clothing & Clutter Fixes.esp
-1. Set `Smash.ForceAll` for the following plugin.
-   1. Remodeled Armor - Vanilla Replacer.esp
+1. Set `Smash.ForceAll` for the following plugins.
+   1. Remodeled Armor - Vanilla Replacer.esp (To overwrite `Weapons Armor Clothing & Clutter Fixes.esp`)
    1. aAxeRSCtweaks.esp
-   1. Footprints - PBR Patch.esp (To overwrite `FootprintsSand-patch.esp` properly.)
+   1. Footprints - PBR Patch.esp (To overwrite `FootprintsSand-patch.esp`)
 1. Set `Smash.All` for the rest.
 1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
 1. Build a Smashed Patch. (~7 minutes)
