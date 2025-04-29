@@ -32,7 +32,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): Download both Main files. Use Root Builder for Part 2.\
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch, RaceMenu ESL Patch.\
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
-[eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
+[eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)\
+[Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patches(Lux Via, Trees of Riverwood - Happy Little Trees) in the installer.
 
 ## New Contents
 [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files&file_id=175926): Download 4.1.4 (pre-AE version). You must extract BSA when you install the mod. Also, you have to disable VR playroom in SkyrimVR INI to make the mod work.\
