@@ -139,6 +139,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Landscape
 [Vanilla Landscape Corrections - VLC](https://www.nexusmods.com/skyrimspecialedition/mods/104962): Don't choose any patch in the installer.\
+[Faultier's PBR Skyrim(Landscapes)](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Landscapes 4k. Ignore the AIO textures for now. It will be installed separately later.\
 [Cathedral Landscapes - True Grass Only](https://www.nexusmods.com/skyrimspecialedition/mods/103937): Download the Main.\
 [Cathedral Landscapes Grass Mipmap Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62477)\
 [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)\
@@ -154,8 +155,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
 [Enhanced Rocks and Mountains - Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Parallax, Vanilla for Icy Caves in the installer.\
-[ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.\
-[RUSTIC MOUNTAINS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4896)
+[ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.
 
 ## Cities and Buildings
 [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728): Choose Markarth Fixed AF(parallax) in the installer.\
