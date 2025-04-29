@@ -401,7 +401,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808)\
 [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924)\
 [Footprints - Alternative Design](https://www.nexusmods.com/skyrimspecialedition/mods/109544)\
-[Ultimate fix - SPID for Footprins](https://www.nexusmods.com/skyrimspecialedition/mods/96086): Choose child addon, SPID and KID in the installer.
+[Ultimate fix - SPID for Footprins](https://www.nexusmods.com/skyrimspecialedition/mods/96086): Choose child addon, SPID and KID in the installer.\
+[Realistic PBR Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/140780): Choose auto-selected patches(Sand Patch, Ultimate Fix) in the installer.
 
 ## Texture and Mesh (Late Order)
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k.\
@@ -658,6 +659,7 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 1. Set `Smash.ForceAll` for the following plugin.
    1. Remodeled Armor - Vanilla Replacer.esp
    1. aAxeRSCtweaks.esp
+   1. Footprints - PBR Patch.esp (To overwrite `FootprintsSand-patch.esp` properly.)
 1. Set `Smash.All` for the rest.
 1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
 1. Build a Smashed Patch. (~7 minutes)
