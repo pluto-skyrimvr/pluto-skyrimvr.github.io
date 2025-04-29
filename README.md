@@ -133,7 +133,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Landscape
 [Vanilla Landscape Corrections - VLC](https://www.nexusmods.com/skyrimspecialedition/mods/104962): Don't choose any patch in the installer.\
-[Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954): Choose fat ESP, Full Install Brown Tundra, Really Blended Roads in the installer.\
+[Cathedral Landscapes - True Grass Only](https://www.nexusmods.com/skyrimspecialedition/mods/103937): Download the Main.\
+[Cathedral Landscapes Grass Mipmap Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62477)\
 [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)\
 [Cathedral 3D Mountain Flower - Fixed Placement](https://www.nexusmods.com/skyrimspecialedition/mods/143566): Download BOS version.\
 [Cathedral - 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032)\
@@ -142,7 +143,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
 [Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose High Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
 [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235): Download the Main. Untick Less snow on Windhelm ground in the installer.\
-[Cathedral Landscapes - Snow Road Compatibility Patches](https://www.nexusmods.com/skyrimspecialedition/mods/73298): Download Simplicity of Snow Patch.\
 [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257): Choose Simplicity of Snow, Vanilla Parallax Meshes in the installer.\
 [Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144): Download the Main.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
