@@ -525,7 +525,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## UI
 [Display Enemy Level](https://www.nexusmods.com/skyrimspecialedition/mods/18533)\
-[StatFX](https://www.nexusmods.com/skyrimspecialedition/mods/112605)\
+[Better Heartbeats](https://www.nexusmods.com/skyrimspecialedition/mods/16408): Choose 50 for Low Health(Percent), Louder for Heartbeat Volume in the installer.\
 [Hidden location info and more VR](https://www.nexusmods.com/skyrimspecialedition/mods/21404)\
 [Hi-Res VR Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/35627)\
 [Clear HUD VR](https://www.nexusmods.com/skyrimspecialedition/mods/49657): Choose "Hide Health, Magicka, Stamina, Enchantments" in the installer.\
