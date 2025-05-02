@@ -560,14 +560,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926): Replaced by Synthesis patch.\
   [Armor Rating Redux VR](https://www.nexusmods.com/skyrimspecialedition/mods/30727): The latest combat mods have their own armor rating mechanism. Using this mod will break the combat mod's intended design.\
   [Azurite Mists](https://www.nexusmods.com/skyrimspecialedition/mods/106559): Removed because the mod messes with the sky meshes in VR.\
-  [Cathedral Snow (SSE or VR)](https://www.nexusmods.com/skyrimspecialedition/mods/18033): Melted snow mesh/texture looks broken.\
   [Complex Parallax Materials](https://www.nexusmods.com/skyrimspecialedition/mods/95134): No longer needed with the latest Community Shaders.\
   [Cooking Facilities in Inns (and Kynesgrove)](https://www.nexusmods.com/skyrimspecialedition/mods/36239): It conflicts with Lux and Embers XD.\
   [Cubemap Reflections](https://www.nexusmods.com/skyrimspecialedition/mods/103077): No longer needed with the latest Community Shaders.\
   [Cutting Room Floor](https://www.nexusmods.com/skyrimspecialedition/mods/276): It requires too many patches to fix conflicts. Not really worth it considering what it provides.\
   [Dear Diary VR - Paper SkyUI and Categorized Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/44874): Not updated for the latest SkyUI VR.\
   [Dirt and Blood - Dynamic Visual Effects](https://www.nexusmods.com/skyrimspecialedition/mods/38886): Replaced by lightweight alternative Just Blood. Also, the dirt effect does not look good because of flickering.\
-  [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33746): Replaced by Open Animation Replacer.\
   [ENB Lights For Effect Shaders VR](https://www.nexusmods.com/skyrimspecialedition/mods/99753): Replaced by Placed Lights.\
   [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424): The meshes were used for Lux but Light Limit Fix does not need split meshes.\
   [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725): It looks too dark everywhere. This does not seem to work in VR.\
@@ -575,16 +573,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561): The same fix is included in Inventory Interface Information Injector.\
   [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957): Light Limit Fix does not need split meshes.\
   [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): Micro stuttering was observed whenever enemy NPC died.\
-  [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876): Does not work well with iNeed. Also, SURV keywords being displayed is annoying. It seems it was built for Survival Mode which is not available in VR.\
+  [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876): SURV keywords being displayed is annoying. It seems it was built for Survival Mode which is not available in VR.\
   [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393): No longer needed in the latest Honed Metal.\
-  [Ice skating fixed for real - No more attack sliding movement](https://www.nexusmods.com/skyrimspecialedition/mods/55417): The same fix is included in ADXP MCO.\
   [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718): Removed to avoid easy loots from dead patrols.\
   [Improved Atmosphere Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44247): It causes horizon seam issue when used with Azurite Weather.\
-  [Improved Candleglow Lights for the Light Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/101250): Replaced by Optimized ENB Light Meshes.\
   [Improved Clouds Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44103): It causes horizon seam issue when used with Azurite Weather.\
-  [iNeed - Food Water and Sleep - Continued](https://www.nexusmods.com/skyrimspecialedition/mods/19390): It overwrites Simplicity of Sea water records and there is no patch. Also, how it works is outdated.\
   [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520): It halves the framerates when used with CS Light.\
-  [LLF Particle Lights instead of Fake Glow](https://www.nexusmods.com/skyrimspecialedition/mods/99768): Replaced by Optimized ENB Light Meshes.\
   [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199): Replaced by NPCs Learn to Aim.\
   [Locational Damage SKSE VR](https://www.nexusmods.com/skyrimspecialedition/mods/26447): It makes the game too easy.\
   [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212): I see many warnings about the mod not being able to find encounter zones.\
@@ -592,8 +586,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [More Tavern Idles - SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/16757): Redundant and not compatible with AI Overhaul that adds its own idle markers.\
   [MorrowLoot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058): Loots are predictable. Open World Loot's randomness works better for replayability in my opinion.\
   [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/1763): Synthesis Archery patch covers the same tweak.\
-  [Plockton's Culling Data Glitch Fix for Square Holes in the Ocean](https://www.nexusmods.com/skyrimspecialedition/mods/24791): Redundant because DynDOLOD 3 fixes the problem.\
-  [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182): The water LOD looks terrible with Community Shader.\
   [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536): Removed because of compatibility issues with lighting mods.\
   [Remove Blurry Snowflakes](https://www.nexusmods.com/skyrimspecialedition/mods/38358): The same fix is included in Azurite Weather.\
   [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192): Its lighting is too dim with Community Shader LLF.\
@@ -601,11 +593,9 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764): It may seem handy in some cases but it causes more annoying problems because neutral aggression is not handled properly by the game.\
   [Simplicity of Sea - Water Mod with ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520): It looks good but lacks the water flow changes.\
   [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604): No longer needed with the latest Community Shaders.\
-  [SkyVRaan - Shimmering VR Waters](https://www.nexusmods.com/skyrimspecialedition/mods/30571): Replaced by Cubemap Reflections.\
-  [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul): It causes CTD when archived in BSA. The file size is too huge compared to its impacts.\
+  [SkyVRaan - Shimmering VR Waters](https://www.nexusmods.com/skyrimspecialedition/mods/30571): Replaced by Community Shader.\
   [Such Immersive Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/32898): Replaced by Open Face Guard Helmets because the guard helmets such as wolf helmets are easy to loot yet too profitable.\
   [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081): Removed to avoid the conflicts with Adamant and Mysticism.\
-  [Ultimate Animated Potions NG](https://www.nexusmods.com/skyrimspecialedition/mods/97674): It has a bug that breaks drinking action completely after reading a recipe.\
   [Unique Uniques SE](https://www.nexusmods.com/skyrimspecialedition/mods/3334): Replaced by more modern ArteFakes.\
   [VRCustomQuickslots](https://www.nexusmods.com/skyrimspecialedition/mods/21811): Spell Wheel VR does the job better.\
   [d3dcompiler_47](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=files&file_id=120677): No longer needed with the latest Community Shaders.
