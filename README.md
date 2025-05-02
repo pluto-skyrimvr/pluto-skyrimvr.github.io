@@ -550,6 +550,18 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Double Check Before Selling](https://www.nexusmods.com/skyrimspecialedition/mods/103597)\
 [Double Check Before Selling AE](https://www.nexusmods.com/skyrimspecialedition/mods/103735)
 
+## Custom Patches
+[Pandora Output](pandora-behaviour-engine-plus)\
+[Bodyslide Output](bodyslide)\
+[Smashed Patch](smashed-patch)\
+[Synthesis Patch](synthesis-patch)\
+[PGPatcher_Output](parallaxgen)\
+[TexGen_Output](texgendyndolod)\
+[DynDOLOD_Output](texgendyndolod)
+
+## Post Processing Resources(Turn on only when needed)
+[SkyrimSE exe]: (Root Builder) make a copy of SkyrimVR.exe and rename it to `SkyrimSE.exe`. This is to trick Mator Smash to run in SkyrimSE mod for ESL support.
+
 ## Notable Exclusions
 <details>
   <summary>These mods are all great work. It just does not fit in this modlist for various reasons.</summary>
@@ -615,6 +627,7 @@ You have to run LOOT to sort the plugin(esm, esp, esl files) load order. Mod Org
 1. Run Synthesis.
 1. Run Bodyslide.
 1. Run ParallaxGen.
+1. Run xLODGen
 1. Run TexGen.
 1. Run DynDOLOD.
 1. Sort plugin load order with LOOT.
@@ -634,10 +647,40 @@ The final plugin load order should look like this.
 WARNING: This can potentially break the game if you don't do it properly.
 Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037).
 
-## Smashed Patch ([Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378) - Beta4)
+## Pandora Behaviour Engine Plus
 
-1. TRICK: When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Just copy `SkyrimVR.exe` to `SkyrimSE.exe` to trick the application and make a new profile for Skyrim SE. To keep it clean and tidy, use Root Builder. Enable it before running Mator Smash and disable it once the patch is built.
-1. Make sure to use Mator Smash beta 4 because beta5 crashes often.
+1. You can run Pandora Behaviour Engine anytime after all the animations have been installed.
+1. Run Pandora Behaviour Engine Plus.
+1. Enable everything and click the build button. (~25 seconds)
+
+## Bodyslide
+Since the mod authors use bodyslide group settings inconsistently, you will see lots of unnecessary conflicts when you run a batch build. Here is a simple way to keep you from clicking hundreds of conflicting items. You must run Bodyslide before ParallaxGen in case you have armor meshes that use Parallax/PBR features.
+
+1. Launch Bodyslide.
+1. Choose `3BA`, `unassigned` in the group selection bar.
+   1. Choose any outfit in the outfit list in order to enable preset selection.
+   1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
+   1. It will pop up a new window to choose between conflicting items. Ignore the choices and just click Build.
+1. Choose `(Pumpkin) - TEWOBA - CBBE`, `CBBE 3BA ACE (Physics)`, `CBBE 3BA WACCF (Im Physics)`, `TAWOBA Remastered` in the group selection bar.
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build. There should be no conflict.
+1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA`, `CT77 Remodeled - All`, `TAWOBA Remastered [3BA]` in the group selection bar.
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
+   1. There will be a single conflict. Choose any of them.
+1. Choose `Tawoba_hdtsmp` in the group selection bar.
+   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
+   1. There will be some conflicts. Choose `xtra`, `covering`, `realistic`.
+1. Choose `TNG` in the group selection bar.
+   1. Choose any outfit in the outfit list in order to enable preset selection.
+   1. Choose `TNG Default` in the preset.
+   1. Run Batch Build.
+
+## Smashed Patch
+
+Download: [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378)
+
+1. TRICK: When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Just copy `SkyrimVR.exe` to `SkyrimSE.exe` to trick Mator Smash. Run Mator Smash and make a new profile for Skyrim SE. To keep it clean and tidy, use Root Builder. Enable it before running Mator Smash and disable it once the patch is built.
+1. Make sure to use Mator Smash `beta 4` because `beta5` crashes often.
 1. Sort load order with LOOT before running Mator Smash.
 1. Launch Mator Smash.
 1. Create a new setting called `Smash.All-NO-LVLI` by cloning `Smash.All` and removing `LVLI(leveled list)` from it.
@@ -651,7 +694,9 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
 1. Build a Smashed Patch. (~7 minutes)
 
-## Synthesis Patch ([Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases))
+## Synthesis Patch
+
+Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
 
 1. Make sure to enable the Smashed Patch built in the previous step.
 1. Launch Synthesis.
@@ -692,29 +737,9 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
    1. 3DNPC Visual Overhaul.esp
 1. Run the patch builder. (~3 minutes)
 
-## Bodyslide
-Since the mod authors use bodyslide group settings inconsistently, you will see lots of unnecessary conflicts when you run a batch build. Here is a simple way to keep you from clicking hundreds of conflicting items.
+## ParallaxGen
 
-1. Launch Bodyslide.
-1. Choose `3BA`, `unassigned` in the group selection bar.
-   1. Choose any outfit in the outfit list in order to enable preset selection.
-   1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
-   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
-   1. It will pop up a new window to choose between conflicting items. Ignore the choices and just click Build.
-1. Choose `(Pumpkin) - TEWOBA - CBBE`, `CBBE 3BA ACE (Physics)`, `CBBE 3BA WACCF (Im Physics)`, `TAWOBA Remastered` in the group selection bar.
-   1. Click Batch Build. Right click on the list and choose Select All. Click Build. There should be no conflict.
-1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA`, `CT77 Remodeled - All`, `TAWOBA Remastered [3BA]` in the group selection bar.
-   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
-   1. There will be a single conflict. Choose any of them.
-1. Choose `Tawoba_hdtsmp` in the group selection bar.
-   1. Click Batch Build. Right click on the list and choose Select All. Click Build.
-   1. There will be some conflicts. Choose `xtra`, `covering`, `realistic`.
-1. Choose `TNG` in the group selection bar.
-   1. Choose any outfit in the outfit list in order to enable preset selection.
-   1. Choose `TNG Default` in the preset.
-   1. Run Batch Build.
-
-## ParallaxGen ([ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946))
+Download: [ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)
 
 1. Make sure to build all the body and outfit meshes with Bodyslide before running ParallaxGen.
 1. Launch ParallaxGen.
@@ -727,7 +752,10 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 1. ParallaxGen output zip is a regular Skyrim mod. Install and enable the mod.
 ![parallaxgen](images/parallaxgen.png)
 
-## TexGen/DynDOLOD ([DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518))
+## TexGen/DynDOLOD
+
+Download: [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+
 DynDOLOD settings are up to your your hardware. Below are my settings for medium-high quality LOD. If you want to learn more, I would recommend you to read [the official DynDOLOD guide](https://dyndolod.info/Generation-Instructions) or [the STEP project document.](https://stepmodifications.org/wiki/SkyrimSE:2.2.0#DynDOLOD)
 
 1. Make sure to enable the patches that were built in the previous steps(Smashed Patch.esp, Synthesis.esp, ParallaxGen.esp).
@@ -746,12 +774,6 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 ![dyndolod](images/dyndolod.png)
 1. Click OK to build DynDOLOD output. (~30 minutes)
 1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
-
-## Pandora Behaviour Engine Plus
-
-1. You can run Pandora Behaviour Engine anytime after all the animations have been installed.
-1. Run Pandora Behaviour Engine Plus.
-1. Enable everything and click the build button. (~25 seconds)
 
 
 # In-game Settings
