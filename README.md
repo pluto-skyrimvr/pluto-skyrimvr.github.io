@@ -775,9 +775,9 @@ Download: [ACMOS Road Generator](https://www.nexusmods.com/skyrimspecialedition/
    1. Select All on worldspaces.
    1. Enable `Terrain LOD` only.
    1. Follow the settings in the screenshots below. Make sure to configure the settings for all `LOD4`, `LOD8`, `LOD16` and `LOD32`.
-![xlodgen4](images/xlodgen_lod4.png)&nbsp;
-![xlodgen8](images/xlodgen_lod8.png)&nbsp;
-![xlodgen16](images/xlodgen_lod16.png)&nbsp;
+![xlodgen4](images/xlodgen_lod4.png)
+![xlodgen8](images/xlodgen_lod8.png)
+![xlodgen16](images/xlodgen_lod16.png)
 ![xlodgen32](images/xlodgen_lod32.png)
    1. Click `Generate`. (~18 minutes)
    1. Once it completes, you will see `LOD generation done.` message in the log. Close xLODGen.
