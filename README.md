@@ -551,13 +551,13 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Double Check Before Selling AE](https://www.nexusmods.com/skyrimspecialedition/mods/103735)
 
 ## Custom Patches
-[Pandora Output](pandora-behaviour-engine-plus)\
-[Bodyslide Output](bodyslide)\
-[Smashed Patch](smashed-patch)\
-[Synthesis Patch](synthesis-patch)\
-[PGPatcher_Output](parallaxgen)\
-[TexGen_Output](texgendyndolod)\
-[DynDOLOD_Output](texgendyndolod)
+[Pandora Output](#pandora-behaviour-engine-plus)\
+[Bodyslide Output](#bodyslide)\
+[Smashed Patch](#smashed-patch)\
+[Synthesis Patch](#synthesis-patch)\
+[PGPatcher_Output](#parallaxgen)\
+[TexGen_Output](#texgendyndolod)\
+[DynDOLOD_Output](#texgendyndolod)
 
 ## Post Processing Resources(Turn on only when needed)
 [SkyrimSE exe]: (Root Builder) make a copy of SkyrimVR.exe and rename it to `SkyrimSE.exe`. This is to trick Mator Smash to run in SkyrimSE mod for ESL support.
