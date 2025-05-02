@@ -621,34 +621,42 @@ Work in progress.
 
 # Post Install Process
 
-You have to run LOOT to sort the plugin(esm, esp, esl files) load order. Mod Organizer 2 has a built-in LOOT feature. Just click Sort button in the plugin section.
+1. LOOT: Sort the plugin load order.
+1. Pandora Behaviour Engine Plus: Build animations.
+1. Bodyslide: Build armor and clothing meshes.
+1. Mator Smash: Resolve plugin conflicts.
+1. Synthesis: Patch.
+1. ParallaxGen: Generate parallax/PBR meshes.
+1. xLODGen: Generate Terrain LOD.
+1. TexGen: Generate textures for Object LOD and Tree LOD.
+1. DynDOLOD: Generate Object LOD and Tree LOD.
 
-> :warning: Only the exception is `ParallaxGen.esp` and `PG_1.esp`. You have to place those plugins in the right place manually for now.
+## Cleaning ESM (Optional)
+WARNING: This can potentially break the game if you don't do it properly.
+Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037).
 
-1. Sort plugin load order with LOOT.
-1. Run Mator Smash.
-1. Run Synthesis.
-1. Run Bodyslide.
-1. Run ParallaxGen.
-1. Run xLODGen
-1. Run TexGen.
-1. Run DynDOLOD.
-1. Sort plugin load order with LOOT.
-1. Place `ParallaxGen.esp` and `PG_1.esp` between `Synthesis.esp` and `DynDOLOD.esp`.
+## LOOT
 
-The final plugin load order should look like this.
+The very fist thing you have to do in the post-install process is to sort the plugins. To do this, you have two options. Use LOOT or use the built-in LOOT in Mod Organizer 2. Either way, you need to change the settings for the masterlist because the current versions of LOOT and Mod Organizer 2 are using the deprecated masterlist. SkyrimVR masterlist had been merged into SkyrimSE masterlist, but the updated applications have not been deployed yet. To use the latest masterlist, you have to use SkyrimSE masterlist. I have added missing plugin load order to the official masterlist when they are sensible, so you will need the latest masterlist to resolve plugin conflicts properly.
 
-1. All mods
+1. For LOOT,
+   1. Download and set up [LOOT](https://github.com/loot/loot/releases)
+   1. Launch LOOT in MO2. (arguments: `--game="Skyrim VR"`)
+   1. Go to File > Settings > TES V: Skyrim VR
+   1. Change `masterlist source` to `https://raw.githubusercontent.com/loot/skyrimse/v0.21/masterlist.yaml`
+1. (alternative) For built-in LOOT(Sort button) in Mod Organizer 2,
+   1. Open `C:\User\Username\AppData\Local\LOOT\settings.toml`
+   1. Change `masterlistSource` value to `https://raw.githubusercontent.com/loot/skyrimse/v0.21/masterlist.yaml`
+
+Once you sort the plugin load order, proceed to the next step. Eventually, the final plugin load order will look like this.
+
+1. All plugins sorted by LOOT
 1. Smashed Patch.esp
 1. Synthesis.esp
 1. ParallaxGen.esp
 1. PG_1.esp
 1. DynDOLOD.esp
 1. Occlusion.esp
-
-## Cleaning ESM (Optional)
-WARNING: This can potentially break the game if you don't do it properly.
-Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037).
 
 ## Pandora Behaviour Engine Plus
 
