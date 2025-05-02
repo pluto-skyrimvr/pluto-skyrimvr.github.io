@@ -209,9 +209,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Interesting NPCs - Zora Fair-Child voice enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/27448): Zora's voice is hard to listen without this.\
 [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858)\
 [3dnpcs Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/131274)\
-[Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/595): Download the main file.\
-[Immersive Wenches for OStim REDUX](https://www.nexusmods.com/skyrimspecialedition/mods/69419): Choose Default Pricing in the installer.\
-[New posters for Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/79490): Download the Main.
+[Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/595): Download the main file.
 
 ## NPC Overhaul
 [High Poly Expressive NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/41107): Download Nordic Faces version and HPENPC - Interesting NPCs.\
@@ -224,7 +222,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222)\
 [RS Children Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2650)\
 [Axe's RS Children](https://www.nexusmods.com/skyrimspecialedition/mods/16044)\
-[High Poly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/69604): Download Immersive Wenches.\
 [Cuyima Interesting NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/27330): Download Custom Hair version.\
 [Interesting NPCs Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40046)
 
@@ -683,7 +680,6 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 1. Enable the following mods in this order in the facefixer settings. Make sure to enable `Prioritize By Specified Order`.
    1. High Poly Expressive NPCs.esp
    1. HPENPC - 3DNPC.esp
-   1. High Poly NPCs - Immersive Wenches.esp
    1. PAN_NPCs.esp
    1. PAN_NPCs_DB.esp
    1. PAN_NPCs_DG.esp
