@@ -391,7 +391,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
 [Flame VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/109414)\
 [Dragon Breath VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/118431)\
-[Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520)\
 [Frost VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/112509)\
 [Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)\
 [Dynamic (Locational) Armor and Weapon Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/147847)\
@@ -584,6 +583,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
   [Improved Candleglow Lights for the Light Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/101250): Replaced by Optimized ENB Light Meshes.\
   [Improved Clouds Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44103): It causes horizon seam issue when used with Azurite Weather.\
   [iNeed - Food Water and Sleep - Continued](https://www.nexusmods.com/skyrimspecialedition/mods/19390): It overwrites Simplicity of Sea water records and there is no patch. Also, how it works is outdated.\
+  [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520): It halves the framerates when used with CS Light.\
   [LLF Particle Lights instead of Fake Glow](https://www.nexusmods.com/skyrimspecialedition/mods/99768): Replaced by Optimized ENB Light Meshes.\
   [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199): Replaced by NPCs Learn to Aim.\
   [Locational Damage SKSE VR](https://www.nexusmods.com/skyrimspecialedition/mods/26447): It makes the game too easy.\
