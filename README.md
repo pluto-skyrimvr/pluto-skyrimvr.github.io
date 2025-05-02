@@ -116,7 +116,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## DynDOLOD
 [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897): Choose everything only in Visual Options in the installer.\
-[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720): Choose VR compatible version in the installer.
+[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720): Choose VR compatible version in the installer.\
+[Far Object LOD Improvement Project SSE(https://www.nexusmods.com/skyrimspecialedition/mods/79197)]
 
 ## Texture and Mesh (Base)
 [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850): Download "Basecoat - Textures only" 1.0 in Old Files section.\
@@ -171,7 +172,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.
 
 ## World Map
-[A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main and ACMOS-Lazy Roads. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
+[A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
 
 ## Water
 [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim, No for iNeed Support, 4K Resolution, Neutral Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patches(Landscape Fixes for Grass, MEZF) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods such as The Forgotten City that added new worldspaces.
@@ -556,11 +557,13 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Smashed Patch](#smashed-patch)\
 [Synthesis Patch](#synthesis-patch)\
 [PGPatcher_Output](#parallaxgen)\
+[xLODGen_Output](#xlodgen)\
 [TexGen_Output](#texgendyndolod)\
 [DynDOLOD_Output](#texgendyndolod)
 
-## Post Processing Resources(Turn on only when needed)
-[SkyrimSE exe]: (Root Builder) make a copy of SkyrimVR.exe and rename it to `SkyrimSE.exe`. This is to trick Mator Smash to run in SkyrimSE mod for ESL support.
+## Post Processing Resources(Enable only when needed)
+SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `SkyrimSE.exe`. This is to trick Mator Smash to run in SkyrimSE mod for ESL support.\
+[xLODGen Resource - SSE Terrain Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54680): Download Tamriel Extend version. Make sure to enable it only during when you run xLODGen to generate Terrain LOD.
 
 ## Notable Exclusions
 <details>
@@ -742,6 +745,7 @@ Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
 Download: [ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)
 
 1. Make sure to build all the body and outfit meshes with Bodyslide before running ParallaxGen.
+1. Make sure to enable the patches that were built in the previous steps.
 1. Launch ParallaxGen.
 1. Set Game Location and Mod Manager.
 1. Click Show Advanced Options.
@@ -752,13 +756,37 @@ Download: [ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrims
 1. ParallaxGen output zip is a regular Skyrim mod. Install and enable the mod.
 ![parallaxgen](images/parallaxgen.png)
 
+## xLODGen
+
+Download: [xLODGen](https://github.com/sheson/xLODGen/releases)\
+Download: [ACMOS Road Generator](https://www.nexusmods.com/skyrimspecialedition/mods/79205)
+
+1. Make sure to enable the patches that were built in the previous steps.
+1. Enable `xLODGen Resource - SSE Terrain Tamriel` mod.
+1. Run xLODGen.
+   1. Select All on worldspaces.
+   1. Enable `Terrain LOD` only.
+   1. Follow the settings in the screenshots below.
+   1. Click Generate. (~18 minutes)
+   1. Once it completes, you will see `LOD generation done.` message in the log. Close xLODGen.
+![xlodgen4](images/xlodgen_lod4.png)
+![xlodgen8](images/xlodgen_lod8.png)
+![xlodgen16](images/xlodgen_lod16.png)
+![xlodgen32](images/xlodgen_lod32.png)
+1. Run ACMOS Road Generator. It paints roads on the Terrain LOD that were generated in the previous step.
+   1. Select `Paths Only`.
+   1. Set `Path to LOD` to where xLODGen output is stored.
+   1. Click `Generate`. (~2 minutes)
+   1. Click `No` to zip the output. Install the files manually to save time.
+1. Disable `xLODGen Resource - SSE Terrain Tamriel` mod.
+
 ## TexGen/DynDOLOD
 
 Download: [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
 
 DynDOLOD settings are up to your your hardware. Below are my settings for medium-high quality LOD. If you want to learn more, I would recommend you to read [the official DynDOLOD guide](https://dyndolod.info/Generation-Instructions) or [the STEP project document.](https://stepmodifications.org/wiki/SkyrimSE:2.2.0#DynDOLOD)
 
-1. Make sure to enable the patches that were built in the previous steps(Smashed Patch.esp, Synthesis.esp, ParallaxGen.esp).
+1. Make sure to enable the patches that were built in the previous steps.
 1. Update these two values (Expert=1, Level32=1) in `DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.` file.
 1. Make sure to enable the both Smashed Patch and Synthesis Patch built in the previous steps.
 1. Run Texgen and configure the following settings.
