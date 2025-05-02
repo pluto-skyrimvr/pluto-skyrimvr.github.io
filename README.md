@@ -659,7 +659,7 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 ## Bodyslide
 Since the mod authors use bodyslide group settings inconsistently, you will see lots of unnecessary conflicts when you run a batch build. Here is a simple way to keep you from clicking hundreds of conflicting items. You must run Bodyslide before ParallaxGen in case you have armor meshes that use Parallax/PBR features.
 
-1. Launch Bodyslide.
+1. Launch Bodyslide in MO2.
 1. Choose `3BA`, `unassigned` in the group selection bar.
    1. Choose any outfit in the outfit list in order to enable preset selection.
    1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
@@ -685,7 +685,7 @@ Download: [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspeci
 1. TRICK: When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Just copy `SkyrimVR.exe` to `SkyrimSE.exe` to trick Mator Smash. Run Mator Smash and make a new profile for Skyrim SE. To keep it clean and tidy, use Root Builder. Enable it before running Mator Smash and disable it once the patch is built.
 1. Make sure to use Mator Smash `beta 4` because `beta5` crashes often.
 1. Sort load order with LOOT before running Mator Smash.
-1. Launch Mator Smash.
+1. Launch Mator Smash in MO2.
 1. Create a new setting called `Smash.All-NO-LVLI` by cloning `Smash.All` and removing `LVLI(leveled list)` from it.
 1. Set `Smash.All-NO-LVLI` for the following plugin. This is to prevent WACCF from messing with OWL leveled lists.
    1. Weapons Armor Clothing & Clutter Fixes.esp
@@ -702,7 +702,7 @@ Download: [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspeci
 Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
 
 1. Make sure to enable the Smashed Patch built in the previous step.
-1. Launch Synthesis.
+1. Launch Synthesis in MO2.
 1. Enable the following patches.
    1. SynFloraFix(FloraFixer)
    1. SynCombatBoundaries
@@ -746,7 +746,7 @@ Download: [ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrims
 
 1. Make sure to build all the body and outfit meshes with Bodyslide before running ParallaxGen.
 1. Make sure to enable the patches that were built in the previous steps.
-1. Launch ParallaxGen.
+1. Launch ParallaxGen in MO2.
 1. Set Game Location and Mod Manager.
 1. Click Show Advanced Options.
 1. Enable Use MO2 Loose File Order.
@@ -763,17 +763,17 @@ Download: [ACMOS Road Generator](https://www.nexusmods.com/skyrimspecialedition/
 
 1. Make sure to enable the patches that were built in the previous steps.
 1. Enable `xLODGen Resource - SSE Terrain Tamriel` mod.
-1. Run xLODGen.
+1. Launch xLODGen in MO2. (arguments example: `-tes5vr -o:"C:\tools\xLODGen\xLODGen_Output"`)
    1. Select All on worldspaces.
    1. Enable `Terrain LOD` only.
-   1. Follow the settings in the screenshots below.
-   1. Click Generate. (~18 minutes)
-   1. Once it completes, you will see `LOD generation done.` message in the log. Close xLODGen.
-![xlodgen4](images/xlodgen_lod4.png)
-![xlodgen8](images/xlodgen_lod8.png)
-![xlodgen16](images/xlodgen_lod16.png)
+   1. Follow the settings in the screenshots below. Make sure to configure the settings for all `LOD4`, `LOD8`, `LOD16` and `LOD32`.
+![xlodgen4](images/xlodgen_lod4.png)&nbsp;
+![xlodgen8](images/xlodgen_lod8.png)&nbsp;
+![xlodgen16](images/xlodgen_lod16.png)&nbsp;
 ![xlodgen32](images/xlodgen_lod32.png)
-1. Run ACMOS Road Generator. It paints roads on the Terrain LOD that were generated in the previous step.
+   1. Click `Generate`. (~18 minutes)
+   1. Once it completes, you will see `LOD generation done.` message in the log. Close xLODGen.
+1. Launch ACMOS Road Generator in MO2. It paints roads on the Terrain LOD that were generated in the previous step.
    1. Select `Paths Only`.
    1. Set `Path to LOD` to where xLODGen output is stored.
    1. Click `Generate`. (~2 minutes)
@@ -789,19 +789,20 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 1. Make sure to enable the patches that were built in the previous steps.
 1. Update these two values (Expert=1, Level32=1) in `DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.` file.
 1. Make sure to enable the both Smashed Patch and Synthesis Patch built in the previous steps.
-1. Run Texgen and configure the following settings.
-![texgen](images/texgen.png)
-1. Click Start to build Texgen output. (~1.5 minutes)
-1. Texgen output zip is a regular Skyrim mod. Install and enable the mod.
-1. Run DynDOLOD.
-1. Enable all the plugins. (Top Left in the UI)
-1. Enable Candles and FXGlow. (Top Right in the UI)
-1. Click High setting button. (Top Right in the UI)
-1. Configure the rules for `tree` and `\` as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
-1. Configure the rest of the options as shown in the image below. (Options box in the bottom)
-![dyndolod](images/dyndolod.png)
-1. Click OK to build DynDOLOD output. (~30 minutes)
-1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
+1. Launch Texgen in MO2. (arguments: `-tes5vr`)
+   1. Configure the following settings.
+   ![texgen](images/texgen.png)
+   1. Click Start to build Texgen output. (~1.5 minutes)
+   1. Texgen output zip is a regular Skyrim mod. Install and enable the mod.
+1. Launch DynDOLOD in MO2. (arguments: `-tes5vr`)
+   1. Enable all the plugins. (Top Left in the UI)
+   1. Enable Candles and FXGlow. (Top Right in the UI)
+   1. Click High setting button. (Top Right in the UI)
+   1. Configure the rules for `tree` and `\` as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
+   1. Configure the rest of the options as shown in the image below. (Options box in the bottom)
+   ![dyndolod](images/dyndolod.png)
+   1. Click OK to build DynDOLOD output. (~30 minutes)
+   1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
 
 
 # In-game Settings
