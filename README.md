@@ -387,9 +387,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456)\
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
-[Flame VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/109414)\
-[Dragon Breath VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/118431)\
-[Frost VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/112509)\
 [Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)\
 [Dynamic (Locational) Armor and Weapon Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/147847)\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
