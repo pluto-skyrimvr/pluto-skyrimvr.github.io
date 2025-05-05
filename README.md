@@ -189,7 +189,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Bodyslide Presets
 Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some fine selections.\
-[Celestial Beings - Horoscope Body Shapes 3BA - BHUNP - CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/51692)\
+[Celestial Beings - Horoscope Body Shapes 3BA - BHUNP - CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/51692?tab=files&file_id=213179)\
 [Sapphires' Elegance (CBBE 3BA-Bodyslide Preset)](https://www.nexusmods.com/skyrimspecialedition/mods/51352)\
 [Teraru's Scandalous Bodyslide Preset CBBE 3BA 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/54873)
 
