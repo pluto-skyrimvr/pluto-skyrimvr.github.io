@@ -686,10 +686,10 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 
 ## Smashed Patch
 
-Download: [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378)
+Download 2.0.0-beta-4: [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378)
 
 1. TRICK: When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Just copy `SkyrimVR.exe` to `SkyrimSE.exe` to trick Mator Smash. Run Mator Smash and make a new profile for Skyrim SE. To keep it clean and tidy, use Root Builder. Enable it before running Mator Smash and disable it once the patch is built.
-1. Make sure to use Mator Smash `beta 4` because `beta5` crashes often.
+1. Make sure to use Mator Smash `beta-4` because `beta-5` crashes often.
 1. Sort load order with LOOT before running Mator Smash.
 1. Launch Mator Smash in MO2.
 1. Create a new setting called `Smash.All-NO-LVLI` by cloning `Smash.All` and removing `LVLI(leveled list)` from it.
