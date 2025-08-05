@@ -673,7 +673,7 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
    1. Choose any outfit in the outfit list in order to enable preset selection.
    1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
    1. Click Batch Build. Right click on the list and choose Select All. Click Build.
-   1. It will pop up a new window to choose between conflicting items. Enter CT77, (Physics), hdt, realistic, xtra, covering in the filter in turn to choose those over other choices.
+   1. It will pop up a new window to choose between conflicting items. Enter `CT77`, `(Physics)`, `hdt`, `realistic`, `xtra`, `covering` in the filter in turn to choose those over other choices.
 1. Choose `(Pumpkin) - TEWOBA - CBBE`, `CBBE 3BA ACE (Physics)`, `CBBE 3BA WACCF (Im Physics)`, `TAWOBA Remastered` in the group selection bar.
    1. Click Batch Build. Right click on the list and choose Select All. Click Build. There should be no conflict.
 1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA`, `CT77 Remodeled - All`, `TAWOBA Remastered [3BA]` in the group selection bar.
