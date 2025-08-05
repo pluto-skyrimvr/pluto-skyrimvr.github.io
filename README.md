@@ -409,7 +409,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Lighting
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
-[True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Even Brighter Ambient Lighting, Dwemer Swap BDS addon, FX Glow remover in the installer. Synthesis patch will be built later.\
+[True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Even Brighter Ambient Lighting, Dwemer Swap BDS addon in the installer. Synthesis patch will be built later.\
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose Placed Light ISL for Main Configs, Everything for Install options, Dim for Potion Light Intensity in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.
 
