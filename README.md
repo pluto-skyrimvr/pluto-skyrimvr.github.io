@@ -66,6 +66,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Amorous Adventures for Ostim - Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/90570)\
 [Amorous Adventures OStim Standalone - OStim Sequences](https://www.nexusmods.com/skyrimspecialedition/mods/106773): Download the Main and Vampire Fix.\
 [More Adventures For OStim](https://www.nexusmods.com/skyrimspecialedition/mods/66313)\
+[Immersive Wenches SE 2 - Ostim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/152991)\
 [An Evening With Angi](https://www.nexusmods.com/skyrimspecialedition/mods/74499): Download ESL version.
 
 ## Adult Animations
