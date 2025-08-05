@@ -154,7 +154,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121): Download the Main v3.x. Choose Brighter color, Default UVs, None for projected diffuse textures in the installer.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
-[Enhanced Rocks and Mountains - Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Parallax, Vanilla for Icy Caves in the installer.\
+[Enhanced Rocks and Mountains - Fix and Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Vanilla for Icy Caves, all the avilalbe fixes in the installer.\
 [ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.
 
 ## Cities and Buildings
@@ -175,7 +175,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
 
 ## Water
-[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim, No for iNeed Support, 4K Resolution, Neutral Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patches(Landscape Fixes for Grass, MEZF) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods such as The Forgotten City that added new worldspaces.
+[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim for CS, No for iNeed Support, 4K Resolution, Neutral Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patches(Landscape Fixes for Grass, MEZF) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods such as The Forgotten City that added new worldspaces.
 
 ## Body
 [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended installation, XPMSE latest, None for everything else, Schlong of Skyrim patch in the installer. Delete SOSRaceMenu.esp.\
@@ -291,7 +291,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Yet Another Elders Modesty Mod-Skypatched](https://www.nexusmods.com/skyrimspecialedition/mods/130004)
 
 ## Loot and Encounter Zones
-[Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download Main, Randomized Special Loot, WACCF and Armor and Clothing Extension patch.\
+[Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download v1.3.5(The latest version requires CC contents), Randomized Special Loot, WACCF and Armor and Clothing Extension patch.\
 [Open World Loot - Heritage Enemies 2 Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58277)\
 [Encounter Zones Unlocked SE](https://www.nexusmods.com/skyrimspecialedition/mods/19608): Download the VR version.\
 [MEZF - Missing Encounter Zones FIXED](https://www.nexusmods.com/skyrimspecialedition/mods/23609): Download All Exteriors Zoned version.\
@@ -313,7 +313,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Animation
 [Expressive Facial Animation -Female Edition-](https://www.nexusmods.com/skyrimspecialedition/mods/19181)\
 [Expressive Facial Animation -Male Edition-](https://www.nexusmods.com/skyrimspecialedition/mods/19532)\
-[Pandora Behaviour Engine Plus](https://www.nexusmods.com/skyrimspecialedition/mods/133232)\
+[Pandora Behaviour Engine Plus](https://www.nexusmods.com/skyrimspecialedition/mods/133232): Download x64 version unless you are on 32-bit PC.\
 [Paired Animation Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/99621)\
 [Animation Queue Fix](https://www.nexusmods.com/skyrimspecialedition/mods/82395)\
 [Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)\
@@ -368,7 +368,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Audio
 [Binaural 3D Surround Sound for Headphones - HRTF](https://www.nexusmods.com/skyrimspecialedition/mods/26916): Download VR version. Use Root Builder.\
 [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)\
-[Acoustic Space Improvement Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78992): Choose Reverb Interior Sounds Expansion patch in the installer.\
+[Acoustic Space Improvement Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78992): Choose USSEP, Reverb Interior Sounds Expansion patches in the installer.\
 [Reverb Interior Sounds Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77947): Choose the default options and VR user in the installer.\
 [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466): Choose Enhanced Blood Textures SPID version patch in the installer.\
 [Immersive Sounds - Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523): Choose the default options in the installer.\
@@ -430,8 +430,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379)\
 [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651) \
 [Northern Bathhouses - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/16565): Tested all the bathing mods but this simple mod was the best in my opinion.\
-[Realistic Boat Bobbing SE](https://www.nexusmods.com/skyrimspecialedition/mods/26080): Download the main file and SMIM patch.\
-[Realistic Boat Bobbing Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/44311): Download USSEP patch.\
+[Realistic Boat Bobbing SE](https://www.nexusmods.com/skyrimspecialedition/mods/26080): Choose Main, SMIM, USSEP patch in the installer.\
 [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184)\
 [WiZkiD Wells with real water](https://www.nexusmods.com/skyrimspecialedition/mods/57208)\
 [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224): Choose 2K textures and any DLL in the installer. VR version of DLL will overwrite it.\
@@ -476,7 +475,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Increase Actor Limit for VR](https://www.nexusmods.com/skyrimspecialedition/mods/37440)\
 [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073): Choose SE version in the installer.\
 [powerofthree's Tweaks VR](https://www.nexusmods.com/skyrimspecialedition/mods/59510)\
-[Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641): Choose ESP-FE and 3DNPC patch(auto-selected) in the installer.\
+[Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641): Choose All-in-one, ESP-FE and Interesting NPC patch(auto-selected) in the installer.\
 [Mu Joint Fix (Knee Fix dll edition)](https://www.nexusmods.com/skyrimspecialedition/mods/61479): Download Main and SL-OStim patch. Choose VR version in the installer.\
 [Animated Static Reload Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69331)\
 [Enhanced Invisibility VR](https://www.nexusmods.com/skyrimspecialedition/mods/63889)\
@@ -670,7 +669,7 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
    1. Choose any outfit in the outfit list in order to enable preset selection.
    1. Choose your preferred body preset. I personally use `Horoscope-3BA-CBBE-Pisces` for example.
    1. Click Batch Build. Right click on the list and choose Select All. Click Build.
-   1. It will pop up a new window to choose between conflicting items. Ignore the choices and just click Build.
+   1. It will pop up a new window to choose between conflicting items. Enter CT77, (Physics), hdt, realistic, xtra, covering in the filter in turn to choose those over other choices.
 1. Choose `(Pumpkin) - TEWOBA - CBBE`, `CBBE 3BA ACE (Physics)`, `CBBE 3BA WACCF (Im Physics)`, `TAWOBA Remastered` in the group selection bar.
    1. Click Batch Build. Right click on the list and choose Select All. Click Build. There should be no conflict.
 1. Choose `(Pumpkin) - TEWOBA - CBBE 3BA`, `CT77 Remodeled - All`, `TAWOBA Remastered [3BA]` in the group selection bar.
