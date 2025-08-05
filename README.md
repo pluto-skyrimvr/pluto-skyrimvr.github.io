@@ -66,6 +66,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Amorous Adventures for Ostim - Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/90570)\
 [Amorous Adventures OStim Standalone - OStim Sequences](https://www.nexusmods.com/skyrimspecialedition/mods/106773): Download the Main and Vampire Fix.\
 [More Adventures For OStim](https://www.nexusmods.com/skyrimspecialedition/mods/66313)\
+[Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/595): Download the main file.\
 [Immersive Wenches SE 2 - Ostim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/152991)\
 [An Evening With Angi](https://www.nexusmods.com/skyrimspecialedition/mods/74499): Download ESL version.
 
@@ -210,8 +211,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Interesting NPCs SSE](https://www.nexusmods.com/skyrimspecialedition/mods/29194): Download the main file, hotfix, Alternate locations patch, AI Overhaul patch.\
 [Interesting NPCs - Zora Fair-Child voice enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/27448): Zora's voice is hard to listen without this.\
 [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858)\
-[3dnpcs Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/131274)\
-[Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/595): Download the main file.
+[3dnpcs Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/131274)
 
 ## NPC Overhaul
 [High Poly Expressive NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/41107): Download Nordic Faces version and HPENPC - Interesting NPCs.\
