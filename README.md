@@ -143,9 +143,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## Landscape
 [Vanilla Landscape Corrections - VLC](https://www.nexusmods.com/skyrimspecialedition/mods/104962): Don't choose any patch in the installer.\
 [Faultier's PBR Skyrim(Landscapes)](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Landscapes 4k. Ignore the AIO textures for now. It will be installed separately later.\
-[Cathedral Landscapes - True Grass Only](https://www.nexusmods.com/skyrimspecialedition/mods/103937): Download the Main, and Tundra_Textures in Optional files.\
-[Cathedral Landscapes Grass Mipmap Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62477)\
-[Grass FPS Booster](https://www.nexusmods.com/skyrimspecialedition/mods/20082): Choose Quality, Landscapes - Cathedral Concept in the installer.\
+[DrJacopo's - 3D Landscapes and Grass Library](https://www.nexusmods.com/skyrimspecialedition/mods/80687): Download the Meshes only.\
+[Freak's Floral Meadows](https://www.nexusmods.com/skyrimspecialedition/mods/148525)\
 [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)\
 [Cathedral 3D Mountain Flower - Fixed Placement](https://www.nexusmods.com/skyrimspecialedition/mods/143566): Download BOS version.\
 [Cathedral - 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032)\
