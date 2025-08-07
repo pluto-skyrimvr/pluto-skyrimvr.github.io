@@ -800,7 +800,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 1. Make sure to enable the both Smashed Patch and Synthesis Patch built in the previous steps.
 1. Launch Texgen in MO2. (arguments: `-tes5vr`)
    1. Configure the following settings.
-   ![texgen](images/texgen.png)
+![texgen](images/texgen.png)
    1. Click Start to build Texgen output. (~1.5 minutes)
    1. Texgen output zip is a regular Skyrim mod. Install and enable the mod.
 1. Launch DynDOLOD in MO2. (arguments: `-tes5vr`)
@@ -809,7 +809,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
    1. Click High setting button. (Top Right in the UI)
    1. Configure the rules for `tree` and `\` as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
    1. Configure the rest of the options as shown in the image below. (Options box in the bottom)
-   ![dyndolod](images/dyndolod.png)
+![dyndolod](images/dyndolod.png)
    1. Click OK to build DynDOLOD output. (~30 minutes)
    1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
 
