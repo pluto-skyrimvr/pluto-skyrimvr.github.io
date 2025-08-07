@@ -163,6 +163,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Whiterun Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48120)\
 [Solitude Interiors Meshes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78761): Download the Parallax version.\
 [Windhelm Entrance Offset Fix - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/98207)\
+[Sovngarde Meshes - FIXES](https://www.nexusmods.com/skyrimspecialedition/mods/150539): Download the Parallax version.\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
 [Rally's Solstheim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/36893): Choose 4K, LODs 512 and keep everything else as default in the installer.\
 [Rally's Solstheim - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/51905): Download ParallaxGen version.\
