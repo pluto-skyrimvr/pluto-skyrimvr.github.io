@@ -796,7 +796,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 
 1. Make sure to enable the patches that were built in the previous steps.
 1. Update these two values (Expert=1, Level32=1) in `DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.` file.
-1. Make sure to enable the both Smashed Patch and Synthesis Patch built in the previous steps.
+1. Make sure to enable the patches that were built in the previous steps.
 1. Launch Texgen in MO2. (arguments: `-tes5vr`)
    1. Configure the following settings.
 ![texgen](images/texgen.png)
