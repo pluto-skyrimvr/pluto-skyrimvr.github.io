@@ -761,8 +761,8 @@ Download: [ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrims
 1. Enable Upgrade Parallax to Complex Material.
 1. Click Save Config.
 1. Click Start Patching. (~3 minutes)
-1. ParallaxGen output zip is a regular Skyrim mod. Install and enable the mod.
-![parallaxgen](images/parallaxgen.png)
+1. ParallaxGen output zip is a regular Skyrim mod. Install and enable the mod.\
+   ![parallaxgen](images/parallaxgen.png)
 
 ## xLODGen
 
@@ -774,11 +774,11 @@ Download: [ACMOS Road Generator](https://www.nexusmods.com/skyrimspecialedition/
 1. Launch xLODGen in MO2. (arguments example: `-tes5vr -o:"C:\tools\xLODGen\xLODGen_Output"`)
    1. Select All on worldspaces.
    1. Enable `Terrain LOD` only.
-   1. Follow the settings in the screenshots below. Make sure to configure the settings for all `LOD4`, `LOD8`, `LOD16` and `LOD32`.
-![xlodgen4](images/xlodgen_lod4.png)
-![xlodgen8](images/xlodgen_lod8.png)
-![xlodgen16](images/xlodgen_lod16.png)
-![xlodgen32](images/xlodgen_lod32.png)
+   1. Follow the settings in the screenshots below. Make sure to configure the settings for all `LOD4`, `LOD8`, `LOD16` and `LOD32`.\
+      ![xlodgen4](images/xlodgen_lod4.png)
+      ![xlodgen8](images/xlodgen_lod8.png)
+      ![xlodgen16](images/xlodgen_lod16.png)
+      ![xlodgen32](images/xlodgen_lod32.png)
    1. Click `Generate`. (~18 minutes)
    1. Once it completes, you will see `LOD generation done.` message in the log. Close xLODGen.
 1. Launch ACMOS Road Generator in MO2. It paints roads on the Terrain LOD that were generated in the previous step.
@@ -798,8 +798,8 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 1. Update these two values (Expert=1, Level32=1) in `DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.` file.
 1. Make sure to enable the patches that were built in the previous steps.
 1. Launch Texgen in MO2. (arguments: `-tes5vr`)
-   1. Configure the following settings.
-![texgen](images/texgen.png)
+   1. Configure the following settings.\
+      ![texgen](images/texgen.png)
    1. Click Start to build Texgen output. (~1.5 minutes)
    1. Texgen output zip is a regular Skyrim mod. Install and enable the mod.
 1. Launch DynDOLOD in MO2. (arguments: `-tes5vr`)
@@ -807,8 +807,8 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
    1. Enable Candles and FXGlow. (Top Right in the UI)
    1. Click High setting button. (Top Right in the UI)
    1. Configure the rules for `tree` and `\` as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
-   1. Configure the rest of the options as shown in the image below. (Options box in the bottom)
-![dyndolod](images/dyndolod.png)
+   1. Configure the rest of the options as shown in the image below. (Options box in the bottom)\
+      ![dyndolod](images/dyndolod.png)
    1. Click OK to build DynDOLOD output. (~30 minutes)
    1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
 
