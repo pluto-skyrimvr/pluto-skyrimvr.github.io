@@ -638,7 +638,7 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 
 ## LOOT
 
-The very fist thing you have to do in the post-install process is to sort the plugins. To do this, you have two options. Use LOOT or use the built-in LOOT in Mod Organizer 2. Either way, you need to change the settings for the masterlist because the current versions of LOOT and Mod Organizer 2 are using the deprecated masterlist. SkyrimVR masterlist had been merged into SkyrimSE masterlist, but the updated applications have not been deployed yet. To use the latest masterlist, you have to use SkyrimSE masterlist. I have added missing plugin load order to the official masterlist when they are sensible, so you will need the latest masterlist to resolve plugin conflicts properly.
+The very first step in the post-install process is to sort your plugins. You have two options for this: use LOOT, or the built-in LOOT feature in Mod Organizer 2. In either case, you will need to change the masterlist settings, because the current version of LOOT and Mod Organizer 2 still use a deprecated masterlist. The SkyrimVR masterlist has been merged into the SkyrimSE masterlist, but updated applications have not yet been released. To use the latest masterlist, you must switch to the SkyrimSE masterlist. I have also added missing plugin load orders to the official masterlist where appropriate, so having the latest masterlist is essential for resolving plugin conflicts properly.
 
 1. For LOOT,
    1. Download and set up [LOOT](https://github.com/loot/loot/releases)
