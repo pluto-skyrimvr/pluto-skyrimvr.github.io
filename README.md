@@ -582,17 +582,18 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
   [ENB Lights For Effect Shaders VR](https://www.nexusmods.com/skyrimspecialedition/mods/99753): Replaced by Placed Lights.\
   [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424): The meshes were used for Lux but Light Limit Fix does not need split meshes.\
   [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725): It looks too dark everywhere. This does not seem to work in VR.\
-  [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653): Obsolete with Community Shader.\
   [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561): The same fix is included in Inventory Interface Information Injector.\
+  [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653): Obsolete with Community Shader.\
   [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957): Light Limit Fix does not need split meshes.\
   [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): Micro stuttering was observed whenever enemy NPC died.\
   [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876): SURV keywords being displayed is annoying. It seems it was built for Survival Mode which is not available in VR.\
+  [Hair Specular]: The outline of the hairline is too shiny and causes flickering in VR.\
   [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393): No longer needed in the latest Honed Metal.\
   [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718): Removed to avoid easy loots from dead patrols.\
   [Improved Atmosphere Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44247): It causes horizon seam issue when used with Azurite Weather.\
   [Improved Clouds Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44103): It causes horizon seam issue when used with Azurite Weather.\
-  [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520): It halves the framerates when used with CS Light.\
   [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199): Replaced by NPCs Learn to Aim.\
+  [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520): It halves the framerates when used with CS Light.\
   [Locational Damage SKSE VR](https://www.nexusmods.com/skyrimspecialedition/mods/26447): It makes the game too easy.\
   [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212): I see many warnings about the mod not being able to find encounter zones.\
   [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689): It was installed as a requirement for other mods but it did not do anything because there is no zMerge patch in this modlist.\
@@ -603,6 +604,7 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
   [Remove Blurry Snowflakes](https://www.nexusmods.com/skyrimspecialedition/mods/38358): The same fix is included in Azurite Weather.\
   [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192): Its lighting is too dim with Community Shader LLF.\
   [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547): Outdated. It also conflicts with Engine Fixes VR.\
+  [Screen Space Global Illumination (SSGI)](https://www.nexusmods.com/skyrimspecialedition/mods/130375): Does not work properly in VR.\
   [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764): It may seem handy in some cases but it causes more annoying problems because neutral aggression is not handled properly by the game.\
   [Simplicity of Sea - Water Mod with ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520): It looks good but lacks the water flow changes.\
   [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604): No longer needed with the latest Community Shaders.\
