@@ -841,3 +841,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 1. Save the game.
 1. Load the saved game.
 1. Enjoy your game.
+
+## Miscellaneous
+
+1. Do not import Inigo follower in NFF.
