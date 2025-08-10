@@ -152,7 +152,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
 [Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose Low Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin(BDS), High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
 [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121): Download the Main v3.x. Choose Brighter color, Default UVs, None for projected diffuse textures in the installer.\
-[ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196): Download the Standard version in the Main.\
+[ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/121336): Download the Main. Choose Meshes only in the installer.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
 [Enhanced Rocks and Mountains - Fix and Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Vanilla for Icy Caves, all the avilalbe fixes in the installer.\
 [ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.
