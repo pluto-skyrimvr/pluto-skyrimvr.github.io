@@ -161,6 +161,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Cathedral - Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103)\
 [Cathedral PBR Plants](https://www.nexusmods.com/skyrimspecialedition/mods/135836): Choose Non-glowing default for Deathbell, Default and Patch for Interesting NPCs for Mountain Flowers, Non-glowing - Orange color for Dragon Tongue, Darker desaturated for Nightshade, Default for Snow Berries, Default for Stone Crop, Default for Sword Ferns, Default for Thistle, Default for Tundra Cotton, None for Thickets and Dead Shrubs, Default for Pine Shrubs, None for Tundra Scrubs, Some slimey mushrooms for Mushrooms in the installer.\
 [Diverse high-quality PBR shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/154489): Choose Complete in the installer.\
+[High Quality Ivy Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/113578): Choose Variant 1 2K, Animated, Vanilla Stonewalls in the installer.\
+[High Quality PBR Ivy](https://www.nexusmods.com/skyrimspecialedition/mods/129934): Choose Variant 1 2K in the installer.\
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
 [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725)\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
