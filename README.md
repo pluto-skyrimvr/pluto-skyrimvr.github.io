@@ -145,9 +145,22 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Faultier's PBR Skyrim(Landscapes)](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Landscapes 4k. Ignore the AIO textures for now. It will be installed separately later.\
 [DrJacopo's - 3D Landscapes and Grass Library](https://www.nexusmods.com/skyrimspecialedition/mods/80687): Download the Meshes only.\
 [Freak's Floral Meadows](https://www.nexusmods.com/skyrimspecialedition/mods/148525)\
+[Cathedral - 3D Clover Plant](https://www.nexusmods.com/skyrimspecialedition/mods/68793): Download Full 3D PBR version.\
+[Cathedral - 3D Deathbell](https://www.nexusmods.com/skyrimspecialedition/mods/76460)\
+[Cathedral - 3D Dragons Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/85694): Download Orange version.\
+[Cathedral - 3D Lavender](https://www.nexusmods.com/skyrimspecialedition/mods/68310): Download Vanilla Size version in the Main, PBR textures in Optional files.\
 [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)\
 [Cathedral 3D Mountain Flower - Fixed Placement](https://www.nexusmods.com/skyrimspecialedition/mods/143566): Download BOS version.\
-[Cathedral - 3D Clover Plant](https://www.nexusmods.com/skyrimspecialedition/mods/68793): Download Full 3D PBR version.\
+[Cathedral - 3D Nightshade](https://www.nexusmods.com/skyrimspecialedition/mods/81284): Choose Rally Edit - Dark and Desaturated in the installer.\
+[Cathedral - 3D Pine Shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/94791)\
+[Cathedral - 3D Snow Berries](https://www.nexusmods.com/skyrimspecialedition/mods/69415): Download Green version.\
+[Cathedral - 3D Stonecrop](https://www.nexusmods.com/skyrimspecialedition/mods/110726)\
+[Cathedral - 3D Sword Ferns](https://www.nexusmods.com/skyrimspecialedition/mods/82978)\
+[Cathedral - 3D Thistle](https://www.nexusmods.com/skyrimspecialedition/mods/67619)\
+[Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068)\
+[Cathedral - Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103)\
+[Cathedral PBR Plants](https://www.nexusmods.com/skyrimspecialedition/mods/135836): Choose Non-glowing default for Deathbell, Default and Patch for Interesting NPCs for Mountain Flowers, Non-glowing - Orange color for Dragon Tongue, Darker desaturated for Nightshade, Default for Snow Berries, Default for Stone Crop, Default for Sword Ferns, Default for Thistle, Default for Tundra Cotton, None for Thickets and Dead Shrubs, Default for Pine Shrubs, None for Tundra Scrubs, Some slimey mushrooms for Mushrooms in the installer.\
+[Diverse high-quality PBR shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/154489): Choose Complete in the installer.\
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
 [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725)\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
