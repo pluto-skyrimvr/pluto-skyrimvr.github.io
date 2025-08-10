@@ -445,8 +445,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Immersion
 [Animated Ships](https://www.nexusmods.com/skyrimspecialedition/mods/110260)\
 [The Gildergreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/128828)\
-[Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379)\
-[Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651) \
+[Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379): Download the Main.\
+[Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651): Choose Vanilla, None for Covered Carriages, None for Lanterns in the installer.\
 [Northern Bathhouses - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/16565): Tested all the bathing mods but this simple mod was the best in my opinion.\
 [Realistic Boat Bobbing SE](https://www.nexusmods.com/skyrimspecialedition/mods/26080): Choose Main, SMIM, USSEP patch in the installer.\
 [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184)\
