@@ -468,7 +468,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Bug Fixes and Tweaks
 [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005): Download Main and Patches for Arthmoor's Town add-ons. Choose Alternate Start patch in the patch installer.\
-[Lightened Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50755): Choose USSEP, All in one in the installer.\
+[Lightened Skyrim - Base Object Swapper edition](https://www.nexusmods.com/skyrimspecialedition/mods/111475)\
 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432): Download Merged version.\
 [To Your Face SE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/24720)\
 [Skyrim VR USSEP Dwarven Ballista missing texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/18722)\
