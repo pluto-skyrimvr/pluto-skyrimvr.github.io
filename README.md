@@ -309,7 +309,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download v1.3.5(The latest version requires CC contents), Randomized Special Loot, WACCF and Armor and Clothing Extension patch.\
 [Open World Loot - Heritage Enemies 2 Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58277)\
 [Encounter Zones Unlocked SE](https://www.nexusmods.com/skyrimspecialedition/mods/19608): Download the VR version.\
-[Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212)
+[Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212)\
+[Enemies Respect Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/78847)
 
 ## Combat and Enemies
 [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Choose No Kill Moves in the installer.\
