@@ -323,7 +323,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Heritage Enemies 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989): Download Texture BSA version and WACCF patch. Delete `Meshes/armor/dbarmor/dbarmorsleeveless_1.nif` that conflicts with Armor Mesh Fixes.\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085): Download the Main.\
-[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto-selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Carriage and Ferry Travel Overhaul, Immersive Wenches) and Interesting NPCs in the installer.\
+[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto-selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Interesting NPCs, Carriage and Ferry Travel Overhaul, Immersive Wenches) in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
 
 ## Animation
