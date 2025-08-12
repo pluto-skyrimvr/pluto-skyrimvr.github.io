@@ -145,6 +145,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Faultier's PBR Skyrim(Landscapes)](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Landscapes 4k. Ignore the AIO textures for now. It will be installed separately later.\
 [DrJacopo's - 3D Landscapes and Grass Library](https://www.nexusmods.com/skyrimspecialedition/mods/80687): Download the Meshes only.\
 [Freak's Floral Meadows](https://www.nexusmods.com/skyrimspecialedition/mods/148525)\
+[Rock Grass Remover](https://www.nexusmods.com/skyrimspecialedition/mods/81627): Download Rock Removal version.\
 [Cathedral - 3D Clover Plant](https://www.nexusmods.com/skyrimspecialedition/mods/68793): Download Full 3D PBR version.\
 [Cathedral - 3D Deathbell](https://www.nexusmods.com/skyrimspecialedition/mods/76460)\
 [Cathedral - 3D Dragons Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/85694): Download Orange version.\
