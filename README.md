@@ -33,7 +33,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch, RaceMenu ESL Patch.\
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)\
-[Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patches(Lux Via, Trees of Riverwood - Happy Little Trees) in the installer.
+[Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patch(Trees of Riverwood - Happy Little Trees) in the installer.
 
 ## New Contents
 [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files&file_id=175926): Download 4.1.4 (pre-AE version). You must extract BSA when you install the mod. Also, you have to disable VR playroom in SkyrimVR INI to make the mod work.\
@@ -136,8 +136,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Choose High-Poly Statue, Nord Hero Greatsword in the installer.
 
 ## Roads
-[Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588): Download the Main, and main plugin update, meshes update in Update files. Choose No ENB Light, Blended Roads version in the installer.\
-[Lux via - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/116722): Choose auto-selected patch(Carriage and Ferry Travel Overhaul) in the installer.\
 [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834): Choose Really Blended Roads for both Main and SMIM patch in the installer.
 
 ## Landscape
@@ -421,12 +419,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k.\
 [Windhelm Improvements (Snowy Windhelm)](https://www.nexusmods.com/skyrimspecialedition/mods/27696): Choose Main files in the installer. The mod comes with LE version of meshes. Run NIF optimizer on the meshes if possible.\
 [Modern Hay - PBR and CM](https://www.nexusmods.com/skyrimspecialedition/mods/155815): Download PBR 2K version.\
-[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, Lux Via, SunHelm Survival in the installer.
+[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
 
 ## Lighting
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
-[True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Even Brighter Ambient Lighting, Dwemer Swap BDS addon in the installer.\
+[True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Even Brighter Ambient Lighting, True Light - Exterior, Dwemer Swap BDS addon in the installer.\
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose Placed Light ISL for Main Configs, Everything for Install options, Dim for Potion Light Intensity in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.
 
@@ -450,7 +448,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Animated Ships](https://www.nexusmods.com/skyrimspecialedition/mods/110260)\
 [The Gildergreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/128828)\
 [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379): Download the Main.\
-[Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651): Choose Vanilla, None for Covered Carriages, None for Lanterns in the installer.\
+[Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651): Choose Vanilla, ESL-flagged for Covered Carriages, ESL-flagged for Lanterns in the installer.\
 [Northern Bathhouses - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/16565): Tested all the bathing mods but this simple mod was the best in my opinion.\
 [Realistic Boat Bobbing SE](https://www.nexusmods.com/skyrimspecialedition/mods/26080): Choose Main, SMIM, USSEP patch in the installer.\
 [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184)\
