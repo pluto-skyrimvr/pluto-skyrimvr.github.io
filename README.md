@@ -191,7 +191,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
 
 ## Water
-[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim for CS, No for iNeed Support, 4K Resolution, Neutral Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patches(Landscape Fixes for Grass, MEZF) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods such as The Forgotten City that added new worldspaces.
+[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim for CS, 4K Resolution, Neutral Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patch(Landscape Fixes for Grass) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods that add new worldspaces such as The Forgotten City.
 
 ## Body
 [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended installation, XPMSE latest, None for everything else, Schlong of Skyrim patch in the installer. Delete SOSRaceMenu.esp.\
@@ -309,8 +309,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download v1.3.5(The latest version requires CC contents), Randomized Special Loot, WACCF and Armor and Clothing Extension patch.\
 [Open World Loot - Heritage Enemies 2 Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58277)\
 [Encounter Zones Unlocked SE](https://www.nexusmods.com/skyrimspecialedition/mods/19608): Download the VR version.\
-[MEZF - Missing Encounter Zones FIXED](https://www.nexusmods.com/skyrimspecialedition/mods/23609): Download All Exteriors Zoned version.\
-[elwaps' Patches and Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32332): Download "MEZF - Missing Encounter Zones FIXED - Unofficial Skyrim Special Edition Patch".
+[Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212)
 
 ## Combat and Enemies
 [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Choose No Kill Moves in the installer.\
@@ -753,7 +752,6 @@ Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
    1. AOSISCSoundPatcher
    1. AI-Overhaul-Patcher
    1. facefixer
-   1. Missing-Encounter-Zones-Patcher
    1. Remove Landscape Vertex Color
    1. Z-Floor-Patcher
 1. Enable the following mods in this order in the facefixer settings. Make sure to enable `Prioritize By Specified Order`.
