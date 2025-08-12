@@ -159,6 +159,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068)\
 [Cathedral - Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103)\
 [Cathedral PBR Plants](https://www.nexusmods.com/skyrimspecialedition/mods/135836): Choose Non-glowing default for Deathbell, Default and Patch for Interesting NPCs for Mountain Flowers, Non-glowing - Orange color for Dragon Tongue, Darker desaturated for Nightshade, Default for Snow Berries, Default for Stone Crop, Default for Sword Ferns, Default for Thistle, Default for Tundra Cotton, None for Thickets and Dead Shrubs, Default for Pine Shrubs, None for Tundra Scrubs, Some slimey mushrooms for Mushrooms in the installer.\
+[PBR Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/148782): Choose the following options in the instllaer. On the page 1, choose only Vanilla Juniper trees PBR. For the rest, choose everything except Thickets on the page 2. When multiple choices are presented, choose Vanilla PBR options except Jepsters Hanging moss PBR - more volume.\
 [Diverse high-quality PBR shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/154489): Choose Complete in the installer.\
 [High Quality Ivy Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/113578): Choose Variant 1 2K, Animated, Vanilla Stonewalls in the installer.\
 [High Quality PBR Ivy](https://www.nexusmods.com/skyrimspecialedition/mods/129934): Choose Variant 1 2K in the installer.\
