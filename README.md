@@ -427,6 +427,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
 
 ## Lighting
+[Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557): Choose SE in the installer.\
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
 [True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Fixed Vanilla Ambient Lighting, True Light - Exterior, Dwemer Swap BDS addon in the installer.\
