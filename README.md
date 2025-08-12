@@ -661,16 +661,22 @@ Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037
 
 ## LOOT
 
-The very first step in the post-install process is to sort your plugins. You have two options for this: use LOOT, or the built-in LOOT feature in Mod Organizer 2. In either case, you will need to change the masterlist settings, because the current version of LOOT and Mod Organizer 2 still use a deprecated masterlist. The SkyrimVR masterlist has been merged into the SkyrimSE masterlist, but updated applications have not yet been released. To use the latest masterlist, you must switch to the SkyrimSE masterlist. I have also added missing plugin load orders to the official masterlist where appropriate, so having the latest masterlist is essential for resolving plugin conflicts properly.
+The first step in the post-install process is to sort your plugins. I have avoided conflicting mods in this modlist and added plugin load orders to the official masterlist whenever possible. There are two methods. Choose whichever you prefer.
 
-1. For LOOT,
-   1. Download and set up [LOOT](https://github.com/loot/loot/releases)
+1. LOOT
+   1. If your LOOT is older than v0.26, update to the latest [LOOT](https://github.com/loot/loot/releases).
    1. Launch LOOT in MO2. (arguments: `--game="Skyrim VR"`)
-   1. Go to File > Settings > TES V: Skyrim VR
-   1. Change `masterlist source` to `https://raw.githubusercontent.com/loot/skyrimse/v0.21/masterlist.yaml`
-1. (alternative) For built-in LOOT(Sort button) in Mod Organizer 2,
-   1. Open `C:\User\Username\AppData\Local\LOOT\settings.toml`
-   1. Change `masterlistSource` value to `https://raw.githubusercontent.com/loot/skyrimse/v0.21/masterlist.yaml`
+   1. Click `Update Masterlist`.
+   1. Click `Sort Plugins`.
+1. (Alternative) Mod Organizer 2's built-in LOOT
+   1. You must modify the settings to retrieve the latest masterlist because the current version of Mod Organizer 2 uses the deprecated masterlist source. Open `C:\User\Username\AppData\Local\LOOT\settings.toml`
+   1. Change the settings as below.
+      ```
+      preludeSource = 'https://raw.githubusercontent.com/loot/prelude/v0.26/prelude.yaml'
+      masterlistSource = 'https://raw.githubusercontent.com/loot/skyrimse/v0.26/masterlist.yaml'
+      ```
+   1. Restart Mod Organizer 2.
+   1. Click `Sort` button in Mod Organizer 2.
 
 Once you sort the plugin load order, proceed to the next step. Eventually, the final plugin load order will look like this.
 
