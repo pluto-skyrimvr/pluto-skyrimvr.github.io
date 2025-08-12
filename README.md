@@ -401,6 +401,10 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501)\
 [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456)\
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
+[Vibrant Weapons EAE](https://www.nexusmods.com/skyrimspecialedition/mods/111430)\
+[Vibrant Weapons EAE - Enchantment Lights](https://www.nexusmods.com/skyrimspecialedition/mods/136564)\
+[Enchantment Art Extender](https://www.nexusmods.com/skyrimspecialedition/mods/105492): Download the Main and the optional Vibrant Weapons config.\
+[Enchantment Art Extender VR 2](https://www.nexusmods.com/skyrimspecialedition/mods/142337)\
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
 [A Patch For Deadly Spell Impacts and Audio Overhaul - Immersive Sounds Integration](https://www.nexusmods.com/skyrimspecialedition/mods/57465): Download the Main.\
 [Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)\
