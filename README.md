@@ -300,6 +300,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer, Cathedral Armory patch in the installer.\
 [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose everything under Vanilla Items, Cubemap Addon, Clean for Champion's cudgel, and leave the rest as default in the installer.\
 [Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Choose everything under Vanilla Items, Nightingale Scabbard in the installer.\
+[Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483): Download the Main.\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813): Download 2K version and Artificer patch.
 
