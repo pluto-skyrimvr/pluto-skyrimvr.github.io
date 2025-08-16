@@ -19,9 +19,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 # Mod List
 
-## OpenComposite
-[Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main. Use Root builder. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to use its INI if you have to name your character. I do not mind personally.
-
 ## Core
 [SKSE VR](https://skse.silverlock.org/)\
 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115): Improves vanilla audio quality greatly including voices.\
@@ -34,6 +31,9 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)\
 [Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patch(Trees of Riverwood - Happy Little Trees) in the installer.
+
+## OpenComposite
+[Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main and OpenComposite_SkyUIVR_Fix. Use Root builder. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to use its INI if you have to name your character. I do not mind personally.
 
 ## New Contents
 [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files&file_id=175926): Download 4.1.4 (pre-AE version). You must extract BSA when you install the mod. Also, you have to disable VR playroom in SkyrimVR INI to make the mod work.\
