@@ -194,7 +194,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
 
 ## Water
-[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim for CS, 4K Resolution, Neutral Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patch(Landscape Fixes for Grass) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods that add new worldspaces such as The Forgotten City.
+[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim for CS, 4K Texture Resolution, Default Water Brightness, Default LOD Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patch(Landscape Fixes for Grass) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods that add new worldspaces such as The Forgotten City.
 
 ## Body
 [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended installation, XPMSE latest, None for everything else, Schlong of Skyrim patch in the installer. Delete SOSRaceMenu.esp.\
