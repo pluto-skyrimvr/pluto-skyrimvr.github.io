@@ -30,7 +30,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [SkyUI VR](https://www.nexusmods.com/skyrimspecialedition/mods/91535)\
 [SkyUI VR - Disable New Item Sort](https://www.nexusmods.com/skyrimspecialedition/mods/110564)\
 [Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): Download both Main files. Use Root Builder for Part 2.\
-[Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch, RaceMenu ESL Patch.\
+[Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch.\
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)\
 [Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patch(Trees of Riverwood - Happy Little Trees) in the installer.
@@ -56,7 +56,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Adult Contents
 [OStim Standalone - Advanced Adult Animation Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98163): Download the matching version with the OStim Standalone VR.\
-[OStim Standalone VR](https://www.nexusmods.com/skyrimspecialedition/mods/119892): Update Racemenu mod's SKSE/Plugins/skeevr.ini to set "bEnableOverlays=0" in order to fix disappearing NPC issue.\
+[OStim Standalone VR](https://www.nexusmods.com/skyrimspecialedition/mods/119892)\
 [OStim Community Resource](https://www.nexusmods.com/skyrimspecialedition/mods/106519): Choose 3BA in the installer.\
 [OCum Ascended - Cum and Orgasm Mechanics for OStim](https://www.nexusmods.com/skyrimspecialedition/mods/77506): Don't install UBE patch.\
 [OSmp - Automatic SMP physics toggle for OStim](https://www.nexusmods.com/skyrimspecialedition/mods/72547)\
@@ -103,7 +103,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495): Download VR version.\
 [Save Unbaker VR](https://www.nexusmods.com/skyrimspecialedition/mods/86265)\
 [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561): This mod is a soft requirement for many mods. Modders often forget to mention it because not having it doesn't break critical things.\
-[RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080): This mod's overlay functions are soft requirement for other mods even if you are not interested in customizing your character. Download Main and VR. Delete SKSE directory of the Main mod to delete skee64.dll and skee64.ini.\
+[RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080): Download the Anniversary edition in the Main. Delete SKSE directory to delete skee64.dll and skee64.ini.\
+[RacemenuVR](https://www.nexusmods.com/skyrimspecialedition/mods/156898)\
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659): Download VR version.\
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339): Download Main. Do not download XML VR which is not for 3BA body. For my system, I choose VR, NOT CUDA, AVX, No MCM - Extreme performance in the installer. The best options depend on your CPU type. Read this [wiki](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX) and decide it for yourself.\
 [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000): Choose VR, ESL, BSA in the installer.
