@@ -516,7 +516,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Dual Casting Fix VR](https://www.nexusmods.com/skyrimspecialedition/mods/92804)\
 [Poached Bugs VR](https://www.nexusmods.com/skyrimspecialedition/mods/107053): Download the Main and the optional Simonrim Choice Config.\
 [PrivateProfileRedirector SE - Faster game start](https://www.nexusmods.com/skyrimspecialedition/mods/18860): Download VR version.\
-[Grass Sampler Fix](https://www.nexusmods.com/skyrimspecialedition/mods/91285)\
 [Stagger Effect Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110508)\
 [Combat Music Fix NG Updated](https://www.nexusmods.com/skyrimspecialedition/mods/110459)\
 [WIDeadBodyCleanupScript Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62413)\
