@@ -428,7 +428,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k.\
 [Windhelm Improvements (Snowy Windhelm)](https://www.nexusmods.com/skyrimspecialedition/mods/27696): Choose Main files in the installer. The mod comes with LE version of meshes. Run NIF optimizer on the meshes if possible.\
 [Modern Hay - PBR and CM](https://www.nexusmods.com/skyrimspecialedition/mods/155815): Download PBR 2K version.\
-[Book Covers Skyrim PBR]: Download Book Covers Skyrim PBR - 1K.\
+[Book Covers Skyrim PBR](https://www.nexusmods.com/skyrimspecialedition/mods/155254): Download Book Covers Skyrim PBR - 1K.\
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
 
 ## Lighting
