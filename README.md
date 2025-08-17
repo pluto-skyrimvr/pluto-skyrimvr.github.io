@@ -506,7 +506,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Increase Actor Limit for VR](https://www.nexusmods.com/skyrimspecialedition/mods/37440)\
 [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073): Choose SE version in the installer.\
 [powerofthree's Tweaks VR](https://www.nexusmods.com/skyrimspecialedition/mods/59510)\
-[Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641): Choose All-in-one, ESP-FE and Interesting NPC patch(auto-selected) in the installer.\
+[Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641): Choose All-in-one, esl and Interesting NPC patch(auto-selected) in the installer.\
 [Mu Joint Fix (Knee Fix dll edition)](https://www.nexusmods.com/skyrimspecialedition/mods/61479): Download Main and SL-OStim patch. Choose VR version in the installer.\
 [Animated Static Reload Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69331)\
 [Enhanced Invisibility VR](https://www.nexusmods.com/skyrimspecialedition/mods/63889)\
