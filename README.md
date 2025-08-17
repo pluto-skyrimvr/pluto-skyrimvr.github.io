@@ -766,6 +766,7 @@ Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
    1. AI-Overhaul-Patcher
    1. facefixer
    1. Remove Landscape Vertex Color
+   1. TrueLightPatcher(placed-light-patcher)
    1. Z-Floor-Patcher
 1. Enable the following mods in this order in the facefixer settings. Make sure to enable `Prioritize By Specified Order`.
    1. High Poly Expressive NPCs.esp
