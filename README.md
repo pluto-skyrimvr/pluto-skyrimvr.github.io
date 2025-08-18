@@ -198,7 +198,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061): Choose Shades of Skyrim for CS, 4K Texture Resolution, Default Water Brightness, Default LOD Brightness, Transparent Waterfalls, 4K Resolution, Parallax, auto-selected patch(Landscape Fixes for Grass) in the installer. Further compatibility issues will be handled by Synthesis patcher later. (Optional) Choose available patches if you have mods that add new worldspaces such as The Forgotten City.
 
 ## Body
-[XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended installation, XPMSE latest, None for everything else, Schlong of Skyrim patch in the installer. Delete SOSRaceMenu.esp.\
+[XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988): Choose Extended, XPMS(S)E latest, None for the rest in the installer.\
 [XP32 First Person Skeleton CTD Bugfix for VR](https://www.nexusmods.com/skyrimspecialedition/mods/34301)\
 [No Me Molestes Updated](https://www.nexusmods.com/skyrimspecialedition/mods/134937)\
 [CBPC - CBP Physics with Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/21224): Choose SkyrimVR, CBBE Curvy, Gravity Config in the installer. FPS and bounce amplitude config do not matter because they will be overwritten by the config from 3BBB.\
