@@ -318,7 +318,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Enemies Respect Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/78847)
 
 ## Combat and Enemies
-[Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Choose No Kill Moves in the installer.\
+[Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Download v3.7.4 in the Archived files because VR DLL does not support the latest version yet. Choose No Kill Moves in the installer.\
 [Blade and Blunt VR](https://www.nexusmods.com/skyrimspecialedition/mods/120494)\
 [Pseudo Physical Weapon Collision and Parry AE SE VR](https://www.nexusmods.com/skyrimspecialedition/mods/100781): Download VR version.\
 [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
