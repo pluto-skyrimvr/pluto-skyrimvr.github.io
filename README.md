@@ -107,6 +107,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [RacemenuVR](https://www.nexusmods.com/skyrimspecialedition/mods/156898)\
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659): Download VR version.\
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339): Download Main. Do not download XML VR which is not for 3BA body. For my system, I choose VR, NOT CUDA, AVX, No MCM - Extreme performance in the installer. The best options depend on your CPU type. Read this [wiki](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX) and decide it for yourself.\
+[HDT-SMP Slot 32 Fix](https://www.nexusmods.com/skyrimspecialedition/mods/119010): Download VR version.\
 [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000): Choose VR, ESL, BSA in the installer.
 
 ## Weather
