@@ -36,8 +36,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main and OpenComposite_SkyUIVR_Fix. Use Root builder. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to use its INI if you have to name your character. I do not mind personally.
 
 ## New Contents
-[Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files&file_id=175926): Download 4.1.4 (pre-AE version). You must extract BSA when you install the mod. Also, you have to disable VR playroom in SkyrimVR INI to make the mod work.\
-[Alternate Start Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/66541)\
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576): Radiant quests in job boards.\
 [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788): Download Solstheim patch.\
 [Missives - Carriage and Ferry Travel Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44498)\
@@ -227,7 +225,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461): (Optional) One of the best.
 
 ## More NPC
-[Interesting NPCs SSE](https://www.nexusmods.com/skyrimspecialedition/mods/29194): Download the main file, hotfix, Alternate locations patch, AI Overhaul patch.\
+[Interesting NPCs SSE](https://www.nexusmods.com/skyrimspecialedition/mods/29194): Download the main file, hotfix, AI Overhaul patch.\
 [Interesting NPCs - Zora Fair-Child voice enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/27448): Zora's voice is hard to listen without this.\
 [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858)\
 [3dnpcs Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/131274)
@@ -369,6 +367,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Flute Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69609): Choose XP32/XMPSSE for female, XP32/None for male in the installer.
 
 ## Gameplay
+[Ralof or Hadvar (alternate start)](https://www.nexusmods.com/skyrimspecialedition/mods/14553): Download the regular ESPf version, not the 3 torches version.\
 [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191): Download the Main only.\
 [Adamant - WACCF patch](https://www.nexusmods.com/skyrimspecialedition/mods/37764)\
 [Adamant Tweaks for ADXP and VR](https://www.nexusmods.com/skyrimspecialedition/mods/94555)\
@@ -489,13 +488,13 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Guard Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36366)\
 [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187): Do not download any patches.\
 [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601): Download the main file and UHDAP patch.\
-[Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904): Install auto-selected patch(Alternate Start).\
+[Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904): Install auto-selected patch(none) in the installer.\
 [More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905): Choose Guard Dialogue Overhaul ESL version in the installer.\
 [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files&file_id=134389): Download v4.0.3 (pre-AE version).\
 [NPC AI Process Position Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69326): Choose AI Overhaul in the installer.
 
 ## Bug Fixes and Tweaks
-[Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005): Download Main and Patches for Arthmoor's Town add-ons. Choose Alternate Start patch in the patch installer.\
+[Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005): Download the Main.\
 [Lightened Skyrim - Base Object Swapper edition](https://www.nexusmods.com/skyrimspecialedition/mods/111475)\
 [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432): Download Merged version.\
 [To Your Face SE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/24720)\
@@ -531,7 +530,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Patch Compendium
 [Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patch(3DNPC + ACE Patch) in the installer.\
-[kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518): Choose auto-selected patches(WACCF, ACE, Alternate Start, Kalilies NPCs, RS Children Overhaul, WACCF and ACE for Thaumaturgy) in the installer.\
+[kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518): Choose auto-selected patches(WACCF, ACE, Kalilies NPCs, RS Children Overhaul, WACCF and ACE for Thaumaturgy) in the installer.\
 [RS Children Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/13409): Install Interesting NPC patch only. Do not install AI Overhaul patch.
 
 ## VR
@@ -569,7 +568,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409): Download VR version.\
 [Cooking Categories Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/84875)\
 [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469): Choose Lite version, Fruits in the installer.\
-[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose Base FLM INIs, [USSEP] + [default], Show Optinoal Tweaks, Show Mod Specific Patches, Bees, Various Vanilla Items, Arcane Fire, Ash Fire, Chaos, Shock, Steam, Sun, auto-selected patches(SunHelm, USSEP, Alternate Start) in the installer.\
+[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose Base FLM INIs, [USSEP] + [default], Show Optinoal Tweaks, Show Mod Specific Patches, Bees, Various Vanilla Items, Arcane Fire, Ash Fire, Chaos, Shock, Steam, Sun, auto-selected patches(SunHelm, USSEP) in the installer.\
 [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529): Choose auto-selected(Cooking Categories Improvement, Footprints, SunHelm) in the installer.\
 [The Handy Icon Collection Collective](https://www.nexusmods.com/skyrimspecialedition/mods/90508)\
 [B.O.O.B.I.E.S (aka Immersive Icons)](https://www.nexusmods.com/skyrimspecialedition/mods/89241): Choose Core Files and TAWOBA, TEWOBA, Inigo, Interesting NPCs, Nether's Follower Framework, Relationship Dialogue Overhaul moduels(auto-selected) in the installer.\
@@ -600,6 +599,7 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
 <details>
   <summary>These mods are all great work. It just does not fit in this modlist for various reasons.</summary>
 
+  [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272?tab=files&file_id=175926): It breaks the main quest progression later in the game.\
   [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926): Replaced by Synthesis patch.\
   [Armor Rating Redux VR](https://www.nexusmods.com/skyrimspecialedition/mods/30727): The latest combat mods have their own armor rating mechanism. Using this mod will break the combat mod's intended design.\
   [Azurite Mists](https://www.nexusmods.com/skyrimspecialedition/mods/106559): Removed because the mod messes with the sky meshes in VR.\
