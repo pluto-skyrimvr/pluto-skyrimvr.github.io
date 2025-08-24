@@ -166,6 +166,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [High Quality PBR Ivy](https://www.nexusmods.com/skyrimspecialedition/mods/129934): Choose Variant 1 2K in the installer.\
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
 [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725)\
+[Better Blended Mushrooms Fix](https://www.nexusmods.com/skyrimspecialedition/mods/157604)\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
 [Happy PBR Trees](https://www.nexusmods.com/skyrimspecialedition/mods/129150): Download FullRes version.\
 [Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose Low Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin(BDS), High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
