@@ -176,6 +176,10 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Enhanced Rocks and Mountains - Fix and Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Vanilla for Icy Caves, all the avilalbe fixes in the installer.\
 [ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.
 
+## Landscape (Grass Cache)
+[Grass Cache Helper NG](https://www.nexusmods.com/skyrimspecialedition/mods/101095)\
+[No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161): Download the Main, GrassControl.ini, Freak's Floral Meadow patch. Download MO2 plugin and place in your `/plugins` directory of MO2.
+
 ## Cities and Buildings
 [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728): Choose Markarth Fixed AF(parallax) in the installer.\
 [Whiterun Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48120)\
@@ -654,6 +658,7 @@ Work in progress.
 
 
 # Post Install Process
+IMPORTANT: These post install process tools need to run via Mod Organizer 2 to identify the installed mods.
 
 1. LOOT: Sort the plugin load order.
 1. Pandora Behaviour Engine Plus: Build animations.
@@ -661,6 +666,7 @@ Work in progress.
 1. Mator Smash: Resolve plugin conflicts.
 1. Synthesis: Patch.
 1. ParallaxGen: Generate parallax/PBR meshes.
+1. GrassCache: Generate grass cache for No Grass In Objects.
 1. xLODGen: Generate Terrain LOD.
 1. TexGen: Generate textures for Object LOD and Tree LOD.
 1. DynDOLOD: Generate Object LOD and Tree LOD.
@@ -802,6 +808,30 @@ Download: [ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrims
 1. Click Start Patching. (~3 minutes)
 1. ParallaxGen output zip is a regular Skyrim mod. Install and enable the mod.\
    ![parallaxgen](images/parallaxgen.png)
+
+## Grass Cache
+
+Download: [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164): Install it where you manage your modding tools. Rename `SSEEdit.exe` to `TES5VREdit.exe`.\
+Download: [Worldspaces with Grass SSEEdit Script for No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/55152): Download the Main and extract the script into the `Edit Scripts` directory inside your TES5VREdit.\
+Detailed Instructions: [How to Generate Grass Cache](https://www.nexusmods.com/skyrimspecialedition/articles/6919)
+
+A short version of the instrucutions if you know what you are doing.
+
+1. Make sure to enable the patches that were built in the previous steps.
+1. Add `PrecacheGrass.txt` to the Exlusions in Root Builder.
+1. Run the xEdit script `List worldspaces with grass` and copy the output string. (~1 min)
+1. Edit the following lines in `GrassControl.ini`.
+   ```
+   Use-grass-cache = true
+   Only-load-from-cache = true
+   Only-pregenerate-world-spaces = (paste the output string from the script here)
+   ```
+1. Disable or delete grass cache if there are previously generated ones.
+1. Disable Community Shader temporarily to save the startup time.
+1. Run Precache Grass plugin in MO2. It will crash and re-launch the game multiple times. Make sure your headset does not activate the sleep mode by increasing the sleep timer because it will run the game for long time. (~65 minutes)
+1. Create a new mod called `Grass Cache` and move the generated `grass` directory to the mod.
+1. Enable `Grass Cache` mod you just created.
+1. Re-enable Community Shader.
 
 ## xLODGen
 
