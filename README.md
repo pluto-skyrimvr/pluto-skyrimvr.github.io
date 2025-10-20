@@ -384,7 +384,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686): Do not choose optional module files in the installer.\
 [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)\
 [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746)\
-[Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138)\
+[Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138): Download the Main and Weapon Enchantment XP Tweak.\
 [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130)\
 [Misc Apothecary Patches](https://www.nexusmods.com/skyrimspecialedition/mods/79641): Choose auto-selected patches(3DNPC, Book Covers Skyrim, Heritage 2) in the installer.\
 [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882): Download VR version.\
