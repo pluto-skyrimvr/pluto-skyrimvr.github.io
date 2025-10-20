@@ -448,10 +448,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)\
 [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502)\
 [Grass Collision](https://www.nexusmods.com/skyrimspecialedition/mods/87816)\
-[Light Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/99548)\
 [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739)\
 [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114)\
-[Screen Space Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/93209)\
 [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352)\
 [Sky Sync](https://www.nexusmods.com/skyrimspecialedition/mods/153543)\
 [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185)\
