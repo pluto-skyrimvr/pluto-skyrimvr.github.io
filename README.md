@@ -284,7 +284,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933)\
 [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943)\
 [ArteFakes - Unique Artifacts Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/41254): Download the Main, the Update, Animation Replacer Patch.\
-[Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/99619): We only need the main installer, not the addons.\
+[Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/99619): Download the Main and Xavbio Textures Addon.\
 [aljo's Artificer Patches](https://www.nexusmods.com/skyrimspecialedition/mods/99684): Download the Main. Choose ArteFakes patch in the installer. We do not need AI Overhaul patch because it will be handled by Synthesis patch later.
 
 ## Skimpy Outfits
