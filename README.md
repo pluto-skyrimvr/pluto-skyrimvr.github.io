@@ -74,13 +74,13 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [OStim SA Official Icon Patch for OARE and OA3PP](https://www.nexusmods.com/skyrimspecialedition/mods/106384): Download both Main files.\
 [Lovemaking Compendium for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98271)\
 [Night-blooming Violets for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98276)\
-[Billyy's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/102778): Choose every module, Adapted furniture in the installer.\
+[Billyy's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/102778): Choose rotation scene, all modules, Adapted furniture in the installer.\
 [Billyy Wall Pack for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/101838)\
 [Billyy Table Pack for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/99907)\
 [Billyy Chair and Bench Pack for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98803)\
-[Leito's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/104775): Choose every module, Adapted furniture in the installer.\
-[Nibbles' animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/102528): Choose every module, Adapted furniture in the installer.\
-[Anub's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/101918): Choose every module, Adapted furniture, all face expressions in the installer.\
+[Leito's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/104775): Choose rotation scene, all modules, Adapted furniture in the installer.\
+[Nibbles' animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/102528): Choose rotation scene, all modules, Adapted furniture in the installer.\
+[Anub's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/101918): Choose rotation scene, all modules, Adapted furniture, all face expressions in the installer.\
 [BakaFactory's Animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/106473)\
 [Milky's Animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/106875)
 
@@ -160,16 +160,16 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068)\
 [Cathedral - Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103)\
 [Cathedral PBR Plants](https://www.nexusmods.com/skyrimspecialedition/mods/135836): Choose Non Seasonal plants, Non-glowing default for Deathbell, Default and Patch for Interesting NPCs for Mountain Flowers, Orange color for Dragon Tongue, off for Dragon Tongue glow, Darker desaturated for Nightshade, Default for Snow Berries, Default for Stone Crop, Default for Sword Ferns, Default for Thistle, Default for Tundra Cotton, None for Thickets and Dead Shrubs, Default for Pine Shrubs, None for Tundra Scrubs, Some slimey mushrooms for Mushrooms in the installer.\
-[PBR Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/148782): Choose the default options in the installer.\
+[PBR Flora Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/148782): Choose Non Seasonal plants, default options in the installer.\
 [Diverse high-quality PBR shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/154489): Choose Complete in the installer.\
 [High Quality Ivy Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/113578): Choose Variant 1 2K, Animated, Vanilla Stonewalls in the installer.\
-[High Quality PBR Ivy](https://www.nexusmods.com/skyrimspecialedition/mods/129934): Choose Variant 1 2K in the installer.\
+[High Quality PBR Ivy](https://www.nexusmods.com/skyrimspecialedition/mods/129934): Download the regular High Quality PBR Ivy version. Choose Variant 1 2K in the installer.\
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
 [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725)\
 [Better Blended Mushrooms Fix](https://www.nexusmods.com/skyrimspecialedition/mods/157604)\
 [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
 [Happy PBR Trees](https://www.nexusmods.com/skyrimspecialedition/mods/129150): Download FullRes version.\
-[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download the Main. Choose Low Poly Consistency, IcyFixesLite ESL, IMR Extended LOD ESL, Important plugin(BDS), High poly no slush ice, None for cracked glaciers, None for partitioned snow, None for projected snow, None for Windhelm icicle fix.\
+[Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download both IcyFixes and Meshes in the Main.\
 [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121): Download the Main v3.x. Choose Brighter color, Default UVs, None for projected diffuse textures in the installer.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/121336): Download the main meshes only.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
@@ -280,7 +280,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Armor and Weapons
 [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994): Choose 2K(default), LeanWolf's Better-shaped Weapons. Do not choose WACCF_BashedPatchLvlListFix.esp in the installer.\
 [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002): Download the Main and SPID Patch.\
-[Weapons Armor Clothing and Clutter Fixes - CBBE 3BA patch (WACCF and ACE 3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/110680): Choose WACCF, ACE, prebuilt meshes in the installer.\
+[Weapons Armor Clothing and Clutter Fixes - CBBE 3BA patch (WACCF and ACE 3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/110680): Choose WACCF, ACE, prebuilt meshes, None for Beast Race fixes in the installer.\
 [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933)\
 [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943)\
 [ArteFakes - Unique Artifacts Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/41254): Download the Main, the Update, Animation Replacer Patch.\
@@ -301,9 +301,9 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
 [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
 [Iron Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84978): Choose Textures Only for Iron Armor, Textures Olny for Weapons, Textures Only for Targe of the Blooded, Headman's Axe, None for CC contents, Iron Armor for Iron Armor Texture options, None for sleeves, Leanwolf's iron scabbard patch, Cathedral Armory patch in the installer.\
-[Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445): Choose everything under Vanilla Items, using Cathedral Armory, White fur, Vanilla style for Steel Plate Design in the installer.\
+[Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445): Choose everything under Vanilla Items. Choose using Cathedral Armory, White fur, Vanilla style for Steel Armor. Choose Vanilla for Blade Armor. Choose White Fur, Cathedral Armory Patch for Carved Nordic Armor, Leanwolf for Carved Nordic Weapons in the installer.\
 [Orcish Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84607): Choose Textures Only for Orcish Armor, Orcish Weapons, Cathedral Armory patch in the installer.\
-[Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer, Cathedral Armory patch in the installer.\
+[Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer for Elven Armor, Gold for Elven Weapons in the installer.\
 [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose everything under Vanilla Items, Cubemap Addon, Clean for Champion's cudgel, and leave the rest as default in the installer.\
 [Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Choose everything under Vanilla Items, Nightingale Scabbard in the installer.\
 [Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483): Download the Main.\
@@ -331,7 +331,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Heritage Enemies 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989): Download Texture BSA version and WACCF patch. Delete `Meshes/armor/dbarmor/dbarmorsleeveless_1.nif` that conflicts with Armor Mesh Fixes.\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085): Download the Main.\
-[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose VR version and auto-selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Interesting NPCs, Carriage and Ferry Travel Overhaul, Immersive Wenches) in the installer.\
+[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose auto-selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Interesting NPCs, Carriage and Ferry Travel Overhaul, Immersive Wenches, Just Blood) in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
 
 ## Animation
@@ -433,7 +433,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k.\
 [Windhelm Improvements (Snowy Windhelm)](https://www.nexusmods.com/skyrimspecialedition/mods/27696): Choose Main files in the installer. The mod comes with LE version of meshes. Run NIF optimizer on the meshes if possible.\
 [Modern Hay - PBR and CM](https://www.nexusmods.com/skyrimspecialedition/mods/155815): Download PBR 2K version.\
-[Book Covers Skyrim PBR](https://www.nexusmods.com/skyrimspecialedition/mods/155254): Download Book Covers Skyrim PBR - 1K.\
+[Book Covers Skyrim PBR](https://www.nexusmods.com/skyrimspecialedition/mods/155254): Download Book Covers Skyrim PBR - Original.\
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
 
 ## Lighting
