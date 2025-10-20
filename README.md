@@ -437,11 +437,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
 
 ## Lighting
+[Ambient Templates for Lighting Mods](https://www.nexusmods.com/skyrimspecialedition/mods/153425): Choose VR, Level 40, Yes for HDR in the installer.\
 [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557): Choose SE in the installer.\
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
-[True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Even Brighter Ambient Lighting, True Light - Exterior, Dwemer Swap BOS addon in the installer.\
-[CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose Placed Light ISL for Main Configs, Everything for Install options, Dim for Potion Light Intensity in the installer.\
+[True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose No for WSU, True Light - Exterior, Dwemer Swap BOS addon in the installer.\
+[CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose True Light for Lighting Type, Regular for Dwemer Lights, everything for Additional lights, Regular Soulgems, Cathedral - 3D Deathbell ISL, Dim for Potion Light Intensity, CS Light for Magic effects ISL, Interior Windows Lights in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.
 
 ## Shaders
@@ -775,7 +776,6 @@ Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
    1. AI-Overhaul-Patcher
    1. facefixer
    1. Remove Landscape Vertex Color
-   1. TrueLightPatcher(placed-light-patcher)
    1. Z-Floor-Patcher
 1. Enable the following mods in this order in the facefixer settings. Make sure to enable `Prioritize By Specified Order`.
    1. High Poly Expressive NPCs.esp
