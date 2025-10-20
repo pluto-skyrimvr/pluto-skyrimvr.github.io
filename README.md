@@ -120,7 +120,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## DynDOLOD
 [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897): Choose everything only in Visual Options in the installer.\
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720): Choose VR compatible version in the installer.\
-[Far Object LOD Improvement Project SSE(https://www.nexusmods.com/skyrimspecialedition/mods/79197)]
+[Far Object LOD Improvement Project SSE](https://www.nexusmods.com/skyrimspecialedition/mods/79197)
 
 ## Texture and Mesh (Base)
 [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850): Download "Basecoat - Textures only" 1.0 in Old Files section.\
