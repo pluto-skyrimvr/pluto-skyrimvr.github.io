@@ -30,7 +30,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch.\
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)\
-[Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patch(Trees of Riverwood - Happy Little Trees) in the installer.
+[Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patch(Trees of Riverwood) in the installer.
 
 ## OpenComposite
 [Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main and OpenComposite_SkyUIVR_Fix. Use Root builder. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to use its INI if you have to name your character. I do not mind personally.
@@ -173,7 +173,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121): Download the Main v3.x. Choose Brighter color, Default UVs, None for projected diffuse textures in the installer.\
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/121336): Download the main meshes only.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
-[Enhanced Rocks and Mountains - Fix and Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Vanilla for Icy Caves, all the avilalbe fixes in the installer.\
+[Enhanced Rocks and Mountains - Fix and Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Vanilla for Icy Caves, Skyforge Fix without Dirt, StoneRessource01 Fix in the installer.\
 [ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.
 
 ## Landscape (Grass Cache)
@@ -322,7 +322,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Enemies Respect Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/78847)
 
 ## Combat and Enemies
-[Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Download v3.7.4 in the Archived files because VR DLL does not support the latest version yet. Choose No Kill Moves in the installer.\
+[Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Choose No Kill Moves in the installer.\
 [Blade and Blunt VR](https://www.nexusmods.com/skyrimspecialedition/mods/120494)\
 [Pseudo Physical Weapon Collision and Parry AE SE VR](https://www.nexusmods.com/skyrimspecialedition/mods/100781): Download VR version.\
 [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
@@ -437,12 +437,12 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
 
 ## Lighting
-[Ambient Templates for Lighting Mods](https://www.nexusmods.com/skyrimspecialedition/mods/153425): Choose VR, Level 40, Yes for HDR in the installer.\
+[Ambient Templates for Lighting Mods](https://www.nexusmods.com/skyrimspecialedition/mods/153425): Choose VR, Yes for HDR, Level 65 for both in the installer.\
 [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557): Choose SE in the installer.\
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
 [True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose No for WSU, True Light - Exterior, Dwemer Swap BOS addon in the installer.\
-[CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose True Light for Lighting Type, Regular for Dwemer Lights, everything for Additional lights, Regular Soulgems, Cathedral - 3D Deathbell ISL, Dim for Potion Light Intensity, CS Light for Magic effects ISL, Interior Windows Lights in the installer.\
+[CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose True Light for Lighting Type, Regular for Dwemer Lights, everything for Additional lights, Regular Soulgems, Cathedral - 3D Deathbell ISL, None for Potion Light Intensity, CS Light for Magic effects ISL, Interior Windows Lights in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.
 
 ## Shaders
@@ -534,7 +534,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Disk Cache Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/100975)
 
 ## Patch Compendium
-[Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patch(3DNPC + ACE Patch) in the installer.\
+[Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patches(3DNPC + ACE Patch, Interesting NPCs Sound Record Distributor yamls) in the installer.\
 [kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518): Choose auto-selected patches(WACCF, ACE, Kalilies NPCs, RS Children Overhaul, WACCF and ACE for Thaumaturgy) in the installer.\
 [RS Children Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/13409): Install Interesting NPC patch only. Do not install AI Overhaul patch.
 
@@ -630,7 +630,6 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
   [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199): Replaced by NPCs Learn to Aim.\
   [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520): It halves the framerates when used with CS Light.\
   [Locational Damage SKSE VR](https://www.nexusmods.com/skyrimspecialedition/mods/26447): It makes the game too easy.\
-  [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212): I see many warnings about the mod not being able to find encounter zones.\
   [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689): It was installed as a requirement for other mods but it did not do anything because there is no zMerge patch in this modlist.\
   [More Tavern Idles - SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/16757): Redundant and not compatible with AI Overhaul that adds its own idle markers.\
   [MorrowLoot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058): Loots are predictable. Open World Loot's randomness works better for replayability in my opinion.\
