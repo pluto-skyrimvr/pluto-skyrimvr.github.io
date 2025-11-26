@@ -106,7 +106,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659): Download VR version.\
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339): Download Main. Do not download XML VR which is not for 3BA body. For my system, I choose VR, NOT CUDA, AVX, No MCM - Extreme performance in the installer. The best options depend on your CPU type. Read this [wiki](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX) and decide it for yourself.\
 [HDT-SMP Slot 32 Fix](https://www.nexusmods.com/skyrimspecialedition/mods/119010): Download VR version.\
-[MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000): Choose VR, ESL, BSA in the installer.
+[MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000): Choose VR, ESL, BSA in the installer.\
+[XEMI Utility](https://www.nexusmods.com/skyrimspecialedition/mods/159084): Choose VR in the installer.
 
 ## Weather
 [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers III in the Main.\
@@ -444,7 +445,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
 [True Light(Placed Light)](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose No for WSU, True Light - Exterior, Dwemer Swap BOS addon in the installer.\
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose True Light for Lighting Type, Regular for Dwemer Lights, everything for Additional lights, Regular Soulgems, Cathedral - 3D Deathbell ISL, None for Potion Light Intensity, CS Light for Magic effects ISL, Interior Windows Lights in the installer.\
-[iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.
+[iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.\
+[Window Emittance Consistency (WEC)](https://www.nexusmods.com/skyrimspecialedition/mods/158918): Choose WEC - Mild in the installer.
 
 ## Shaders
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)\
