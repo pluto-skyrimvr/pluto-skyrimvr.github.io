@@ -457,7 +457,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)\
 [Terrain Variation](https://www.nexusmods.com/skyrimspecialedition/mods/148123)\
 [Extended Translucency](https://www.nexusmods.com/skyrimspecialedition/mods/150755)\
-[Inverse Square Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/153542)
+[Inverse Square Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/153542)\
+[Upscaling](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
 
 ## Immersion
 [Animated Ships](https://www.nexusmods.com/skyrimspecialedition/mods/110260)\
