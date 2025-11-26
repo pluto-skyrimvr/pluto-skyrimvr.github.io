@@ -535,8 +535,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Controller Fix VR](https://www.nexusmods.com/skyrimspecialedition/mods/123044)\
 [Dragonactorscript infinite loop fix](https://www.nexusmods.com/skyrimspecialedition/mods/87940): Choose Main and untick the Dragon War patch in the installer.\
 [Scripts Carefully Reworked Optimized and Tactfully Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/97155): Download loose files version.\
-[Delphine Skyhaven Bugfix MQ203](https://www.nexusmods.com/skyrimspecialedition/mods/100595)\
-[Disk Cache Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/100975)
+[Delphine Skyhaven Bugfix MQ203](https://www.nexusmods.com/skyrimspecialedition/mods/100595)
 
 ## Patch Compendium
 [Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patches(3DNPC + ACE Patch, Interesting NPCs Sound Record Distributor yamls) in the installer.\
