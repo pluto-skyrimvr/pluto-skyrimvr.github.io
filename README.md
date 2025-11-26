@@ -596,7 +596,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Bodyslide Output](#bodyslide)\
 [Smashed Patch](#smashed-patch)\
 [Synthesis Patch](#synthesis-patch)\
-[PGPatcher_Output](#parallaxgen)\
+[PGPatcher_Output](#pgpatcher)\
 [xLODGen_Output](#xlodgen)\
 [TexGen_Output](#texgendyndolod)\
 [DynDOLOD_Output](#texgendyndolod)
@@ -669,7 +669,7 @@ IMPORTANT: These post install process tools need to run via Mod Organizer 2 to i
 1. Bodyslide: Build armor and clothing meshes.
 1. Mator Smash: Resolve plugin conflicts.
 1. Synthesis: Patch.
-1. ParallaxGen: Generate parallax/PBR meshes.
+1. PGPatcher: Generate parallax/PBR meshes.
 1. GrassCache: Generate grass cache for No Grass In Objects.
 1. xLODGen: Generate Terrain LOD.
 1. TexGen: Generate textures for Object LOD and Tree LOD.
@@ -703,7 +703,6 @@ Once you sort the plugin load order, proceed to the next step. Eventually, the f
 1. All plugins sorted by LOOT
 1. Smashed Patch.esp
 1. Synthesis.esp
-1. ParallaxGen.esp
 1. PG_1.esp
 1. DynDOLOD.esp
 1. Occlusion.esp
@@ -715,7 +714,7 @@ Once you sort the plugin load order, proceed to the next step. Eventually, the f
 1. Enable everything and click the build button. (~25 seconds)
 
 ## Bodyslide
-Since the mod authors use bodyslide group settings inconsistently, you will see lots of unnecessary conflicts when you run a batch build. Here is a simple way to keep you from clicking hundreds of conflicting items. You must run Bodyslide before ParallaxGen in case you have armor meshes that use Parallax/PBR features.
+Since the mod authors use bodyslide group settings inconsistently, you will see lots of unnecessary conflicts when you run a batch build. Here is a simple way to keep you from clicking hundreds of conflicting items. You must run Bodyslide before PGPatcher in case you have armor meshes that use Parallax/PBR features.
 
 1. Launch Bodyslide in MO2.
 1. Choose `3BA`, `unassigned` in the group selection bar.
@@ -796,20 +795,23 @@ Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
    1. 3DNPC Visual Overhaul.esp
 1. Run the patch builder. (~3 minutes)
 
-## ParallaxGen
+## PGPatcher
 
-Download: [ParallaxGen - Dynamic Mesh Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)
+Download: [PGPatcher (aka ParallaxGen)](https://www.nexusmods.com/skyrimspecialedition/mods/120946)
 
-1. Make sure to build all the body and outfit meshes with Bodyslide before running ParallaxGen.
+1. Make sure to build all the body and outfit meshes with Bodyslide before running PGPatcher.
 1. Make sure to enable the patches that were built in the previous steps.
-1. Launch ParallaxGen in MO2.
-1. Set Game Location and Mod Manager.
+1. Launch PGPatcher in MO2.
 1. Click Show Advanced Options.
-1. Enable Use MO2 Loose File Order.
+1. Set Game Location and MO2 Instance Location.
 1. Enable Upgrade Parallax to Complex Material.
+1. Enable Fix Effect Lighting(CS Only).
 1. Click Save Config.
-1. Click Start Patching. (~3 minutes)
-1. ParallaxGen output zip is a regular Skyrim mod. Install and enable the mod.\
+1. Click Start Patching.
+1. Enable Lock to MO2 Loose File Order.
+1. Click Apply.
+1. Click Okay. (~3 minutes)
+1. PGPatcher output zip is a regular Skyrim mod. Install and enable the mod.\
    ![parallaxgen](images/parallaxgen.png)
 
 ## Grass Cache
