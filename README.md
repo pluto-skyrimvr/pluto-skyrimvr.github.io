@@ -94,6 +94,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854): Choose SSE v1.5.97("Special Edition") in the installer. The DLL will be replaced by the VR version below.\
 [Papyrus Extender VR](https://www.nexusmods.com/skyrimspecialedition/mods/58296)\
 [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)\
+[Papyrus Ini Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/65634)\
 [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669): Download the latest SE version, not the VR version. DLL will be overwritten by Mfg Fix NG.\
 [Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)\
 [ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)\
