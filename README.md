@@ -482,7 +482,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Journeyman - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/148309)
 
 ## Economy
-[Evolving Value Economy (SkyRem - Eve)](https://www.nexusmods.com/skyrimspecialedition/mods/26325?tab=files&file_id=469849)\
+[Roleplaying in Skyrim - Evolving Economy](https://www.nexusmods.com/skyrimspecialedition/mods/149830)\
 [Honed Metal -NPC Crafting and Enchanting Services-](https://www.nexusmods.com/skyrimspecialedition/mods/61015): Download Main. Choose ESL flagged Base, 1.4.15 SKSE VR plugin in the installer.\
 [Honed Thaumaturgy (FLM)](https://www.nexusmods.com/skyrimspecialedition/mods/104295)\
 [Recipe Auto-Learn](https://www.nexusmods.com/skyrimspecialedition/mods/84909)
