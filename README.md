@@ -558,7 +558,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Stop Trigger Unsheathing For VR](https://www.nexusmods.com/skyrimspecialedition/mods/55962)\
 [Magic Improvements for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/55751)\
 [Immersive Crossbow Reload VR](https://www.nexusmods.com/skyrimspecialedition/mods/139152)\
-[Interactive Pullchains VR](https://www.nexusmods.com/skyrimspecialedition/mods/142338)
+[Interactive Activators VR](https://www.nexusmods.com/skyrimspecialedition/mods/161676)
 
 ## UI
 [Display Enemy Level](https://www.nexusmods.com/skyrimspecialedition/mods/18533)\
