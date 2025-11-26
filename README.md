@@ -432,7 +432,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Realistic PBR Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/140780): Choose auto-selected patches(Sand Patch, Ultimate Fix) in the installer.
 
 ## Texture and Mesh (Late Order)
-[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k.\
+[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k and PBR Windows.\
 [Windhelm Improvements (Snowy Windhelm)](https://www.nexusmods.com/skyrimspecialedition/mods/27696): Choose Main files in the installer. The mod comes with LE version of meshes. Run NIF optimizer on the meshes if possible.\
 [Modern Hay - PBR and CM](https://www.nexusmods.com/skyrimspecialedition/mods/155815): Download PBR 2K version.\
 [Book Covers Skyrim PBR](https://www.nexusmods.com/skyrimspecialedition/mods/155254): Download Book Covers Skyrim PBR - Original.\
