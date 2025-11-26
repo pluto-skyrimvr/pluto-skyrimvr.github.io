@@ -111,7 +111,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## Weather
 [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers III in the Main.\
 [Azurite III - HDR](https://www.nexusmods.com/skyrimspecialedition/mods/138991)\
-[Obsidian Mountain Fogs Tweaked](https://www.nexusmods.com/skyrimspecialedition/mods/71189): Download default version.
+[Obsidian Mountain Fogs](https://www.nexusmods.com/skyrimspecialedition/mods/13539)
 
 ## ReShade
 [ReShade Effect Toggler](https://www.nexusmods.com/skyrimspecialedition/mods/98879): (Optional) A minor convenience feature mod. You can only use this for Reshade 5.9+ which is incompatible with OpenComposite.\
