@@ -176,7 +176,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/121336): Download the main meshes only.\
 [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)\
 [Enhanced Rocks and Mountains - Fix and Addon](https://www.nexusmods.com/skyrimspecialedition/mods/142493): Choose Vanilla for Icy Caves, Skyforge Fix without Dirt, StoneRessource01 Fix in the installer.\
-[ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.
+[ERMed - Blackreach Crystals](https://www.nexusmods.com/skyrimspecialedition/mods/147586): Download the Main.\
+[HD Terrain Noise Texture SE](https://www.nexusmods.com/skyrimspecialedition/mods/47057)
 
 ## Landscape (Grass Cache)
 [Grass Cache Helper NG](https://www.nexusmods.com/skyrimspecialedition/mods/101095)\
