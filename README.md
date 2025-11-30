@@ -112,7 +112,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Weather
 [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers III in the Main.\
-[Azurite III - HDR](https://www.nexusmods.com/skyrimspecialedition/mods/138991)\
+[Azurite III CS](https://www.nexusmods.com/skyrimspecialedition/mods/162153): Choose Reduced Bloom in the installer.\
 [Obsidian Mountain Fogs](https://www.nexusmods.com/skyrimspecialedition/mods/13539)
 
 ## ReShade
