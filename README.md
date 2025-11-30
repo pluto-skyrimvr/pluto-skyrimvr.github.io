@@ -145,8 +145,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Vanilla Landscape Corrections - VLC](https://www.nexusmods.com/skyrimspecialedition/mods/104962): Don't choose any patch in the installer.\
 [Faultier's PBR Skyrim(Landscapes)](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Landscapes 4k. Ignore the AIO textures for now. It will be installed separately later.\
 [DrJacopo's - 3D Landscapes and Grass Library](https://www.nexusmods.com/skyrimspecialedition/mods/80687): Download the Meshes only.\
-[Freak's Floral Meadows](https://www.nexusmods.com/skyrimspecialedition/mods/148525)\
-[Rock Grass Remover](https://www.nexusmods.com/skyrimspecialedition/mods/81627): Download Rock Removal version.\
+[Witchy Wilderness - Modular Grass Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/134287): Choose Full Installation, 2k Textures, None for Tundra Landscape Textures, No 3d Assets in the installer.\
 [Cathedral - 3D Clover Plant](https://www.nexusmods.com/skyrimspecialedition/mods/68793): Download Full 3D PBR version.\
 [Cathedral - 3D Deathbell](https://www.nexusmods.com/skyrimspecialedition/mods/76460)\
 [Cathedral - 3D Dragons Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/85694): Download Orange version.\
@@ -181,7 +180,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Landscape (Grass Cache)
 [Grass Cache Helper NG](https://www.nexusmods.com/skyrimspecialedition/mods/101095)\
-[No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161): Download the Main, GrassControl.ini, Freak's Floral Meadow patch. Download MO2 plugin and place in your `/plugins` directory of MO2.
+[No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161): Download the Main, GrassControl.ini. Download MO2 plugin and place in your `/plugins` directory of MO2.
 
 ## Cities and Buildings
 [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728): Choose Markarth Fixed AF(parallax) in the installer.\
