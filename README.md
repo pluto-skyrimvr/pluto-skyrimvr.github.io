@@ -444,9 +444,10 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557): Choose SE in the installer.\
 [Light Placer VR](https://www.nexusmods.com/skyrimspecialedition/mods/135822)\
 [Flayan's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/137944)\
-[True Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose No for WSU, True Light - Exterior, Dwemer Swap BOS addon, FX Glow Remover BOS, USSEP patch in the installer.\
+[True Light](https://www.nexusmods.com/skyrimspecialedition/mods/135488): Choose Yes for WSU, True Light - Exterior, Dwemer Swap BOS addon, FX Glow Remover BOS, USSEP patch in the installer.\
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose True Light for Lighting Type, Regular for Dwemer Lights, everything for Additional lights, Regular Soulgems, Cathedral - 3D Deathbell ISL, None for Potion Light Intensity, CS Light for Magic effects ISL, Interior Windows Lights in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.\
+[Window Shadows Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/150494): Choose Brightest for Window Glow, Normal for Light Rays, Faultier's PBR Windows in the installer.\
 [Window Emittance Consistency (WEC)](https://www.nexusmods.com/skyrimspecialedition/mods/158918): Choose WEC - Mild in the installer.\
 [Dynamic Interior Ambient Lighting (DIAL)](https://www.nexusmods.com/skyrimspecialedition/mods/149920): Choose Azurite III, Default brightness, No for Seasonal Weathers Framework, No for Lux in the installer.
 
