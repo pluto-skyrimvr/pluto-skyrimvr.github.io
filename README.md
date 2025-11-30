@@ -834,7 +834,7 @@ A short version of the instrucutions if you know what you are doing.
    ```
 1. Disable or delete grass cache if there are previously generated ones.
 1. Disable Community Shader temporarily to save the startup time.
-1. Run Precache Grass plugin in MO2. It will crash and re-launch the game multiple times. Make sure your headset does not activate the sleep mode by increasing the sleep timer because it will run the game for long time. (~65 minutes)
+1. Run Precache Grass plugin in MO2. It will crash and re-launch the game multiple times. Make sure your headset does not activate the sleep mode by increasing the sleep timer because it will run the game for long time. (~40 minutes)
 1. Create a new mod called `Grass Cache` and move the generated `grass` directory to the mod.
 1. Enable `Grass Cache` mod you just created.
 1. Re-enable Community Shader.
