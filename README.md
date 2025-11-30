@@ -168,8 +168,8 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Less Ugly Tundragrass](https://www.nexusmods.com/skyrimspecialedition/mods/26740): Download Redder variant.\
 [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725)\
 [Better Blended Mushrooms Fix](https://www.nexusmods.com/skyrimspecialedition/mods/157604)\
-[Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961): Download Main and the plugin update. Choose All Trees, Tree Size addon, Default Snowy Pine textures in the installer.\
-[Happy PBR Trees](https://www.nexusmods.com/skyrimspecialedition/mods/129150): Download FullRes version.\
+[Lightwood Trees](https://www.nexusmods.com/skyrimspecialedition/mods/149007)\
+[PBR Lightwood Trees](https://www.nexusmods.com/skyrimspecialedition/mods/154390): Download the Main and snowy fix.\
 [Icy Mesh Remaster](https://www.nexusmods.com/skyrimspecialedition/mods/73381): Download both IcyFixes and Meshes in the Main.\
 [Ice is Ice - Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/156807)\
 [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121): Download the Main v3.x. Choose Brighter color, Default UVs, None for projected diffuse textures in the installer.\
