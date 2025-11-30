@@ -354,7 +354,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014): Do not choose the Default Animation pack in the installer. Also, it should be enabled in Pandora Behaviour Engine Plus later.\
 [SCAR VR - Skyrim Combos AI Revolution VR](https://www.nexusmods.com/skyrimspecialedition/mods/89492)\
 [SCAR Stamina Limitation Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72451)\
-[BFCO - MCO - Diverse NPC Movesets](https://www.nexusmods.com/skyrimspecialedition/mods/141893): Choose BFCO, AIO in the installer.\
 [Smooth Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/70531)\
 [Smooth Moveset (CPR)](https://www.nexusmods.com/skyrimspecialedition/mods/140499)\
 [mcgFemaleWalk for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/13640): Remove esp because we don't need movement speed change.\
