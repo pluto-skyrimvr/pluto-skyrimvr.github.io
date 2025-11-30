@@ -883,7 +883,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
    1. Configure the rules for `tree` and `\` as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
    1. Configure the rest of the options as shown in the image below. (Options box in the bottom)\
       ![dyndolod](images/dyndolod.png)
-   1. Click OK to build DynDOLOD output. (~30 minutes)
+   1. Click OK to build DynDOLOD output. (~50 minutes)
    1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
 
 
