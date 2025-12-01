@@ -29,8 +29,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): Download both Main files. Use Root Builder for Part 2.\
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch.\
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
-[eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)\
-[Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176): Choose auto-selected patch(Trees of Riverwood) in the installer.
+[eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
 
 ## OpenComposite
 [Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main and OpenComposite_SkyUIVR_Fix. Use Root builder. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to use its INI if you have to name your character. I do not mind personally.
