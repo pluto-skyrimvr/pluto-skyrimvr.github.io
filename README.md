@@ -114,10 +114,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Azurite III CS](https://www.nexusmods.com/skyrimspecialedition/mods/162153): Choose Reduced Bloom in the installer.\
 [Obsidian Mountain Fogs](https://www.nexusmods.com/skyrimspecialedition/mods/13539)
 
-## ReShade
-[ReShade Effect Toggler](https://www.nexusmods.com/skyrimspecialedition/mods/98879): (Optional) A minor convenience feature mod. You can only use this for Reshade 5.9+ which is incompatible with OpenComposite.\
-[Glamur Reshade VR](https://www.nexusmods.com/skyrimspecialedition/mods/61434): (Optional) Use Root Builder. This Reshade preset is for Fake Global Illumination feature. You can also enable CAS sharpener if you like extra sharpness. Since it uses an old version of Reshade, it works well with OpenComposite. One downside is that it creates strange visual artifacts around transparent meshes such as hairs and bushes.
-
 ## DynDOLOD
 [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897): Choose everything only in Visual Options in the installer.\
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720): Choose VR compatible version in the installer.\
