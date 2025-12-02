@@ -242,6 +242,9 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012): Choose USSEP version in the installer.\
 [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135): Download USSEP version.\
 [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680): Choose USSEP version in the installer.\
+[Pan's Nameless Witches](https://www.nexusmods.com/skyrimspecialedition/mods/130245): Download ESL version.\
+[Pan's Nameless Hunters](https://www.nexusmods.com/skyrimspecialedition/mods/134952): Download ESL version.\
+[Pan's Nameless Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/148741): Download ESL version.\
 [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247): Download loose files version to avoid black face bug.\
 [Bijin Redux](https://www.nexusmods.com/skyrimspecialedition/mods/118328): Choose Original for alternative faces in the installer.\
 [Trueblood Serana](https://www.nexusmods.com/skyrimspecialedition/mods/103713): Download V2B version. Choose Vampire version EFA, Soundwave(default) hair, Black hair, ED's Choice Facetint, No hood with hair, Use glowing eyes in the installer.\
@@ -788,6 +791,9 @@ Download: [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
    1. PAN_NPCs.esp
    1. PAN_NPCs_DB.esp
    1. PAN_NPCs_DG.esp
+   1. PAN_Nameless - Witches.esp
+   1. PAN_Nameless - Hunters.esp
+   1. PAN_Nameless - Vampires.esp
    1. KaliliesNPCs.esp
    1. Bijin Redux.esp
    1. Trueblood Serana.esp
