@@ -537,7 +537,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Aurora Fix](https://www.nexusmods.com/skyrimspecialedition/mods/77834)\
 [Dragonactorscript infinite loop fix](https://www.nexusmods.com/skyrimspecialedition/mods/87940): Choose Main and untick the Dragon War patch in the installer.\
 [Scripts Carefully Reworked Optimized and Tactfully Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/97155): Download loose files version.\
-[Delphine Skyhaven Bugfix MQ203](https://www.nexusmods.com/skyrimspecialedition/mods/100595)
+[Delphine Skyhaven Bugfix MQ203](https://www.nexusmods.com/skyrimspecialedition/mods/100595)\
+[Skyrim Cell load Freeze fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/160704)
 
 ## Patch Compendium
 [Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patches(3DNPC + ACE Patch, Interesting NPCs Sound Record Distributor yamls) in the installer.\
