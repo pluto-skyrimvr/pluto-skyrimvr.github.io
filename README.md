@@ -327,6 +327,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549): Choose No Kill Moves in the installer.\
 [Blade and Blunt VR](https://www.nexusmods.com/skyrimspecialedition/mods/120494)\
 [Pseudo Physical Weapon Collision and Parry AE SE VR](https://www.nexusmods.com/skyrimspecialedition/mods/100781): Download VR version.\
+[Pseudo Physical Weapon Collision and Parry - a more grounded config file](https://www.nexusmods.com/skyrimspecialedition/mods/162758)\
 [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335): Player being staggered in VR is weird. This mod removes it completely.\
 [The Restless Dead (A Draugr and Skeleton Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/94100): Choose Default difficulty, USSEP, WACCF patches in the installer.\
 [Disable Draugr Combat Idles (Taunts)](https://www.nexusmods.com/skyrimspecialedition/mods/91398)\
