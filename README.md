@@ -351,7 +351,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Payload Interpreter](https://www.nexusmods.com/skyrimspecialedition/mods/65089): It should be enabled in Pandora Behaviour Engine Plus later.\
 [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052): Choose VR and leave the rest as default in the installer.\
 [BFCO Universal Support](https://www.nexusmods.com/skyrimspecialedition/mods/120091)\
-[SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014): Do not choose the Default Animation pack in the installer. Also, it should be enabled in Pandora Behaviour Engine Plus later.\
+[SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014): Choose the Default Animation pack in the installer.\
 [SCAR VR - Skyrim Combos AI Revolution VR](https://www.nexusmods.com/skyrimspecialedition/mods/89492)\
 [SCAR Stamina Limitation Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72451)\
 [Smooth Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/70531)\
