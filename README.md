@@ -138,7 +138,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Landscape
 [Vanilla Landscape Corrections - VLC](https://www.nexusmods.com/skyrimspecialedition/mods/104962): Don't choose any patch in the installer.\
-[Faultier's PBR Skyrim(Landscapes)](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Landscapes 4k. Ignore the AIO textures for now. It will be installed separately later.\
+[Faultier's PBR Skyrim(Landscapes)](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Landscapes 2k.\
 [DrJacopo's - 3D Landscapes and Grass Library](https://www.nexusmods.com/skyrimspecialedition/mods/80687): Download the Meshes only.\
 [Witchy Wilderness - Modular Grass Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/134287): Choose Full Installation, 2k Textures, None for Tundra Landscape Textures, No 3d Assets in the installer.\
 [Cathedral - 3D Clover Plant](https://www.nexusmods.com/skyrimspecialedition/mods/68793): Download Full 3D PBR version.\
@@ -185,13 +185,13 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Windhelm Entrance Offset Fix - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/98207)\
 [Sovngarde Meshes - FIXES](https://www.nexusmods.com/skyrimspecialedition/mods/150539): Download the Parallax version.\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
-[Rally's Solstheim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/36893): Choose 4K, LODs 512 and keep everything else as default in the installer.\
+[Rally's Solstheim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/36893): Choose 2K, LODs 512 and keep everything else as default in the installer.\
 [Rally's Solstheim - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/51905): Download ParallaxGen version.\
-[Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download 4K version.\
-[Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download 4K version.\
-[Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download 4K version.\
-[Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 4K version.\
-[Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download 4K version.
+[Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download PBR 2k version.\
+[Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download PBR Riften 2x downscaled version.\
+[Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download PBR 2k version.\
+[Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 2k version.\
+[Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download PBR 2k version.
 
 ## World Map
 [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367): Download the Main. Choose DynDOLOD 3, With DynDOLOD LOD32, Remove Clouds in the installer. DynDOLOD config will be explained later in the guide.
@@ -431,7 +431,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Realistic PBR Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/140780): Choose auto-selected patches(Sand Patch, Ultimate Fix) in the installer.
 
 ## Texture and Mesh (Late Order)
-[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 4k and PBR Windows.\
+[Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308): Download Faultier's PBR Skyrim AIO 2k and PBR Windows.\
 [Windhelm Improvements (Snowy Windhelm)](https://www.nexusmods.com/skyrimspecialedition/mods/27696): Choose Main files in the installer. The mod comes with LE version of meshes. Run NIF optimizer on the meshes if possible.\
 [Modern Hay - PBR and CM](https://www.nexusmods.com/skyrimspecialedition/mods/155815): Download PBR 2K version.\
 [Book Covers Skyrim PBR](https://www.nexusmods.com/skyrimspecialedition/mods/155254): Download Book Covers Skyrim PBR - Original.\
