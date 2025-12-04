@@ -299,8 +299,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Texture and Mesh (Armor and Weapons)
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
-[Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
-[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose everything under Vanilla Items, Cubemap Addon, and leave the rest as default in the installer.\
+[Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Download HalfRes version. Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
+[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Download HalfRes version. Choose everything under Vanilla Items, Cubemap Addon, and leave the rest as default in the installer.\
 [Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
 [Weapons and Armors Remastered - PBR and Complex Materials](https://www.nexusmods.com/skyrimspecialedition/mods/148690): Download PBR 2K version.\
 [Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483): Download the Main.\
