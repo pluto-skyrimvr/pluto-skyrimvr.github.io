@@ -279,7 +279,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Gritty Goats](https://www.nexusmods.com/skyrimspecialedition/mods/26665)
 
 ## Armor and Weapons
-[Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994): Choose 2K(default), LeanWolf's Better-shaped Weapons. Do not choose WACCF_BashedPatchLvlListFix.esp in the installer.\
+[Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994): Choose 2K(default). Do not choose any patches in the installer.\
 [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002): Download the Main and SPID Patch.\
 [Weapons Armor Clothing and Clutter Fixes - CBBE 3BA patch (WACCF and ACE 3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/110680): Choose WACCF, ACE, prebuilt meshes, None for Beast Race fixes in the installer.\
 [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933)\
@@ -298,21 +298,17 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Texture and Mesh (Armor and Weapons)
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
-[Cathedral - Armory](https://www.nexusmods.com/skyrimspecialedition/mods/20199): The best quality mesh and texture for armors and weapons. Download the Main, Armor Mesh Fixes SE patch.\
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
 [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
-[Iron Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84978): Choose Textures Only for Iron Armor, Textures Olny for Weapons, Textures Only for Targe of the Blooded, Headman's Axe, None for CC contents, Iron Armor for Iron Armor Texture options, None for sleeves, Leanwolf's iron scabbard patch, Cathedral Armory patch in the installer.\
-[Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445): Choose everything under Vanilla Items. Choose using Cathedral Armory, White fur, Vanilla style for Steel Armor. Choose Vanilla for Blade Armor. Choose White Fur, Cathedral Armory Patch for Carved Nordic Armor, Leanwolf for Carved Nordic Weapons in the installer.\
-[Orcish Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84607): Choose Textures Only for Orcish Armor, Orcish Weapons, Cathedral Armory patch in the installer.\
-[Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283): Choose everything under Vanilla Items, Gold - Replacer for Elven Armor, Gold for Elven Weapons in the installer.\
-[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose everything under Vanilla Items, Cubemap Addon, Clean for Champion's cudgel, and leave the rest as default in the installer.\
-[Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Choose everything under Vanilla Items, Nightingale Scabbard in the installer.\
+[Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Choose everything under Vanilla Items, Cubemap Addon, and leave the rest as default in the installer.\
+[Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
+[Weapons and Armors Remastered - PBR and Complex Materials](https://www.nexusmods.com/skyrimspecialedition/mods/148690): Download PBR 2K version.\
 [Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483): Download the Main.\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
 [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813): Download 2K version and Artificer patch.
 
 ## Skimpy Outfits (Vanilla Replacer)
-[Remodeled Armor for CBBE SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22168): Download the Main. Choose Vanilla Replacer, Patch for Cathedral Armory, WACCF Patch, ACE Patch, Immersive Sounds - Compendium patches in the installer.\
+[Remodeled Armor for CBBE SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22168): Download the Main. Choose Vanilla Replacer, WACCF Patch, ACE Patch, Immersive Sounds - Compendium patches in the installer.\
 [Yet Another Elders Modesty Mod-Skypatched](https://www.nexusmods.com/skyrimspecialedition/mods/130004)
 
 ## Loot and Encounter Zones
