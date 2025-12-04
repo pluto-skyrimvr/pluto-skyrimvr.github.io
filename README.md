@@ -301,7 +301,15 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
 [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Download HalfRes version. Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
 [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Download HalfRes version. Choose everything under Vanilla Items, Cubemap Addon, and leave the rest as default in the installer.\
+[Guards and Stormcloaks Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/98115): Download HalfRes version. Choose everything under Vanilla Items, No Meshes - Textures Only for Guard Sleeves, No Meshes - Textures Only for Stormcloak Officer Sleeves, Open Face Guard Helmet patch in the installer.\
+[Thieves Guild Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/98561): Download HalfRes version. Do not choose any patches in the installer.\
 [Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
+[Stalhrim Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/96204): Download HalfRes version. Choose Vanilla Meshes, everything under Vanilla Items in the installer.\
+[Bonemold Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/94859): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
+[Chitin Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/94529): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
+[Ancient Nord Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91136): Download No Consistency Patches-Half version. Choose everything under Vanilla Items, Ancient nordic for Helm of Yngol in the installer.\
+[Falmer Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/90711): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
+[Forsworn Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/99610): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
 [Weapons and Armors Remastered - PBR and Complex Materials](https://www.nexusmods.com/skyrimspecialedition/mods/148690): Download PBR 2K version.\
 [Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483): Download the Main.\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
