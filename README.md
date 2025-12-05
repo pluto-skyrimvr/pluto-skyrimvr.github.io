@@ -426,7 +426,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Dynamic (Locational) Armor and Weapon Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/147847)\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
 [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
-[Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407)\
 [Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.\
 [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808)\
 [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924)\
