@@ -291,7 +291,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Skimpy Outfits
 [The Amazing World of Bikini Armors REMASTERED](https://www.sunkeumjeong.com/post/the-amazing-world-of-bikini-armors-remastered-6-0): Choose Physics, CBBE 3BAv2, Original Books, Vanilla footsteps, None for Leveled List Integration in the installer.\
 [Tawoba 6.1 unofficial tweaks fixes smp](https://www.nexusmods.com/skyrimspecialedition/mods/111200)\
-[The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585)\
+[The Expanded World of Bikini Armors - By PUMPKIN](https://www.nexusmods.com/skyrimspecialedition/mods/41585): Choose CBBE 3BA in the installer.\
 [Bikini Outfits Optimally Balanced - Skypatcher (B.O.O.B.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/121122)\
 [SPID Bikinification](https://www.nexusmods.com/skyrimspecialedition/mods/56894): Choose Bandits(Vanilla), Imperials, Thalmor, Wenches, None for Clean Plugin in the installer.\
 [SPID Bikinification Fix](https://www.nexusmods.com/skyrimspecialedition/mods/136557)
