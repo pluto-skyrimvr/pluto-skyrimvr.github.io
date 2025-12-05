@@ -623,9 +623,8 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
   [Cutting Room Floor](https://www.nexusmods.com/skyrimspecialedition/mods/276): It requires too many patches to fix conflicts. Not really worth it considering what it provides.\
   [Dear Diary VR - Paper SkyUI and Categorized Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/44874): Not updated for the latest SkyUI VR.\
   [Dirt and Blood - Dynamic Visual Effects](https://www.nexusmods.com/skyrimspecialedition/mods/38886): Replaced by lightweight alternative Just Blood. Also, the dirt effect does not look good because of flickering.\
+  [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407): Window Shaodws Ultimate uses its own dust effects.\
   [ENB Lights For Effect Shaders VR](https://www.nexusmods.com/skyrimspecialedition/mods/99753): Replaced by Placed Lights.\
-  [Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424): The meshes were used for Lux but Light Limit Fix does not need split meshes.\
-  [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725): It looks too dark everywhere. This does not seem to work in VR.\
   [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561): The same fix is included in Inventory Interface Information Injector.\
   [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653): Obsolete with Community Shader.\
   [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957): Light Limit Fix does not need split meshes.\
