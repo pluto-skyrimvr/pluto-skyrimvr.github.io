@@ -753,6 +753,7 @@ Download 2.0.0-beta-4: [Unofficial Mator Smash Updated](https://www.nexusmods.co
    1. Remodeled Armor - Vanilla Replacer.esp (To overwrite `Weapons Armor Clothing & Clutter Fixes.esp`)
    1. aAxeRSCtweaks.esp
    1. Footprints - PBR Patch.esp (To overwrite `FootprintsSand-patch.esp`)
+   1. CS Light.esp (To overwrite `MysticismMagic.esp`, `Window Shadows Ultimate.esp`, `TL Bulbs ISL.esp`)
 1. Set `Smash.All` for the rest.
 1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
 1. Build a Smashed Patch. (~7 minutes)
