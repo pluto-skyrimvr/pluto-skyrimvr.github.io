@@ -25,7 +25,7 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049): Download Disable Permanently version.
 
 ## Core
-[SKSE VR](https://skse.silverlock.org/)\
+[Skyrim Script Extender for VR (SKSEVR)](https://www.nexusmods.com/skyrimspecialedition/mods/30457)\
 [VR Address Library for SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/58101)\
 [Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): Download both Main files. Use Root Builder for Part 2.\
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch.\
