@@ -22,7 +22,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 ## Master Files
 SSE Master Files: Create an empty mod and follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/6529) to copy the latest master files from Skyrim Special Edition.\
 CC Content: Create an empty mod and follow the same guide as above to copy CC Content files.\
-[Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049)
+[Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049): Download Disable Permanently version.
 
 ## Core
 [SKSE VR](https://skse.silverlock.org/)\
