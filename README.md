@@ -315,6 +315,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Ancient Nord Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91136): Download No Consistency Patches-Half version. Choose everything under Vanilla Items, Ancient nordic for Helm of Yngol, Fishing Weapons for CC Items in the installer.\
 [Falmer Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/90711): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
 [Forsworn Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/99610): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
+[Saints and Seducers Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/151116): Download HalfRes version. Choose everything under Base Install, Vanilla Weapons Version for meshes in the installer.\
 [Weapons and Armors Remastered - PBR and Complex Materials](https://www.nexusmods.com/skyrimspecialedition/mods/148690): Download PBR 2K version.\
 [Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483): Download the Main.\
 [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294): Install everything. Amulet texture 512, Ring texture combined 1K recommended. Delete esp file. It's not needed because the fix is included in USSEP.\
