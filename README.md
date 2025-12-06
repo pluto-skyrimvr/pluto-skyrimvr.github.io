@@ -21,13 +21,14 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 ## Core
 [SKSE VR](https://skse.silverlock.org/)\
-[Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115): Improves vanilla audio quality greatly including voices.\
-[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150): Download v4.2.5b (pre-AE version).\
-[Skyrim VR USSEP patch for USSEP 4.2.5b](https://www.nexusmods.com/skyrimspecialedition/mods/91475)\
-[SkyUI VR](https://www.nexusmods.com/skyrimspecialedition/mods/91535)\
-[SkyUI VR - Disable New Item Sort](https://www.nexusmods.com/skyrimspecialedition/mods/110564)\
+[VR Address Library for SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/58101)\
 [Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): Download both Main files. Use Root Builder for Part 2.\
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch.\
+[SkyUI VR](https://www.nexusmods.com/skyrimspecialedition/mods/91535)\
+[SkyUI VR - Disable New Item Sort](https://www.nexusmods.com/skyrimspecialedition/mods/110564)\
+[Skyrim VR USSEP patch for USSEP 4.2.5b](https://www.nexusmods.com/skyrimspecialedition/mods/91475)\
+[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150): Download v4.2.5b (pre-AE version).\
+[Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115): Improves vanilla audio quality greatly including voices.\
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
 
@@ -84,7 +85,6 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Milky's Animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/106875)
 
 ## Libraries and Utilities
-[VR Address Library for SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/58101)\
 [Spell Perk Item Distributor (SPID) VR](https://www.nexusmods.com/skyrimspecialedition/mods/59121): Download v6.8.2. The latest v7.1.3 has a problem with outfit distributions.\
 [Base Object Swapper VR](https://www.nexusmods.com/skyrimspecialedition/mods/61734)\
 [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728)\
