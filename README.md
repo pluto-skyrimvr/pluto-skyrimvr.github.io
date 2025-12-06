@@ -338,7 +338,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Heritage Enemies 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989): Download Texture BSA version and WACCF patch. Delete `Meshes/armor/dbarmor/dbarmorsleeveless_1.nif` that conflicts with Armor Mesh Fixes.\
 [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803)\
 [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085): Download the Main.\
-[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose auto-selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Interesting NPCs, Carriage and Ferry Travel Overhaul, Immersive Wenches, Just Blood) in the installer.\
+[NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489): Choose auto-selected patches(Poison Dosage Preset, Inigo, Apothecary, SunHelm, Interesting NPCs, Carriage and Ferry Travel Overhaul, Immersive Wenches) in the installer.\
 [NPCs Learn to Aim (Skill-Based Aiming)](https://www.nexusmods.com/skyrimspecialedition/mods/117908): Choose VR version, No for player aiming in the installer.
 
 ## Animation
@@ -401,7 +401,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)\
 [Acoustic Space Improvement Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78992): Choose USSEP, Reverb Interior Sounds Expansion patches in the installer.\
 [Reverb Interior Sounds Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77947): Choose the default options and VR user in the installer.\
-[Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466): Choose Enhanced Blood Textures SPID version patch in the installer.\
+[Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466): Make sure all the recommended mods(Acoustic Space Improvement Fixes, Reverb Interior Sounds Expansion) are enabled in the installer. Choose auto-selected patches(none) in the installer.\
 [Immersive Sounds - Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523): Choose the default options in the installer.\
 [Immersive Sounds Compendium Drinking Sound Fix](https://www.nexusmods.com/skyrimspecialedition/mods/58623)\
 [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)](https://www.nexusmods.com/skyrimspecialedition/mods/36761)\
@@ -413,8 +413,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Murder of Songbirds](https://www.nexusmods.com/skyrimspecialedition/mods/111766): Choose High Quality wav, Adjusted Climates in the installer.
 
 ## Visual FX
-[Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357): Download the main file. Choose default options and SPID compatible in the installer.\
-[Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501)\
+[Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)\
+[Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388)\
 [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456)\
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
 [Vibrant Weapons EAE](https://www.nexusmods.com/skyrimspecialedition/mods/111430)\
@@ -423,8 +423,6 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Enchantment Art Extender VR 2](https://www.nexusmods.com/skyrimspecialedition/mods/142337)\
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
 [A Patch For Deadly Spell Impacts and Audio Overhaul - Immersive Sounds Integration](https://www.nexusmods.com/skyrimspecialedition/mods/57465): Download the Main.\
-[Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)\
-[Dynamic (Locational) Armor and Weapon Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/147847)\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
 [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
 [Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.\
@@ -623,7 +621,6 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
   [Cubemap Reflections](https://www.nexusmods.com/skyrimspecialedition/mods/103077): No longer needed with the latest Community Shaders.\
   [Cutting Room Floor](https://www.nexusmods.com/skyrimspecialedition/mods/276): It requires too many patches to fix conflicts. Not really worth it considering what it provides.\
   [Dear Diary VR - Paper SkyUI and Categorized Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/44874): Not updated for the latest SkyUI VR.\
-  [Dirt and Blood - Dynamic Visual Effects](https://www.nexusmods.com/skyrimspecialedition/mods/38886): Replaced by lightweight alternative Just Blood. Also, the dirt effect does not look good because of flickering.\
   [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407): Window Shaodws Ultimate uses its own dust effects.\
   [ENB Lights For Effect Shaders VR](https://www.nexusmods.com/skyrimspecialedition/mods/99753): Replaced by Placed Lights.\
   [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561): The same fix is included in Inventory Interface Information Injector.\
