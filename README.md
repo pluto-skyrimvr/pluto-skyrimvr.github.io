@@ -188,7 +188,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [Rally's Solstheim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/36893): Choose 2K, LODs 512 and keep everything else as default in the installer.\
 [Rally's Solstheim - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/51905): Download ParallaxGen version.\
 [Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download PBR 2k version.\
-[Exist's Riften - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/135739): Download PBR Riften 2x downscaled version.\
+[Tomato's Riften and Ratway](https://www.nexusmods.com/skyrimspecialedition/mods/157340): Download PBR 2K version.\
 [Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download PBR 2k version.\
 [Exist's Imperial Forts - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/118028): Download 2k version.\
 [Exist's Caves - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/131152): Download PBR 2k version.
