@@ -415,6 +415,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Visual FX
 [Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)\
 [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388)\
+[Next-Gen Decapitations](https://www.nexusmods.com/skyrimspecialedition/mods/135254)\
 [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456)\
 [Mysticism - FleshFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46997)\
 [Vibrant Weapons EAE](https://www.nexusmods.com/skyrimspecialedition/mods/111430)\
