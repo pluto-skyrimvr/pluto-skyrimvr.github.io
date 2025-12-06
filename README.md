@@ -19,6 +19,11 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 
 # Mod List
 
+## Master Files
+SSE Master Files: Create an empty mod and follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/6529) to copy the latest master files from Skyrim Special Edition.\
+CC Content: Create an empty mod and follow the same guide as above to copy CC Content files.\
+[Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049)
+
 ## Core
 [SKSE VR](https://skse.silverlock.org/)\
 [VR Address Library for SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/58101)\
@@ -666,6 +671,7 @@ Work in progress.
 # Post Install Process
 IMPORTANT: These post install process tools need to run via Mod Organizer 2 to identify the installed mods.
 
+1. Clean Master Files: Clean the master files.
 1. LOOT: Sort the plugin load order.
 1. Pandora Behaviour Engine Plus: Build animations.
 1. Bodyslide: Build armor and clothing meshes.
@@ -677,13 +683,26 @@ IMPORTANT: These post install process tools need to run via Mod Organizer 2 to i
 1. TexGen: Generate textures for Object LOD and Tree LOD.
 1. DynDOLOD: Generate Object LOD and Tree LOD.
 
-## Cleaning ESM (Optional)
-WARNING: This can potentially break the game if you don't do it properly.
-Follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/1037).
+## Clean Master Files
+
+Download: [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164): Install it where you manage your modding tools. Rename `SSEEdit.exe` to `TES5VREdit.exe`.\
+
+WARNING: Do not manually clean any plugins. That is an old outdated instruction that can break your game.
+
+Clean the following master files with `TES5VREdit` using argument `-quickautoclean`.
+1. SSE Master Files
+   1. Update.esm
+   1. Dawnguard.esm
+   1. Hearthfire.esm
+   1. Dragonborn.esm
+1. CC Content
+   1. ccBGSSSE001-Fish.esm
+   1. ccQDRSSE001-SurvivalMode.esl
+   1. ccBGSSSE025-AdvDSGS.esm
 
 ## LOOT
 
-The first step in the post-install process is to sort your plugins. I have avoided conflicting mods in this modlist and added plugin load orders to the official masterlist whenever possible. There are two methods. Choose whichever you prefer.
+The second step in the post-install process is to sort your plugins. I have avoided conflicting mods in this modlist and added plugin load orders to the official masterlist whenever possible. There are two methods. Choose whichever you prefer.
 
 1. LOOT
    1. If your LOOT is older than v0.26, update to the latest [LOOT](https://github.com/loot/loot/releases).
@@ -822,8 +841,8 @@ Download: [PGPatcher (aka ParallaxGen)](https://www.nexusmods.com/skyrimspeciale
 
 ## Grass Cache
 
-Download: [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164): Install it where you manage your modding tools. Rename `SSEEdit.exe` to `TES5VREdit.exe`.\
-Download: [Worldspaces with Grass SSEEdit Script for No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/55152): Download the Main and extract the script into the `Edit Scripts` directory inside your TES5VREdit.\
+Download [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164): You already installed this tool when you cleaned the master files.\
+Download [Worldspaces with Grass SSEEdit Script for No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/55152): Download the Main and extract the script into the `Edit Scripts` directory inside your `TES5VREdit`.\
 Detailed Instructions: [How to Generate Grass Cache](https://www.nexusmods.com/skyrimspecialedition/articles/6919)
 
 A short version of the instrucutions if you know what you are doing.
