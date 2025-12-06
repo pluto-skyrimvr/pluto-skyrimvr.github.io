@@ -686,9 +686,9 @@ IMPORTANT: These post install process tools need to run via Mod Organizer 2 to i
 
 ## Clean Master Files
 
-Download: [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164): Install it where you manage your modding tools. Rename `SSEEdit.exe` to `TES5VREdit.exe`.\
+Download [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164): Install it where you manage your modding tools. Rename `SSEEdit.exe` to `TES5VREdit.exe`.
 
-WARNING: Do not manually clean any plugins. That is an old outdated instruction that can break your game.
+WARNING: Do not manually clean any plugins. That is an old outdated method that can break your modded game.
 
 Clean the following master files with `TES5VREdit` using argument `-quickautoclean`.
 1. SSE Master Files
