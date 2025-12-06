@@ -124,7 +124,7 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [Far Object LOD Improvement Project SSE](https://www.nexusmods.com/skyrimspecialedition/mods/79197)
 
 ## Texture and Mesh (Base)
-[Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850): Download "Basecoat - Textures only" 1.0 in Old Files section.\
+[Vanilla Remastered (Optimized) - Textures Upscaled and Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/134352): Download Skyrim Remastered Part 1, Part 2, USSEP Patch.\
 [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659): Install Lite version.\
 [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388)\
 [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027): Download Unofficial Material Fix version.\
