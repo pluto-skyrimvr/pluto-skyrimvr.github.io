@@ -31,8 +31,7 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch.\
 [SkyUI VR](https://www.nexusmods.com/skyrimspecialedition/mods/91535)\
 [SkyUI VR - Disable New Item Sort](https://www.nexusmods.com/skyrimspecialedition/mods/110564)\
-[Skyrim VR USSEP patch for USSEP 4.2.5b](https://www.nexusmods.com/skyrimspecialedition/mods/91475)\
-[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150): Download v4.2.5b (pre-AE version).\
+[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266): Download the latest version.\
 [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115): Improves vanilla audio quality greatly including voices.\
 [Skyrim Project Optimization SE](https://www.nexusmods.com/skyrimspecialedition/mods/14084): Download ESL version not because it is ESL but because it has USSEP changes.\
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
@@ -305,15 +304,15 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 ## Texture and Mesh (Armor and Weapons)
 [Armor Mesh Fixes SE](https://www.nexusmods.com/skyrimspecialedition/mods/39704): Download the main file only.\
 [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703): Download 2K version.\
-[Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Download HalfRes version. Choose Install everything, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
+[Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655): Download HalfRes version. Choose Install everything, Fishing, Green version for Necromancer Robes, Mage Robes and Priest Robes for Armor and Clothing Extension consistency patch in the installer.\
 [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097): Download HalfRes version. Choose everything under Vanilla Items, Cubemap Addon, and leave the rest as default in the installer.\
 [Guards and Stormcloaks Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/98115): Download HalfRes version. Choose everything under Vanilla Items, No Meshes - Textures Only for Guard Sleeves, No Meshes - Textures Only for Stormcloak Officer Sleeves, Open Face Guard Helmet patch in the installer.\
 [Thieves Guild Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/98561): Download HalfRes version. Do not choose any patches in the installer.\
 [Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
 [Stalhrim Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/96204): Download HalfRes version. Choose Vanilla Meshes, everything under Vanilla Items in the installer.\
-[Bonemold Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/94859): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
+[Bonemold Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/94859): Download HalfRes version. Choose everything under Vanilla Items, CC Curios in the installer.\
 [Chitin Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/94529): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
-[Ancient Nord Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91136): Download No Consistency Patches-Half version. Choose everything under Vanilla Items, Ancient nordic for Helm of Yngol in the installer.\
+[Ancient Nord Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91136): Download No Consistency Patches-Half version. Choose everything under Vanilla Items, Ancient nordic for Helm of Yngol, Fishing Weapons for CC Items in the installer.\
 [Falmer Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/90711): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
 [Forsworn Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/99610): Download HalfRes version. Choose everything under Vanilla Items in the installer.\
 [Weapons and Armors Remastered - PBR and Complex Materials](https://www.nexusmods.com/skyrimspecialedition/mods/148690): Download PBR 2K version.\
@@ -396,7 +395,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)\
 [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746)\
 [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138): Download the Main and Weapon Enchantment XP Tweak.\
-[Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130)\
+[Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130): Download the Main, Fishing Patch, Rare Curios Patch, Saints and Seducers Patch.\
 [Misc Apothecary Patches](https://www.nexusmods.com/skyrimspecialedition/mods/79641): Choose auto-selected patches(3DNPC, Book Covers Skyrim, Heritage 2) in the installer.\
 [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882): Download VR version.\
 [Mealtime - A simple ESO inspired Food Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30128)
@@ -500,14 +499,14 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Recipe Auto-Learn](https://www.nexusmods.com/skyrimspecialedition/mods/84909)
 
 ## AI Improvement
-[AI Overhaul SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21654): Download and install "AI Overhaul for SE Only". Choose AI Overhaul(Recommended) in the installer. For your information, you do not need any compatibilty patches for this mod because the compatibility will be automatically resolved by the Synthesis patch later. Only the exception is Interesting NPCs mod.\
+[AI Overhaul SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21654): Download AE version. Choose AI Overhaul(Recommended) in the installer. For your information, you do not need any compatibilty patches for vanilla NPCs because the compatibility will be automatically resolved by the Synthesis patch later.\
 [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075): Download ESL version.\
 [Guard Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36366)\
 [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187): Do not download any patches.\
 [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601): Download the main file and UHDAP patch.\
 [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904): Install auto-selected patch(none) in the installer.\
 [More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905): Choose Guard Dialogue Overhaul ESL version in the installer.\
-[Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files&file_id=134389): Download v4.0.3 (pre-AE version).\
+[Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files&file_id=134389): Download the latest version.\
 [NPC AI Process Position Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69326): Choose AI Overhaul in the installer.
 
 ## Bug Fixes and Tweaks
@@ -548,8 +547,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Skyrim Cell load Freeze fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/160704)
 
 ## Patch Compendium
-[Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patches(3DNPC + ACE Patch, Interesting NPCs Sound Record Distributor yamls) in the installer.\
-[kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518): Choose auto-selected patches(WACCF, ACE, Kalilies NPCs, RS Children Overhaul, WACCF and ACE for Thaumaturgy) in the installer.\
+[Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patches(3DNPC + ACE Patch, Interesting NPCs, CC Saints and Seducers for Sound Record Distributor yamls) in the installer.\
+[kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518): Choose auto-selected patches(WACCF, ACE, Kalilies NPCs, RS Children Overhaul, Survival Mode, Fishing WACCF, Saints and Seducers WACCF, WACCF and ACE for Thaumaturgy) in the installer.\
 [RS Children Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/13409): Install Interesting NPC patch only. Do not install AI Overhaul patch.
 
 ## VR
@@ -587,10 +586,10 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409): Download VR version.\
 [Cooking Categories Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/84875)\
 [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469): Choose Lite version, Fruits in the installer.\
-[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose Base FLM INIs, [USSEP] + [default], Show Optinoal Tweaks, Show Mod Specific Patches, Bees, Various Vanilla Items, Arcane Fire, Ash Fire, Chaos, Shock, Steam, Sun, auto-selected patches(SunHelm, USSEP) in the installer.\
+[FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626): Choose Base FLM INIs, [USSEP] + [default], Show Optinoal Tweaks, Show Mod Specific Patches, Bees, Various Vanilla Items, Arcane Fire, Ash Fire, Chaos, Shock, Steam, Sun, auto-selected patches(CC Saints and Seducers, CC Survival Mode, SunHelm, USSEP) in the installer.\
 [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529): Choose auto-selected(Cooking Categories Improvement, Footprints, SunHelm) in the installer.\
 [The Handy Icon Collection Collective](https://www.nexusmods.com/skyrimspecialedition/mods/90508)\
-[B.O.O.B.I.E.S (aka Immersive Icons)](https://www.nexusmods.com/skyrimspecialedition/mods/89241): Choose Core Files and TAWOBA, TEWOBA, Inigo, Interesting NPCs, Nether's Follower Framework, Relationship Dialogue Overhaul moduels(auto-selected) in the installer.\
+[B.O.O.B.I.E.S (aka Immersive Icons)](https://www.nexusmods.com/skyrimspecialedition/mods/89241): Choose Core Files and auto-selected patches(TAWOBA, TEWOBA, Creative Club Content, Inigo, Interesting NPCs, Nether's Follower Framework, Relationship Dialogue Overhaul) in the installer.\
 [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/89823): Choose Colorful Food in the installer.\
 [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/90526): Choose Colorful Ingredients in the installer.\
 [Rotols More Icons](https://www.nexusmods.com/skyrimspecialedition/mods/113657)\
