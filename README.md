@@ -33,7 +33,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
 
 ## OpenComposite
-[Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main and OpenComposite_SkyUIVR_Fix. Use Root builder. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to use its INI if you have to name your character. I do not mind personally.
+[Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main, SkyUI VR Fix. Use Root builder for the Main. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to edit its INI if you want to name your character.
 
 ## New Contents
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576): Radiant quests in job boards.\
