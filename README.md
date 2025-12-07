@@ -391,6 +391,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Hand to Hand - An Adamant Addon VR DLL](https://www.nexusmods.com/skyrimspecialedition/mods/127697)\
 [Adamant Hand to Hand Tweaks for ADXP and VR](https://www.nexusmods.com/skyrimspecialedition/mods/94179)\
 [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)\
+[Saints and Seducers - Mysticism Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/81950): Download Saints and Seducers - Mysticism Rebalance.\
 [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411): Do not choose USSEP patch in the installer.\
 [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686): Do not choose optional module files in the installer.\
 [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)\
