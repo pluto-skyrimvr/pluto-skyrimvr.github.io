@@ -4,7 +4,7 @@ layout: splash
 [Change Log](https://github.com/pluto-skyrimvr/pluto-skyrimvr.github.io/commits/main/)
 
 # Introduction
-The modlist follows the actual load order of the mods. i.e. the files of the mods in the top will be overwritten by the files of the mods that are placed below. Consider it as how mods are placed in the left panel of the Mod Organizer 2. The plugin(esp files) load order should be sorted by LOOT(Sort button in Mod Organizer 2).
+The modlist follows the actual load order of the mods. In other words, the mods in the top will be overwritten by the mods that are placed below. Consider it as how mods are placed in the left panel of the Mod Organizer 2. The plugin(esm, esp, esl) load order should be sorted by LOOT or Mod Organizer 2.
 
 # Modding Tools
 ## Mod Organizer
@@ -15,7 +15,7 @@ The modlist follows the actual load order of the mods. i.e. the files of the mod
 [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813): (Optional) You can compare the differnce between 3D meshes easily.\
 [NIF Preview DLL Fix](https://github.com/aglowinthefield/modorganizer-preview_nif/releases): The original DLL from NIF Preview is outdated and does not work with the latest Mod Organizer 2. Download preview_nif.dll.\
 [Bethesda Plugin Manager for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/111236): (Optional) You can see the plugin record conflicts easily.\
-[Bethesda Plugin Manager for Mod Organizer DLL Fix](https://www.mediafire.com/file/mi811ntoaswxb1f/bsplugins.dll/file): The original DLL is outdated and does not work with the latest Mod Organizer 2.
+[Bethesda Plugin Manager for Mod Organizer DLL Fix](https://www.mediafire.com/file/mi811ntoaswxb1f/bsplugins.dll/file): (Optional) The original DLL is outdated and does not work with the latest Mod Organizer 2.
 
 # Mod List
 
@@ -25,9 +25,9 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049): Download Disable Permanently version.
 
 ## Core
-[Skyrim Script Extender for VR (SKSEVR)](https://www.nexusmods.com/skyrimspecialedition/mods/30457)\
+[Skyrim Script Extender for VR (SKSEVR)](https://www.nexusmods.com/skyrimspecialedition/mods/30457): (Root Builder)\
 [VR Address Library for SKSEVR](https://www.nexusmods.com/skyrimspecialedition/mods/58101)\
-[Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): Download both Main files. Use Root Builder for Part 2.\
+[Engine Fixes VR](https://www.nexusmods.com/skyrimspecialedition/mods/62089): (Root Builder) Download both Main files. Use Root Builder for Part 2 only.\
 [Skyrim VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712): Download Main, PapyrusUtil ESL Patch.\
 [SkyUI VR](https://www.nexusmods.com/skyrimspecialedition/mods/91535)\
 [SkyUI VR - Disable New Item Sort](https://www.nexusmods.com/skyrimspecialedition/mods/110564)\
@@ -37,7 +37,7 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
 
 ## OpenComposite
-[Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main, SkyUI VR Fix. Use Root builder for the Main. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to edit its INI if you want to name your character.
+[Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional)(Root Builder) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main, SkyUI VR Fix. Use Root builder for the Main only. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to edit its INI if you want to name your character.
 
 ## New Contents
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576): Radiant quests in job boards.\
@@ -228,7 +228,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Followers
 [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653): Choose Skyrim Special Edition. Choose Followers Avoid Traps, Replace Base Dialogue Scripts in Core options. Choose Interesting NPCs, RDO, RDO Comments. Choose Friendly Fire in Spell Perk Item Distributor Files.\
-[INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461): (Optional) One of the best.
+[INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461)
 
 ## More NPC
 [Interesting NPCs SSE](https://www.nexusmods.com/skyrimspecialedition/mods/29194): Download the main file, hotfix, AI Overhaul patch.\
@@ -403,7 +403,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876): Download the Main, Cooking Pots and Baking Ovens, Fishing Patch, Simonrim Patches, Survival Patch, USSEP Patch.
 
 ## Audio
-[Binaural 3D Surround Sound for Headphones - HRTF](https://www.nexusmods.com/skyrimspecialedition/mods/26916): Download VR version. Use Root Builder.\
+[Binaural 3D Surround Sound for Headphones - HRTF](https://www.nexusmods.com/skyrimspecialedition/mods/26916): (Root Builder) Download VR version.\
 [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)\
 [Acoustic Space Improvement Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/78992): Choose USSEP, Reverb Interior Sounds Expansion patches in the installer.\
 [Reverb Interior Sounds Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77947): Choose the default options and VR user in the installer.\
@@ -613,8 +613,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [DynDOLOD_Output](#texgendyndolod)
 
 ## Post Processing Resources(Enable only when needed)
-SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `SkyrimSE.exe`. This is to trick Mator Smash to run in SkyrimSE mod for ESL support.\
-[xLODGen Resource - SSE Terrain Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54680): Download Tamriel Extend version. Make sure to enable it only during when you run xLODGen to generate Terrain LOD.
+SkyrimSE exe: (Root Builder) Create an empty mod. Make a copy of SkyrimVR.exe and rename it to `SkyrimSE.exe`. Put the file in ths mod. This is to trick Mator Smash into running in SkyrimSE mode for ESL support. Make sure to enable it only when you run Mator Smash.\
+[xLODGen Resource - SSE Terrain Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54680): Download Tamriel Extend version. Make sure to enable it only when you run xLODGen to generate Terrain LOD.
 
 ## Notable Exclusions
 <details>
@@ -762,10 +762,10 @@ Since the mod authors use bodyslide group settings inconsistently, you will see 
 
 Download 2.0.0-beta-4: [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378)
 
-1. TRICK: When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Just copy `SkyrimVR.exe` to `SkyrimSE.exe` to trick Mator Smash. Run Mator Smash and make a new profile for Skyrim SE. To keep it clean and tidy, use Root Builder. Enable it before running Mator Smash and disable it once the patch is built.
-1. Make sure to use Mator Smash `beta-4` because `beta-5` crashes often.
-1. Sort load order with LOOT before running Mator Smash.
-1. Launch Mator Smash in MO2.
+1. Make sure to download Mator Smash `beta-4` because `beta-5` crashes often.
+1. Make sure to sort load order with LOOT or Mod Organizer 2 before running Mator Smash.
+1. Enable `SkyrimSE exe`. (When Mator Smash finds out you are on Skyrim VR, it ignores ESL files. Enabling `SkyrimSE.exe` will trick Mator Smash you are on Skyrim SE.)
+1. Launch Mator Smash in MO2. Make a new profile for Skyrim SE if it is the first run.
 1. Create a new setting called `Smash.All-NO-LVLI` by cloning `Smash.All` and removing `LVLI(leveled list)` from it.
 1. Set `Smash.All-NO-LVLI` for the following plugin. This is to prevent WACCF from messing with OWL leveled lists.
    1. Weapons Armor Clothing & Clutter Fixes.esp
@@ -777,6 +777,7 @@ Download 2.0.0-beta-4: [Unofficial Mator Smash Updated](https://www.nexusmods.co
 1. Set `Smash.All` for the rest.
 1. Add all plugins except `Skyrim.esm` and `SkyrimVR.esm` to your smashed patch.
 1. Build a Smashed Patch. (~7 minutes)
+1. Disable `SkyrimSE exe`.
 
 ## Synthesis Patch
 
@@ -851,7 +852,9 @@ A short version of the instrucutions if you know what you are doing.
 
 1. Make sure to enable the patches that were built in the previous steps.
 1. Add `PrecacheGrass.txt` to the Exlusions in Root Builder.
+1. Launch `TES5VREdit` in MO2.
 1. Run the xEdit script `List worldspaces with grass` and copy the output string. (~1 min)
+1. Exit `TES5VREdit`.
 1. Edit the following lines in `GrassControl.ini`.
    ```
    Use-grass-cache = true
