@@ -114,8 +114,7 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [XEMI Utility](https://www.nexusmods.com/skyrimspecialedition/mods/159084): Choose VR in the installer.
 
 ## Weather
-[Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731): Download Azurite Weathers III in the Main.\
-[Azurite III CS](https://www.nexusmods.com/skyrimspecialedition/mods/162153): Choose Reduced Bloom in the installer.\
+[Astralite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/156979): Do not choose any patches in the installer.\
 [Obsidian Mountain Fogs](https://www.nexusmods.com/skyrimspecialedition/mods/13539)
 
 ## DynDOLOD
@@ -455,7 +454,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.\
 [Window Shadows Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/150494): Choose Brightest for Window Glow, Normal for Light Rays, Faultier's PBR Windows in the installer.\
 [Window Emittance Consistency (WEC)](https://www.nexusmods.com/skyrimspecialedition/mods/158918): Choose WEC - Mild in the installer.\
-[Dynamic Interior Ambient Lighting (DIAL)](https://www.nexusmods.com/skyrimspecialedition/mods/149920): Choose Azurite III, Default brightness, No for Seasonal Weathers Framework, No for Lux in the installer.
+[Dynamic Interior Ambient Lighting (DIAL)](https://www.nexusmods.com/skyrimspecialedition/mods/149920): Choose Astralite, Default brightness, No for Seasonal Weathers Framework, No for Lux in the installer.
 
 ## Shaders
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)\
@@ -638,8 +637,8 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
   [Hair Specular]: The outline of the hairline is too shiny and causes flickering in VR.\
   [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393): No longer needed in the latest Honed Metal.\
   [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718): Removed to avoid easy loots from dead patrols.\
-  [Improved Atmosphere Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44247): It causes horizon seam issue when used with Azurite Weather.\
-  [Improved Clouds Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44103): It causes horizon seam issue when used with Azurite Weather.\
+  [Improved Atmosphere Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44247): It causes horizon seam issue when used with Astralite Weather.\
+  [Improved Clouds Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44103): It causes horizon seam issue when used with Astralite Weather.\
   [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199): Replaced by NPCs Learn to Aim.\
   [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520): It halves the framerates when used with CS Light.\
   [Locational Damage SKSE VR](https://www.nexusmods.com/skyrimspecialedition/mods/26447): It makes the game too easy.\
@@ -648,7 +647,7 @@ SkyrimSE exe: (Root Builder) make a copy of SkyrimVR.exe and rename it to `Skyri
   [MorrowLoot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058): Loots are predictable. Open World Loot's randomness works better for replayability in my opinion.\
   [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/1763): Synthesis Archery patch covers the same tweak.\
   [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536): Removed because of compatibility issues with lighting mods.\
-  [Remove Blurry Snowflakes](https://www.nexusmods.com/skyrimspecialedition/mods/38358): The same fix is included in Azurite Weather.\
+  [Remove Blurry Snowflakes](https://www.nexusmods.com/skyrimspecialedition/mods/38358): The same fix is included in Astralite Weather.\
   [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192): Its lighting is too dim with Community Shader LLF.\
   [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547): Outdated. It also conflicts with Engine Fixes VR.\
   [Screen Space Global Illumination (SSGI)](https://www.nexusmods.com/skyrimspecialedition/mods/130375): Does not work properly in VR.\
