@@ -399,7 +399,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130): Download the Main, Fishing Patch, Rare Curios Patch, Saints and Seducers Patch.\
 [Misc Apothecary Patches](https://www.nexusmods.com/skyrimspecialedition/mods/79641): Choose auto-selected patches(3DNPC, Book Covers Skyrim, Heritage 2) in the installer.\
 [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882): Download VR version.\
-[Mealtime - A simple ESO inspired Food Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30128)
+[Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876): Download the Main, Fishing Patch, Simonrim Patches, Survival Patch, USSEP Patch.
 
 ## Audio
 [Binaural 3D Surround Sound for Headphones - HRTF](https://www.nexusmods.com/skyrimspecialedition/mods/26916): Download VR version. Use Root Builder.\
@@ -550,7 +550,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Patch Compendium
 [Canissa's little patch emporium](https://www.nexusmods.com/skyrimspecialedition/mods/140456): Choose auto-selected patches(3DNPC + ACE Patch, Interesting NPCs, CC Saints and Seducers for Sound Record Distributor yamls) in the installer.\
-[kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518): Choose auto-selected patches(WACCF, ACE, Kalilies NPCs, RS Children Overhaul, Survival Mode, Fishing WACCF, Saints and Seducers WACCF, WACCF and ACE for Thaumaturgy) in the installer.\
+[kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518): Choose auto-selected patches(WACCF, ACE, Gourmet, Kalilies NPCs, RS Children Overhaul, Fishing WACCF, Saints and Seducers WACCF, WACCF and ACE for Thaumaturgy) in the installer.\
 [RS Children Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/13409): Install Interesting NPC patch only. Do not install AI Overhaul patch.
 
 ## VR
