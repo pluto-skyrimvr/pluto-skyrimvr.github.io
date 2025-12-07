@@ -383,6 +383,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 
 ## Gameplay
 [Ralof or Hadvar (alternate start)](https://www.nexusmods.com/skyrimspecialedition/mods/14553): Download the regular ESPf version, not the 3 torches version.\
+[Improvement Names Customized VR](https://www.nexusmods.com/skyrimspecialedition/mods/126492)\
 [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191): Download the Main, Bard Perks Addon, Smithing Addon.\
 [Adamant - WACCF patch](https://www.nexusmods.com/skyrimspecialedition/mods/37764)\
 [Adamant Tweaks for ADXP and VR](https://www.nexusmods.com/skyrimspecialedition/mods/94555): Download the Main, Bard Perks Addon Tweaks.\
