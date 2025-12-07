@@ -636,7 +636,7 @@ SkyrimSE exe: (Root Builder) Create an empty mod. Make a copy of SkyrimVR.exe an
   [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957): Light Limit Fix does not need split meshes.\
   [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): Micro stuttering was observed whenever enemy NPC died.\
   [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876): SURV keywords being displayed is annoying. It seems it was built for Survival Mode which is not available in VR.\
-  [Hair Specular]: The outline of the hairline is too shiny and causes flickering in VR.\
+  [Hair Specular](https://www.nexusmods.com/skyrimspecialedition/mods/149011): The outline of the hairline is too shiny and causes flickering in VR.\
   [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393): No longer needed in the latest Honed Metal.\
   [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718): Removed to avoid easy loots from dead patrols.\
   [Improved Atmosphere Mesh](https://www.nexusmods.com/skyrimspecialedition/mods/44247): It causes horizon seam issue when used with Astralite Weather.\
