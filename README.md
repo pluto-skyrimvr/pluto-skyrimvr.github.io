@@ -906,9 +906,12 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
    1. Enable all the plugins. (Top Left in the UI)
    1. Enable Candles and FXGlow. (Top Right in the UI)
    1. Click High setting button. (Top Right in the UI)
-   1. Configure the rules for `tree` and `\` as shown in the image below. (Bottom of the Mesh Mask/Reference list in the center)
-   1. Configure the rest of the options as shown in the image below. (Options box in the bottom)\
-      ![dyndolod](images/dyndolod.png)
+   1. Configure the rules for `tree` and `\` as shown in the image below.
+   1. Configure the rest of the options as shown in the image below.
+      1. Quality
+         ![dyndolod](images/dyndolod-quality.png)
+      1. Balanced
+         ![dyndolod](images/dyndolod-balanced.png)
    1. Click OK to build DynDOLOD output. (~50 minutes)
    1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
 
