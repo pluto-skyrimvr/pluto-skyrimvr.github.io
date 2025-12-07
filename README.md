@@ -400,7 +400,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130): Download the Main, Fishing Patch, Rare Curios Patch, Saints and Seducers Patch.\
 [Misc Apothecary Patches](https://www.nexusmods.com/skyrimspecialedition/mods/79641): Choose auto-selected patches(3DNPC, Book Covers Skyrim, Heritage 2) in the installer.\
 [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882): Download VR version.\
-[Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876): Download the Main, Fishing Patch, Simonrim Patches, Survival Patch, USSEP Patch.
+[Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876): Download the Main, Cooking Pots and Baking Ovens, Fishing Patch, Simonrim Patches, Survival Patch, USSEP Patch.
 
 ## Audio
 [Binaural 3D Surround Sound for Headphones - HRTF](https://www.nexusmods.com/skyrimspecialedition/mods/26916): Download VR version. Use Root Builder.\
