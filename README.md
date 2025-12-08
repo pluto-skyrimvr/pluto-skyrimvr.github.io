@@ -325,8 +325,8 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Yet Another Elders Modesty Mod-Skypatched](https://www.nexusmods.com/skyrimspecialedition/mods/130004)
 
 ## Loot and Encounter Zones
-[Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download the Main, WACCF and Armor and Clothing Extension patch.\
-[Open World Loot - Heritage Enemies 2 Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58277)\
+[Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Download the Main.\
+[Open World Loot 2.x Patches](https://www.nexusmods.com/skyrimspecialedition/mods/157537): Choose auto-selected patches(ACE, Heritage 2, WACCF) in the installer.\
 [Encounter Zones Unlocked SE](https://www.nexusmods.com/skyrimspecialedition/mods/19608): Download the VR version.\
 [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212)\
 [Enemies Respect Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/78847)
