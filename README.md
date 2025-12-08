@@ -667,9 +667,99 @@ SkyrimSE exe: (Root Builder) Create an empty mod. Make a copy of SkyrimVR.exe an
 </details>
 
 
-# INI Tweak Guide
-Work in progress.
 
+# INI Tweak Guide
+
+Download [Skyrim VR Configuration Tool](https://www.nexusmods.com/skyrimspecialedition/mods/16242): Install it where you manage your modding tools.
+
+Update the following INI values. Skyrim VR Configuration Tool will show every value in an integrated UI so that you don't have to edit the files manually.
+
+## SkyrimVR.ini
+```ini
+[Display]
+bCharacterLighting=0 (Disable Character Lighting because it makes character shiny in the dark.)
+
+[VR]
+bAllowVRCheating=1 (If not disabled, it will prevent the player from getting close to objects or characters.)
+bLoadVRPlayroom=0 (Disable VR playroom because it only causes problems in modded Skyrim.)
+
+[Imagespace]
+bDoRadialBlur=0 (Disable Motion blur. It is a bad effect and it probably does not even work in VR.)
+
+[VRUI]
+fNoteY=-1 (Fix the problem where notes being hidden behind UI.)
+
+[Controls]
+fDualCastMinDistance=20 (How far apart your hands must be to cast magic with dual hands. Magic Improvements for Skyrim VR doesn't handle it.)
+
+[Papyrus]
+fPostLoadUpdateTimeMS=2000.0000 (STEP recommended value.)
+iMaxAllocatedMemoryBytes=500000 (STEP recommended value.)
+
+[SaveGame]
+bDisableAutoSave=1 (Disable autosave because it sometimes disrupts mod scripts.)
+
+[Grass]
+fGrassFadeRange=6144.0000 (STEP recommended value.)
+```
+
+## SkyrimPrefs.ini
+```ini
+[Display]
+bEnableAutoDynamicResolution=0 (Disable Auto Dynamic Resolution because it looks bad.)
+bUsePrecipitationOcclusion=1 (Rain will not appear under the roofs.)
+iMaxSkinDecalsPerFrame=100 (STEP recommended value. Show effects like blood decals on skins.)
+iMaxDecalsPerFrame=250 (STEP recommended value.)
+
+[VRInput]
+bDirectMovementWithWands=1 (Use VR controller like a regular game controller instead of warping.)
+bGamepadLookAngleSnapping=0 (Disable snapping behavior of the controller.)
+
+[VRPerformance]
+iQualityPreset=2 (2 for High.)
+
+[GamePlay]
+iDifficulty=3 (3 for Expert. Recommdended by Simonrim players. Reduce the number if the game is too difficult.)
+
+[VR]
+bOneTimeCalibrationCompleted=1 (Disable Calibration/Tutorial.)
+
+[VRWand]
+bUseRealisticBowAiming=1 (Better than the default bow handling.)
+
+[Particles]
+iMaxDesired=6000 (Maximum particles to render. Recommended value by weather mods such as Azurite Weathers.)
+
+[TerrainManager]
+fTreeLoadDistance=0 (Irrelevant. Ultra Tree LOD bypasses Skyrim's default tree LOD system. By Setting it to 0, you can easily find out if DynDOLOD is working.)
+
+[VRComfort]
+bComfortModeWhileMoving=0 (Turn off VR comfort vignette.)
+bComfortModeWhileTurning=0 (Turn off VR comfrot vignette.)
+
+[Grass]
+fGrassStartFadeDistance=4096.0000 (STEP recommended value.)
+
+[LOD]
+fLODFadeOutMultObjects=7.0000 (LOD distance where objects starting to disappear. Increase it slightly from the default value 5.)
+fLODFadeOutMultActors=7.0000 (LOD distance where NPCs starting to disappear. Increase it slightly from the default value 6.)
+```
+
+## Do-Not-Change List
+```ini
+bVrMapMenuEnableFog: Disabling it used to fix the blue tint problem in world map mods but no longer works.
+fMaxTime: HIGGS handles it dynamically.
+fMaxTimeComplex: HIGGS handles it dynamically.
+uMaxNumPhysicsStepsPerUpdate: HIGGS handles it dynamically.
+iShadowUpdateFrameDelay: HIGGS handles it.
+bImmediatelyGrabObjectOnActivate: HIGGS handles it. Setting it to 0 was supposed to prevent picked-up items from being pulled to character.
+bLandspecular: Community Shader forcefully sets it to 1. Setting it 0 was supposed to reduce the terrain texture shimmering.
+bShadowsOnGrass: Setting it to 0 was supposed to improve the performance but it makes grass discolored.
+fNearDistance: VRIK handles it dynamically.
+bDrawLandShadows: Probably Community Shaders covers it.
+bTreesReceiveShadows: Probably Community Shaders covers it.
+bGamepadEnable: Disabling it used to prevent micro stutter when rotating. It doesn't seem necessary anymore.
+```
 
 # Post Install Process
 IMPORTANT: These post install process tools need to run via Mod Organizer 2 to identify the installed mods.
