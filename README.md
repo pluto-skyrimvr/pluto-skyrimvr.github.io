@@ -493,6 +493,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220): Download the matching version with Journeyman VR.\
 [Journeyman VR](https://www.nexusmods.com/skyrimspecialedition/mods/139443)\
 [Journeyman - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/148309)\
+[Fishing Preview](https://www.nexusmods.com/skyrimspecialedition/mods/107476)\
 [Fancy Fishing - Minigame and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/89352): Choose No rod(for VR), Install VR settings on by default plugin, default for the rest options in the installer.
 
 ## Economy
