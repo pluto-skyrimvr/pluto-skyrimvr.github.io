@@ -13,7 +13,7 @@ The modlist follows the actual load order of the mods. In other words, the mods 
 ## Mod Organizer 2 Plugins
 [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720): To keep the original Skyrim VR directory clean, you should start using Root Builder.\
 [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813): (Optional) You can compare the differnce between 3D meshes easily.\
-[NIF Preview DLL Fix](https://github.com/aglowinthefield/modorganizer-preview_nif/releases): The original DLL from NIF Preview is outdated and does not work with the latest Mod Organizer 2. Download preview_nif.dll.\
+[NIF Preview DLL Fix](https://github.com/aglowinthefield/modorganizer-preview_nif/releases): (Optional) The original DLL from NIF Preview is outdated and does not work with the latest Mod Organizer 2. Download `preview_nif.dll`.\
 [Bethesda Plugin Manager for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/111236): (Optional) You can see the plugin record conflicts easily.\
 [Bethesda Plugin Manager for Mod Organizer DLL Fix](https://www.mediafire.com/file/mi811ntoaswxb1f/bsplugins.dll/file): (Optional) The original DLL is outdated and does not work with the latest Mod Organizer 2.
 
@@ -40,11 +40,10 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [Skyrim VR OpenComposite Fixes Custom Build](https://www.nexusmods.com/skyrimspecialedition/mods/85389): (Optional)(Root Builder) It improves performance for the OpenXR devices such as Meta Quest by skipping SteamVR(OpenVR) layer. Download the Main, SkyUI VR Fix. Use Root builder for the Main only. A downside is that you cannot name your character in game because it does not have VR keyboard. You will have to edit its INI if you want to name your character.
 
 ## New Contents
-[Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576): Radiant quests in job boards.\
+[Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576): You need to set `fNoteY=-1` in `SkyrimVR.ini` to fix the problem of notes being hidden behind the UI. Follow the [INI Tweak Guide](#ini-tweak-guide) for the details.\
 [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788): Download Solstheim patch.\
 [Missives - Carriage and Ferry Travel Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44498)\
 [Missives - Notes Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46201): Download the main file and Solstheim addition.\
-[Missives VR Fix Guide](https://www.nexusmods.com/skyrimspecialedition/mods/32507): Follow the guide to fix UI issue. It's a simple INI tweak.\
 [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179): (Optional) I normally stick to the vanilla contents but this one is too good to skip.
 
 ## Survival
@@ -105,7 +104,7 @@ CC Content: Create an empty mod and follow the same guide as above to copy CC Co
 [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495): Download VR version.\
 [Save Unbaker VR](https://www.nexusmods.com/skyrimspecialedition/mods/86265)\
 [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561): This mod is a soft requirement for many mods. Modders often forget to mention it because not having it doesn't break critical things.\
-[RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080): Download the Anniversary edition in the Main. Delete SKSE directory to delete skee64.dll and skee64.ini.\
+[RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080): Download the Anniversary edition in the Main. Delete `SKSE` directory of this mod to delete `skee64.dll` and `skee64.ini`.\
 [RacemenuVR](https://www.nexusmods.com/skyrimspecialedition/mods/156898)\
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659): Download VR version.\
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339): Download Main. Do not download XML VR which is not for 3BA body. For my system, I choose VR, NOT CUDA, AVX, No MCM - Extreme performance in the installer. The best options depend on your CPU type. Read this [wiki](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX) and decide it for yourself.\
@@ -455,7 +454,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443): Choose True Light for Lighting Type, Regular for Dwemer Lights, everything for Additional lights, Regular Soulgems, Cathedral - 3D Deathbell ISL, Dim for Potion Light Intensity, CS Light for Magic effects ISL, Interior Windows Lights in the installer.\
 [iLluminous Elementals](https://www.nexusmods.com/skyrimspecialedition/mods/138128): Choose everything available in the installer.\
 [Window Shadows Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/150494): Choose Brightest for Window Glow, Normal for Light Rays, Faultier's PBR Windows in the installer.\
-[Window Emittance Consistency (WEC)](https://www.nexusmods.com/skyrimspecialedition/mods/158918): Choose WEC - Mild in the installer.\
+[Window Emittance Consistency (WEC)](https://www.nexusmods.com/skyrimspecialedition/mods/158918): Choose WEC - Mid(CS with Faultier) in the installer.\
 [Dynamic Interior Ambient Lighting (DIAL)](https://www.nexusmods.com/skyrimspecialedition/mods/149920): Choose Astralite, Default brightness, No for Seasonal Weathers Framework, No for Lux in the installer.
 
 ## Shaders
@@ -563,7 +562,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Dual Wield Block VR](https://www.nexusmods.com/skyrimspecialedition/mods/28456)\
 [VR Perk Extender](https://www.nexusmods.com/skyrimspecialedition/mods/16330): Fixes CTD when there are many perks.\
 [Haptic Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/20364): Haptic feedback on spellcasting is so good.\
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/43930): Disable shaders in SKSE/Plugins/higgs_vr.ini if you do not want to see the laser pointer and the bright highlights.\
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/43930): Set `DisableShaders = 1` and `DisableSelectionBeam = 1` in `SKSE/Plugins/higgs_vr.ini` if you don't want to see the laser pointer and the bright highlights.\
 [PLANCK - Physical Animation and Character Kinetics](https://www.nexusmods.com/skyrimspecialedition/mods/66025)\
 [Instant Equip VR](https://www.nexusmods.com/skyrimspecialedition/mods/44571)\
 [Immersive Draw Sheathe Sounds VR](https://www.nexusmods.com/skyrimspecialedition/mods/44992): Download the main file and Immersive Sounds Compendium patch.\
