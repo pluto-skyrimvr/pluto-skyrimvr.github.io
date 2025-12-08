@@ -444,7 +444,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Windhelm Improvements (Snowy Windhelm)](https://www.nexusmods.com/skyrimspecialedition/mods/27696): Choose Main files in the installer. The mod comes with LE version of meshes. Run NIF optimizer on the meshes if possible.\
 [Modern Hay - PBR and CM](https://www.nexusmods.com/skyrimspecialedition/mods/155815): Download PBR 2K version.\
 [Book Covers Skyrim PBR](https://www.nexusmods.com/skyrimspecialedition/mods/155254): Download Book Covers Skyrim PBR - Original.\
-[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival in the installer.
+[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085): Choose Embers XD Flames, High Quality effect, Normal particle light intensity, ESP + Master, Forges Add-on, Lava Craters Add-on, Remove Fake Glow, Solitude Braziers, SunHelm Survival, Survival Mode in the installer.
 
 ## Lighting
 [Ambient Templates for Lighting Mods](https://www.nexusmods.com/skyrimspecialedition/mods/153425): Choose VR, Yes for HDR, Level 65 for both in the installer.\
@@ -597,7 +597,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/90526): Choose Colorful Ingredients in the installer.\
 [Rotols More Icons](https://www.nexusmods.com/skyrimspecialedition/mods/113657)\
 [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076)\
-[Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219): Choose "Any other supported overhauls" for Aetherius, No for Survival Mode in the installer.\
+[Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219): Choose "Any other supported overhauls" for Aetherius, Yes for Survival Mode in the installer.\
 [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780): Choose "One of supported overhauls" for Mundus in the installer.\
 [Double Check Before Selling](https://www.nexusmods.com/skyrimspecialedition/mods/103597)\
 [Double Check Before Selling AE](https://www.nexusmods.com/skyrimspecialedition/mods/103735)
