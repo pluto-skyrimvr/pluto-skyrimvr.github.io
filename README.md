@@ -167,7 +167,7 @@ ccQDRSSE001-SurvivalMode.esl
 ## Texture and Mesh (Misc)
 [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901)\
 [CC's HQ Roadsigns SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2778): Download HD.\
-[WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Movable by the wind version in the installer. Choose Interesting NPCs patch in the installer.\
+[WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481): Choose Static version, auto-selected patches(Interesting NPC) in the installer.\
 [SD's Farmhouse Fences SE](https://www.nexusmods.com/skyrimspecialedition/mods/38912): Download 2k Farmhouse Fences SE Version 2.\
 [LeanWolf's Better-Shaped Talos Statue with Greatsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/4752): Choose High-Poly Statue, Nord Hero Greatsword in the installer.
 
