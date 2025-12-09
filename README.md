@@ -1022,9 +1022,8 @@ Download: [ACMOS Road Generator](https://www.nexusmods.com/skyrimspecialedition/
 
 Download: [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
 
-DynDOLOD settings are up to your your hardware. Below are my settings for medium-high quality LOD. If you want to learn more, I would recommend you to read [the official DynDOLOD guide](https://dyndolod.info/Generation-Instructions) or [the STEP project document.](https://stepmodifications.org/wiki/SkyrimSE:2.2.0#DynDOLOD)
+DynDOLOD settings are up to your your hardware. Below are my settings for medium-high quality LOD. If you want to learn more, I would recommend reading [the official DynDOLOD guide](https://dyndolod.info/Generation-Instructions) or [the STEP project document.](https://stepmodifications.org/wiki/SkyrimSE:2.2.0#DynDOLOD)
 
-1. Make sure to enable the patches that were built in the previous steps.
 1. Update these two values (Expert=1, Level32=1) in `DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.` file.
 1. Make sure to enable the patches that were built in the previous steps.
 1. Launch Texgen in MO2. (arguments: `-tes5vr`)
@@ -1040,7 +1039,7 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
    1. Configure the rest of the options as shown in the image below.
       1. Quality
          ![dyndolod](images/dyndolod-quality.png)
-      1. Balanced
+      1. Balanced(Recommended)
          ![dyndolod](images/dyndolod-balanced.png)
    1. Click OK to build DynDOLOD output. (~50 minutes)
    1. DynDOLOD output zip is a regular Skyrim mod. Install and enable the mod.
@@ -1050,12 +1049,17 @@ DynDOLOD settings are up to your your hardware. Below are my settings for medium
 
 ## Recommended Initial Mod Settings
 
-1. When the game starts, create your chracter and wait until the mod initialization process completes. The scrolling notification messages on the top left screen will stop in 1-2 mins approximately.
-1. Save the game just in case.
+1. When the new game starts, create your chracter.
+1. The game will ask if you want to choose Ralof or Hadvar. Wait until the scrolling notification messages on the top left screen stops. (~1 min)
+1. Choose Ralof or Hadvar. You will be teleported to the starting cell in Helgen.
+1. You will see more scrolling notification messages. Wait until the messages stop. (~1 min)
+1. Approach the NPC so that he can uncuff you. Once you are uncuffed, you should be able to see your hands.
 1. Open the mod settings and change the following options.
    1. NFF(Nether's Follower Framework)
       1. Activity: Enable `Only Sandbox in Town`. (This is to prevent followers from sandboxing in hostile dungeons.)
       1. Gameplay: Disable `Allow Gift Giving` in Regard System. (I find the gifting too frequent and annoying.)
+   1. OCum Ascended
+      1. Main: Enable external overlays.
    1. OStim Standalone
       1. Excitement: Disable `Player HUD bar` and `NPC HUD bar` in Excitement Bars. Set End scene condition as you prefer.
       1. Undressing: Enable `S. 31 Head/hair` and `S. 52 Extra pelvis piece 2` in Underssing slots. (S. 52 is used by bottom pieces from TAWOBA and TEWOBA.)
