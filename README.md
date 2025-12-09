@@ -20,8 +20,44 @@ The modlist follows the actual load order of the mods. In other words, the mods 
 # Mod List
 
 ## Master Files
-SSE Master Files: Create an empty mod and follow this [guide](https://www.nexusmods.com/skyrimspecialedition/articles/6529) to copy the latest master files from Skyrim Special Edition.\
-CC Content: Create an empty mod and follow the same guide as above to copy CC Content files.\
+SE Master Files: Create an empty mod called `SE Master Files` and copy the master files from the `Data` directory of Skyrim Special Edition or Anniversary Edition except `MarketplaceTextures.bsa` and `cc*` files. The list of the files is as below. If you need the detailed guide, read [this](https://www.nexusmods.com/skyrimspecialedition/articles/6529).
+```ini
+_ResourcePack.bsa
+_ResourcePack.esl
+Dawnguard.esm
+Dragonborn.esm
+HearthFires.esm
+Skyrim - Animations.bsa
+Skyrim - Interface.bsa
+Skyrim - Meshes0.bsa
+Skyrim - Meshes1.bsa
+Skyrim - Misc.bsa
+Skyrim - Shaders.bsa
+Skyrim - Sounds.bsa
+Skyrim - Textures0.bsa
+Skyrim - Textures1.bsa
+Skyrim - Textures2.bsa
+Skyrim - Textures3.bsa
+Skyrim - Textures4.bsa
+Skyrim - Textures5.bsa
+Skyrim - Textures6.bsa
+Skyrim - Textures7.bsa
+Skyrim - Textures8.bsa
+Skyrim - Voices_en0.bsa
+Skyrim.esm
+Update.esm
+```
+CC Content: Create an empty mod called `CC Content` and copy the files that start with `cc` from the `Data` directory of Skyrim Special Edition or Anniversary Edition. The list of the files is as below if you have Special Edition.
+```ini
+ccBGSSSE001-Fish.bsa
+ccBGSSSE001-Fish.esm
+ccBGSSSE025-AdvDSGS.bsa
+ccBGSSSE025-AdvDSGS.esm
+ccBGSSSE037-Curios.bsa
+ccBGSSSE037-Curios.esl
+ccQDRSSE001-SurvivalMode.bsa
+ccQDRSSE001-SurvivalMode.esl
+```
 [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049): Download Disable Permanently version.
 
 ## Core
