@@ -257,9 +257,9 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [BnP - Male Skin](https://www.nexusmods.com/skyrimspecialedition/mods/65402): Download 4K version. Choose Mature face normal, Moles, Moles with pubes, Moles standard with pubes, Dovakini, No Makeup, Pubes, Natural schlong, Veiny normal, 4 for vampire diffuse face, Humanlike vampire normal, No frost, Standard Sk in the installer.\
 [Masculine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/186): Download SOS Full 2K version.\
 [Masculine Argonian Textures (Chameleon and Lizard)](https://www.nexusmods.com/skyrimspecialedition/mods/185): Download SOS Full 2K version.\
-[Feminine Khajiit Textures (Grey Cat and Leopard) [CBBE]](https://www.nexusmods.com/skyrimspecialedition/mods/183): Download CBBE 2K version.\
-[Feminine Argonian Textures (Chameleon and Lizard) [CBBE]](https://www.nexusmods.com/skyrimspecialedition/mods/184): Download CBBE 2K version.\
-[Reverie - Skin](https://www.nexusmods.com/skyrimspecialedition/mods/184): Choose Sleek, Youthful, Natural, ECE Face, CBBE Body in the installer.
+[Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183): Download CBBE 2K version.\
+[Feminine Argonian Textures (Chameleon and Lizard)](https://www.nexusmods.com/skyrimspecialedition/mods/184): Download CBBE 2K version.\
+[Reverie - Skin](https://www.nexusmods.com/skyrimspecialedition/mods/64314): Choose Sleek, Youthful, Natural, ECE Face, CBBE Body in the installer.
 
 ## Followers
 [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653): Choose Skyrim Special Edition. Choose Followers Avoid Traps, Replace Base Dialogue Scripts in Core options. Choose Interesting NPCs, RDO, RDO Comments. Choose Friendly Fire in Spell Perk Item Distributor Files.\
