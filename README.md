@@ -223,8 +223,6 @@ ccQDRSSE001-SurvivalMode.esl
 [Windhelm Entrance Offset Fix - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/98207)\
 [Sovngarde Meshes - FIXES](https://www.nexusmods.com/skyrimspecialedition/mods/150539): Download the Parallax version.\
 [Dawnguard Fortress Improved](https://www.nexusmods.com/skyrimspecialedition/mods/9221)\
-[Rally's Solstheim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/36893): Choose 2K, LODs 512 and keep everything else as default in the installer.\
-[Rally's Solstheim - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/51905): Download ParallaxGen version.\
 [Tomato's PBR Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/135771): Download PBR 2k version.\
 [Tomato's Riften and Ratway](https://www.nexusmods.com/skyrimspecialedition/mods/157340): Download PBR 2K version.\
 [Exist's Farmhouses - PBR Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/111230): Download PBR 2k version.\
