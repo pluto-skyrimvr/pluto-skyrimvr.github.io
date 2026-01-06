@@ -464,7 +464,7 @@ Any CBBE 3BA bodyslide presets you like will be okay. Here is the list of some f
 [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939): Choose default in the installer.\
 [A Patch For Deadly Spell Impacts and Audio Overhaul - Immersive Sounds Integration](https://www.nexusmods.com/skyrimspecialedition/mods/57465): Download the Main.\
 [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)\
-[Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Download 2x impact effects.\
+[Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831): Choose Vanilla for Grindstone, 2X Sparks for Impact Effects in the installer.\
 [Rally's Candlelight and Magelight Fix SE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/36594): Choose No Glow for Candlelight, No Glow for Magelight, No Glow for Mysticism Patch in the installer.\
 [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808)\
 [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924)\
